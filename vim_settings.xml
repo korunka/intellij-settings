@@ -132,8 +132,8 @@
         <mark key="." line="77" column="47" />
         <mark key="^" line="77" column="47" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/config.local.neon" timestamp="1455627166959">
-        <mark key="[" line="83" column="19" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/config.local.neon" timestamp="1455627479180">
+        <mark key="[" line="74" column="30" />
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -617,6 +617,9 @@
         <mark key="]" line="82" column="28" />
         <mark key="." line="82" column="28" />
         <mark key="^" line="82" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/parameters.neon" timestamp="1455627491584">
+        <mark key="[" line="286" column="38" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Supertiket.php" timestamp="1449059366007">
         <mark key="[" line="45" column="49" />
