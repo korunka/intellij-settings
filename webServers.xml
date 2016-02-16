@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94c97e26-be2c-410f-ac42-004b8af86180" name="DEV2" url="http://www.ondra.dev2.korunka.eu">
+        <fileTransfer host="dev2.korunka.eu" port="22" privateKey="C:\Users\Ondřej\.ssh\id_ondra_chance" rootFolder="/home/ondra/workdirs/www" accessType="SFTP" username="ondra" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="db571a80-483a-41eb-b593-7345b4da82a0" name="DEV2 - Velka hra" url="http://dev2.korunka.eu">
+        <fileTransfer host="dev2.korunka.eu" port="22" privateKey="C:\Users\Ondřej\.ssh\id_ondra_chance" rootFolder="/home/ondra" accessType="SFTP" username="ondra" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
