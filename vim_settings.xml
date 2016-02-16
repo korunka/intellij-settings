@@ -655,7 +655,6 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/S2Loader/Filter/Macchiatto/Macros.php" timestamp="1455632018033" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/vsadit-tiket-column.js" timestamp="1446646771539">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="44" column="8" />
@@ -711,7 +710,7 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455633353895">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455633987528">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
@@ -942,19 +941,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>block</text>
       </register>
-      <register name="0" type="4">
-        <text>color: &quot;{{$macchiatto['korunkaFialova']}}&quot;;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSMgPT09PT09PT09PT09PT09PT09PT09PT09eyBwcm9tbyBiYW5uZXJ5IG5hIHdlYnUgfT09PT09PT09PT09PT09PT09PT09PT09ICMKCWJhbm5lcjoKCQkjIG5hc3RhdmVu7SBu4Xp2dSBzb3Vib3J1IHMgcmVrbGFtbu1tIGJhbm5lcmVtLgoJCSNpbWFnZTogJ2Jhbm5lcnkvYmdfcHJvbW9fc2tvZGEtcmFwaWQucG5nJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>'</text>
+        <text>#</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -983,7 +982,7 @@
         <text>'</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">IA==</text>
