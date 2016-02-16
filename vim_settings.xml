@@ -710,8 +710,8 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455633987528">
-        <mark key="[" line="36" column="8" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455634760930">
+        <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
         <mark key="." line="36" column="8" />
@@ -1003,7 +1003,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1051,10 +1051,10 @@
         <entry>e</entry>
         <entry>ea</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
