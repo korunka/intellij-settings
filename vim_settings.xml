@@ -1001,7 +1001,7 @@
         <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -1048,11 +1048,11 @@
         <entry>wqa</entry>
         <entry>e</entry>
         <entry>ea</entry>
-        <entry>qa</entry>
         <entry>q</entry>
         <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
