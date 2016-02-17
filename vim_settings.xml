@@ -359,6 +359,7 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/package.json" timestamp="1455726540216" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="29" column="34" />
@@ -591,6 +592,9 @@
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/.gitignore" timestamp="1455726522448">
+        <mark key="[" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.pobocky.latte" timestamp="1451996260870">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="160" />
@@ -793,6 +797,7 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/bin/www" timestamp="1455726558809" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientEmailGenerator/KlientEmailGenerator.php" timestamp="1452518207375">
         <mark key="[" line="259" column="39" />
         <mark key="]" line="258" column="40" />
