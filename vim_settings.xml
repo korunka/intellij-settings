@@ -336,6 +336,7 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/index.html" timestamp="1455722508423" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/css/korunkarControl.css" timestamp="1451994729452">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="9" />
@@ -597,11 +598,17 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/app/app.component.ts" timestamp="1455720346912">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="33" />
-        <mark key="^" line="4" column="33" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/app/main.ts" timestamp="1455722705162">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/app/app.component.ts" timestamp="1455725398800">
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/korunka.vsadit-tiket-column.js" timestamp="1446646705347">
         <mark key="[" line="10" column="19" />
@@ -954,20 +961,20 @@
       <jump line="242" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJuYW1lIjogImFwcGxpY2F0aW9uLW5hbWUiLAogICJ2ZXJzaW9uIjogIjAuMC4xIgp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>h_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJtb2R1bGUiOiAic3lzdGVtIiwK</text>
+        <text encoding="base64">ICAgICAgICA8aDI+TXkgaGVyb2VzPC9oMj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ewogICJuYW1lIjogImFwcGxpY2F0aW9uLW5hbWUiLAogICJ2ZXJzaW9uIjogIjAuMC4xIgp9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -993,25 +1000,25 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2PjxsYWJlbD5pZDo8L2xhYmVsPiB7e2hlcm8uaWR9fTwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsYWJlbD5uYW1lOjwvbGFiZWw+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0iaGVyby5uYW1lIiBwbGFjZWhvbGRlcj0ibmFtZSI+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="3" type="4">
+        <text>{{hero.name}}</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ewogICJuYW1lIjogImFwcGxpY2F0aW9uLW5hbWUiLAogICJ2ZXJzaW9uIjogIjAuMC4xIgp9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IENyZWF0ZWQgYnkgT25k+GVqIG9uIDE3LjAyLjIwMTYuCiAqLwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>*</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTcuMDIuMjAxNi4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">LyoqCg==</text>
