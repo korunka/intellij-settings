@@ -310,6 +310,9 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455705723649">
+        <mark key="'" line="242" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
         <mark key="]" line="320" column="40" />
@@ -686,11 +689,12 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" timestamp="1455632929959">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" timestamp="1455705714017">
+        <mark key="'" line="297" column="21" />
+        <mark key="[" line="53" column="69" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="46" column="86" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455634760930">
         <mark key="[" line="36" column="10" />
@@ -822,9 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="57" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="59" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
       <jump line="79" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
       <jump line="80" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
       <jump line="94" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
@@ -869,7 +870,6 @@
       <jump line="91" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
       <jump line="247" column="4" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="272" column="32" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
-      <jump line="242" column="38" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="257" column="38" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="267" column="38" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="254" column="24" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
@@ -922,22 +922,26 @@
       <jump line="35" column="50" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/css/sazka-totals-control.css" />
       <jump line="66" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/css/sazka-totals-control.css" />
       <jump line="24" column="39" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/css/sazka-totals-control.css" />
+      <jump line="80" column="95" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="62" column="12" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="297" column="21" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="242" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
-        <text>block</text>
+        <text>h_table</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CSMgPT09PT09PT09PT09PT09PT09PT09PT09eyBwcm9tbyBiYW5uZXJ5IG5hIHdlYnUgfT09PT09PT09PT09PT09PT09PT09PT09ICMKCWJhbm5lcjoKCQkjIG5hc3RhdmVu7SBu4Xp2dSBzb3Vib3J1IHMgcmVrbGFtbu1tIGJhbm5lcmVtLgoJCSNpbWFnZTogJ2Jhbm5lcnkvYmdfcHJvbW9fc2tvZGEtcmFwaWQucG5nJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -963,37 +967,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>c</text>
       </register>
       <register name="5" type="4">
-        <text>#</text>
+        <text>6</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text>2</text>
       </register>
       <register name="7" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>3</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>block</last-search>
+      <last-search>h_table</last-search>
       <last-offset />
-      <last-pattern>block</last-pattern>
+      <last-pattern>h_table</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1001,7 +1005,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidXR0b25cPg==</entry>
         <entry encoding="base64">LmJ1dHRvbiA=</entry>
         <entry>msg_</entry>
         <entry encoding="base64">XDxrb21wb25lbnR5U2F6a2FUb3RhbHNcPg==</entry>
@@ -1021,6 +1024,7 @@
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtSG9kbm90YVw+</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtTWVuYVw+</entry>
         <entry>block</entry>
+        <entry>h_table</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1037,8 +1041,8 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
