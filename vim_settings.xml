@@ -222,10 +222,11 @@
         <mark key="^" line="52" column="163" />
         <mark key="." line="52" column="163" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455810557832">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455811451931">
+        <mark key="[" line="87" column="39" />
+        <mark key="]" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+        <mark key="^" line="87" column="34" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualniQuery.php" timestamp="1452089510446">
         <mark key="[" line="13" column="10" />
@@ -709,11 +710,8 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero.service.ts" timestamp="1455810499591">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="38" />
-        <mark key="^" line="7" column="38" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero.service.ts" timestamp="1455811376380">
+        <mark key="[" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/vsadit-tiket-column.js" timestamp="1446646771539">
         <mark key="[" line="25" column="17" />
@@ -1010,7 +1008,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmhlcm9lcyA9IHRoaXMuX2hlcm9TZXJ2aWNlLmdldEhlcm9lcygpOwo=</text>
+        <text encoding="base64">ICAgIGdldEhlcm9lcygpIHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKEhFUk9FUyk7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1019,7 +1017,7 @@
         <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl1cmw6IGZhbHNlICMgZmFsc2UgPSCe4WRu6SBsaW5rb3bhbu0K</text>
+        <text encoding="base64">ICAgIGdldEhlcm9lcygpIHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKEhFUk9FUyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLmhlcm9lcyA9IHRoaXMuX2hlcm9TZXJ2aWNlLmdldEhlcm9lcygpOwo=</text>
