@@ -57,11 +57,6 @@
         <mark key="^" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.hoptrop.latte" timestamp="1455567809336">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/fixtures/cs/cms_09_menu_04_korunka_eu.sql" timestamp="1449047910172">
         <mark key="[" line="134" column="426" />
         <mark key="]" line="134" column="426" />
@@ -115,6 +110,9 @@
         <mark key="]" line="21" column="4" />
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/base.js" timestamp="1455801274661">
+        <mark key="[" line="297" column="6" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Chette/Latte/Macros/UIMacros.php" timestamp="1453988818646">
         <mark key="[" line="416" column="86" />
@@ -600,11 +598,6 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/src/sestavovac.js" timestamp="1455698736708">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="17" />
-        <mark key="." line="10" column="17" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/SoutezePresenter.mesicnihra.latte" timestamp="1452505177606">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="27" column="22" />
@@ -662,11 +655,6 @@
         <mark key="]" line="82" column="28" />
         <mark key="." line="82" column="28" />
         <mark key="^" line="82" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/parameters.neon" timestamp="1455630164085">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Supertiket.php" timestamp="1449059366007">
         <mark key="[" line="45" column="49" />
@@ -752,7 +740,7 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455800538836">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455801204487">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
@@ -782,11 +770,6 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="37" column="7" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/LosovaniActionControl/components/VylosovanaCislaForm/templates/VylosovanaCislaForm.zverejneni.latte" timestamp="1448382424850">
         <mark key="[" line="4" column="101" />
         <mark key="]" line="4" column="64" />
@@ -798,11 +781,6 @@
         <mark key="]" line="129" column="23" />
         <mark key="^" line="129" column="23" />
         <mark key="." line="129" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/UhodniVyhrajControl/css/uhodni-vyhraj.css" timestamp="1455710433448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
