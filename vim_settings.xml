@@ -150,7 +150,6 @@
         <mark key="^" line="78" column="8" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/npm-debug.log" timestamp="1455732187269" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SpoustaStastnychControl/css/SpoustaStastnychControl.css" timestamp="1449252663864">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="17" />
@@ -223,11 +222,10 @@
         <mark key="^" line="52" column="163" />
         <mark key="." line="52" column="163" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455731562323">
-        <mark key="[" line="67" column="2" />
-        <mark key="]" line="66" column="2" />
-        <mark key="^" line="66" column="2" />
-        <mark key="." line="66" column="2" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455810557832">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualniQuery.php" timestamp="1452089510446">
         <mark key="[" line="13" column="10" />
@@ -356,6 +354,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/mock-heroes.ts" timestamp="1455809333061">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/.gitignore" timestamp="1446923027354">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="26" column="8" />
@@ -374,7 +378,6 @@
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/package.json" timestamp="1455728681377" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="29" column="34" />
@@ -552,7 +555,6 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/routes/index.js" timestamp="1455731812981" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/untitled1/package.json" timestamp="1455696274208">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="15" />
@@ -642,7 +644,6 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/views/layout.hbs" timestamp="1455731745008" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="11" />
@@ -707,6 +708,12 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero.service.ts" timestamp="1455810499591">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="38" />
+        <mark key="^" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/vsadit-tiket-column.js" timestamp="1446646771539">
         <mark key="[" line="25" column="17" />
@@ -838,7 +845,6 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/bin/www" timestamp="1455726558809" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientEmailGenerator/KlientEmailGenerator.php" timestamp="1452518207375">
         <mark key="[" line="259" column="39" />
         <mark key="]" line="258" column="40" />
@@ -1004,7 +1010,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKAoJCSdjbGljaycsCgkJJyNibG9rLTAyLXByb21vJywKCQkJZnVuY3QKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmhlcm9lcyA9IHRoaXMuX2hlcm9TZXJ2aWNlLmdldEhlcm9lcygpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1016,7 +1022,7 @@
         <text encoding="base64">CQl1cmw6IGZhbHNlICMgZmFsc2UgPSCe4WRu6SBsaW5rb3bhbu0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKAoJCSdjbGljaycsCgkJJyNibG9rLTAyLXByb21vJywKCQkJZnVuY3QKCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmhlcm9lcyA9IHRoaXMuX2hlcm9TZXJ2aWNlLmdldEhlcm9lcygpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1042,28 +1048,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICogS2xpa+Fu7SBuYSBiYW5uZXJ5IHBvIHN0cmFu4WNoIGEgb2RrYXpvduFu7SBuYSBwcm9wYWdvdmFu6SBzdHLhbmt5LgoJICovCgkkKGRvY3VtZW50KS5vbigKCQknY2xpY2snLAoJCScjYmxvay0wMi1wcm9tbycsCgkJZnVuY3Rpb24gKGV2ZW50KSB7CgkJCWlmIChldmVudC5jdXJyZW50VGFyZ2V0ID09PSBldmVudC50YXJnZXQpIHsKCQkJCXZhciBwcm9tb1VybCA9IEtPUlVOS0EuTWFjY2hpYXR0by5nZXRWYXJpYWJsZSgnYmFubmVyLnVybCcsIGZhbHNlKTsKCQkJCWlmIChwcm9tb1VybCkgewoJCQkJCXdpbmRvdy5vcGVuKHByb21vVXJsLCdfYmxhbmsnKTsKCQkJCX0KCQkJfQoJCX0KCSk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIHRpdGxlID0gJ1RvdXIgb2YgSGVyb2VzJzsKICAgIHB1YmxpYyBzZWxlY3RlZEhlcm86SGVybzsKICAgIHB1YmxpYyBoZXJvZXMgPSBIRVJPRVM7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>#</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDIuMjAxNi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl1cmw6ICdodHRwczovL3d3dy5rb3J1bmthLmV1L29kbWVueS16YS12ZXJub3N0L3ZlbGthLWhyYS8nCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>y</text>
+      <register name="6" type="2">
+        <text encoding="base64">CnZhciBIRVJPRVM6IEhlcm9bXSA9IFsKICAgIHsiaWQiOiAxMSwgIm5hbWUiOiAiTXIuIE5pY2UifSwKICAgIHsiaWQiOiAxMiwgIm5hbWUiOiAiTmFyY28ifSwKICAgIHsiaWQiOiAxMywgIm5hbWUiOiAiQm9tYmFzdG8ifSwKICAgIHsiaWQiOiAxNCwgIm5hbWUiOiAiQ2VsZXJpdGFzIn0sCiAgICB7ImlkIjogMTUsICJuYW1lIjogIk1hZ25ldGEifSwKICAgIHsiaWQiOiAxNiwgIm5hbWUiOiAiUnViYmVyTWFuIn0sCiAgICB7ImlkIjogMTcsICJuYW1lIjogIkR5bmFtYSJ9LAogICAgeyJpZCI6IDE4LCAibmFtZSI6ICJEciBJUSJ9LAogICAgeyJpZCI6IDE5LCAibmFtZSI6ICJNYWdtYSJ9LAogICAgeyJpZCI6IDIwLCAibmFtZSI6ICJUb3JuYWRvIn0KXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXdpbmRvdy5vcGVuKCdodHRwOi8vd3d3LmtvcnVua2EuZXUvb2RtZW55LXphLXZlcm5vc3QnLCdfYmxhbmsnKTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE4LjAyLjIwMTYuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXByb21vVXJsID0gTWFjY2hpYXR0by5nZXRWYXJpYWJsZQo=</text>
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKAoJCSdjbGljaycsCgkJJyNibG9rLTAyLXByb21vJywKCQkJZnVuY3QKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWRlYnVnLmRlYnVnKCdnb29kJyk7Cg==</text>
+        <text encoding="base64">CS8qKgoJICogS2xpa+Fu7SBuYSBiYW5uZXJ5IHBvIHN0cmFu4WNoIGEgb2RrYXpvduFu7SBuYSBwcm9wYWdvdmFu6SBzdHLhbmt5LgoJICovCgkkKGRvY3VtZW50KS5vbigKCQknY2xpY2snLAoJCScjYmxvay0wMi1wcm9tbycsCgkJZnVuY3Rpb24gKGV2ZW50KSB7CgkJCWlmIChldmVudC5jdXJyZW50VGFyZ2V0ID09PSBldmVudC50YXJnZXQpIHsKCQkJCXZhciBwcm9tb1VybCA9IEtPUlVOS0EuTWFjY2hpYXR0by5nZXRWYXJpYWJsZSgnYmFubmVyLnVybCcsIGZhbHNlKTsKCQkJCWlmIChwcm9tb1VybCkgewoJCQkJCXdpbmRvdy5vcGVuKHByb21vVXJsLCdfYmxhbmsnKTsKCQkJCX0KCQkJfQoJCX0KCSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
