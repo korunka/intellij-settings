@@ -234,11 +234,11 @@
         <mark key="^" line="52" column="163" />
         <mark key="." line="52" column="163" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455812808047">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1455813373572">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualniQuery.php" timestamp="1452089510446">
         <mark key="[" line="13" column="10" />
@@ -1082,7 +1082,7 @@
         <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDIuMjAxNi4K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1132,8 +1132,8 @@
         <entry>wqa</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
