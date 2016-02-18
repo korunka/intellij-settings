@@ -324,13 +324,6 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455710416624">
-        <mark key="'" line="242" column="0" />
-        <mark key="[" line="167" column="59" />
-        <mark key="]" line="162" column="82" />
-        <mark key="." line="162" column="82" />
-        <mark key="^" line="162" column="82" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
         <mark key="]" line="320" column="40" />
@@ -759,14 +752,7 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" timestamp="1455705714017">
-        <mark key="'" line="297" column="21" />
-        <mark key="[" line="53" column="69" />
-        <mark key="]" line="46" column="86" />
-        <mark key="." line="46" column="86" />
-        <mark key="^" line="46" column="86" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455634760930">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455800538836">
         <mark key="[" line="36" column="10" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
