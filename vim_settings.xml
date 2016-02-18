@@ -39,11 +39,10 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/templates/layout.korunka.latte" timestamp="1455630588311">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="15" />
-        <mark key="." line="41" column="15" />
-        <mark key="^" line="41" column="15" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/templates/layout.korunka.latte" timestamp="1455806693258">
+        <mark key="]" line="116" column="29" />
+        <mark key="^" line="116" column="29" />
+        <mark key="." line="116" column="29" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/MojeKontoPresenter.korunkarmesice.latte" timestamp="1452514782266">
         <mark key="[" line="8" column="39" />
@@ -56,6 +55,11 @@
         <mark key="]" line="400" column="0" />
         <mark key="^" line="400" column="0" />
         <mark key="." line="400" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.hoptrop.latte" timestamp="1455567809336">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/fixtures/cs/cms_09_menu_04_korunka_eu.sql" timestamp="1449047910172">
         <mark key="[" line="134" column="426" />
@@ -111,8 +115,10 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/base.js" timestamp="1455801274661">
-        <mark key="[" line="297" column="6" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/base.js" timestamp="1455806926879">
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="314" column="6" />
+        <mark key="." line="300" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Chette/Latte/Macros/UIMacros.php" timestamp="1453988818646">
         <mark key="[" line="416" column="86" />
@@ -235,9 +241,6 @@
         <mark key="." line="28" column="48" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/readme.md" timestamp="1455696927701">
-        <mark key="[" line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/VyplatyActionControl/templates/VyplatyActionControl.detail.latte" timestamp="1446652762729">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="73" />
@@ -322,6 +325,13 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455804246175">
+        <mark key="'" line="166" column="9" />
+        <mark key="[" line="174" column="39" />
+        <mark key="]" line="174" column="43" />
+        <mark key="." line="174" column="43" />
+        <mark key="^" line="174" column="43" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
         <mark key="]" line="320" column="40" />
@@ -352,10 +362,11 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/src/index.html" timestamp="1455698939721">
-        <mark key="]" line="24" column="10" />
-        <mark key="^" line="24" column="10" />
-        <mark key="." line="24" column="10" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ShrnutiControl/css/shrnuti.css" timestamp="1455804795428">
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="61" />
+        <mark key="^" line="27" column="61" />
+        <mark key="." line="27" column="61" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455719267877">
         <mark key="[" line="26" column="3" />
@@ -424,6 +435,9 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" timestamp="1455804155081">
+        <mark key="'" line="196" column="75" />
+      </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/README.md" timestamp="1446849635795">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="24" />
@@ -441,11 +455,6 @@
         <mark key="]" line="25" column="34" />
         <mark key="^" line="25" column="34" />
         <mark key="." line="25" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/typings.json" timestamp="1455719196686">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/css/souteze.css" timestamp="1453124753573">
         <mark key="[" line="12" column="108" />
@@ -465,11 +474,11 @@
         <mark key="." line="170" column="60" />
         <mark key="^" line="170" column="60" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.neon" timestamp="1455633403925">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.neon" timestamp="1455806721302">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
+        <mark key="^" line="17" column="14" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/KlientInfoControl.php" timestamp="1455521680556">
         <mark key="[" line="288" column="46" />
@@ -598,14 +607,16 @@
         <mark key="." line="6" column="59" />
         <mark key="^" line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/src/sestavovac.js" timestamp="1455698736708">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/SoutezePresenter.mesicnihra.latte" timestamp="1452505177606">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="27" column="22" />
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-nodejs/.gitignore" timestamp="1455726522448">
-        <mark key="[" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.pobocky.latte" timestamp="1451996260870">
         <mark key="[" line="9" column="0" />
@@ -655,6 +666,11 @@
         <mark key="]" line="82" column="28" />
         <mark key="." line="82" column="28" />
         <mark key="^" line="82" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/parameters.neon" timestamp="1455630164085">
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Supertiket.php" timestamp="1449059366007">
         <mark key="[" line="45" column="49" />
@@ -740,8 +756,16 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455801204487">
-        <mark key="[" line="36" column="10" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" timestamp="1455805519988">
+        <mark key="'" line="297" column="21" />
+        <mark key="[" line="53" column="69" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="46" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455806649246">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="37" column="8" />
         <mark key="]" line="36" column="8" />
         <mark key="^" line="36" column="8" />
         <mark key="." line="36" column="8" />
@@ -770,6 +794,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="37" column="7" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/LosovaniActionControl/components/VylosovanaCislaForm/templates/VylosovanaCislaForm.zverejneni.latte" timestamp="1448382424850">
         <mark key="[" line="4" column="101" />
         <mark key="]" line="4" column="64" />
@@ -781,6 +810,15 @@
         <mark key="]" line="129" column="23" />
         <mark key="^" line="129" column="23" />
         <mark key="." line="129" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/UhodniVyhrajControl/css/uhodni-vyhraj.css" timestamp="1455710433448">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1455806048338">
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="87" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
@@ -837,9 +875,6 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/untitled1/src/sestavovac.js" timestamp="1455696295916">
-        <mark key="[" line="3" column="23" />
-      </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/seznam-spokojenych-klientu.html" timestamp="1447079301701">
         <mark key="[" line="41" column="63" />
         <mark key="]" line="73" column="46" />
@@ -866,12 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="94" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="95" column="84" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="64" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="68" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
-      <jump line="70" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.korunka.latte" />
       <jump line="31" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="41" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="42" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
@@ -966,22 +995,28 @@
       <jump line="297" column="21" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
       <jump line="242" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="11" column="18" filename="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" />
+      <jump line="59" column="55" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" />
+      <jump line="68" column="60" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" />
+      <jump line="186" column="129" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" />
+      <jump line="196" column="75" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" />
+      <jump line="166" column="9" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
+      <jump line="37" column="8" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge2lkOiAxLCBjaXNsYTogWzEsMiwzLDQsNSw2XX0sICAgICAgCg==</text>
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKAoJCSdjbGljaycsCgkJJyNibG9rLTAyLXByb21vJywKCQkJZnVuY3QKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>h_table</text>
+        <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAge2lkOiAxLCBjaXNsYTogWzEsMiwzLDQsNSw2XX0sICAgICAgCg==</text>
+        <text encoding="base64">CQl1cmw6IGZhbHNlICMgZmFsc2UgPSCe4WRu6SBsaW5rb3bhbu0K</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKAoJCSdjbGljaycsCgkJJyNibG9rLTAyLXByb21vJywKCQkJZnVuY3QKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1007,47 +1042,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE3LjAyLjIwMTYuCiAqLwo=</text>
+        <text encoding="base64">CS8qKgoJICogS2xpa+Fu7SBuYSBiYW5uZXJ5IHBvIHN0cmFu4WNoIGEgb2RrYXpvduFu7SBuYSBwcm9wYWdvdmFu6SBzdHLhbmt5LgoJICovCgkkKGRvY3VtZW50KS5vbigKCQknY2xpY2snLAoJCScjYmxvay0wMi1wcm9tbycsCgkJZnVuY3Rpb24gKGV2ZW50KSB7CgkJCWlmIChldmVudC5jdXJyZW50VGFyZ2V0ID09PSBldmVudC50YXJnZXQpIHsKCQkJCXZhciBwcm9tb1VybCA9IEtPUlVOS0EuTWFjY2hpYXR0by5nZXRWYXJpYWJsZSgnYmFubmVyLnVybCcsIGZhbHNlKTsKCQkJCWlmIChwcm9tb1VybCkgewoJCQkJCXdpbmRvdy5vcGVuKHByb21vVXJsLCdfYmxhbmsnKTsKCQkJCX0KCQkJfQoJCX0KCSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIEhlcm8gewogICAgaWQ6IG51bWJlcjsKICAgIG5hbWU6IHN0cmluZzsKfQoK</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2ICpuZ0lmPSJzZWxlY3RlZEhlcm8iPgogICAgICAgICAgICA8aDI+e3tzZWxlY3RlZEhlcm8ubmFtZX19IGRldGFpbHM6PC9oMj4KICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIDxsYWJlbD5pZDo8L2xhYmVsPiB7e3NlbGVjdGVkSGVyby5pZH19CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgPGxhYmVsPm5hbWU6PC9sYWJlbD4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8aW5wdXQgWyhuZ01vZGVsKV09InNlbGVjdGVkSGVyby5uYW1lIiBwbGFjZWhvbGRlcj0ibmFtZSI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="4" type="4">
+        <text>#</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE3LjAyLjIwMTYuCiAqLwo=</text>
+        <text encoding="base64">CQl1cmw6ICdodHRwczovL3d3dy5rb3J1bmthLmV1L29kbWVueS16YS12ZXJub3N0L3ZlbGthLWhyYS8nCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+        <text>y</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXdpbmRvdy5vcGVuKCdodHRwOi8vd3d3LmtvcnVua2EuZXUvb2RtZW55LXphLXZlcm5vc3QnLCdfYmxhbmsnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjxsYWJlbD5pZDo8L2xhYmVsPiB7e2hlcm8uaWR9fTwvZGl2PgogICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxsYWJlbD5uYW1lOjwvbGFiZWw+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxpbnB1dCBbKG5nTW9kZWwpXT0iaGVyby5uYW1lIiBwbGFjZWhvbGRlcj0ibmFtZSI+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CQkJCXByb21vVXJsID0gTWFjY2hpYXR0by5nZXRWYXJpYWJsZQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{{hero.name}}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCWRlYnVnLmRlYnVnKCdnb29kJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>h_table</last-search>
+      <last-search encoding="base64">XDx1cmxcPg==</last-search>
       <last-offset />
-      <last-pattern>h_table</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LmJ1dHRvbiA=</entry>
-        <entry>msg_</entry>
-        <entry encoding="base64">XDxrb21wb25lbnR5U2F6a2FUb3RhbHNcPg==</entry>
         <entry encoding="base64">XDxrb21wb25lbnR5U2F6a2FQZXJUaWtldENvbnRyb2xcPg==</entry>
         <entry encoding="base64">XDxibG9rYXRvclZzYXplbmlcPg==</entry>
         <entry encoding="base64">XDx0aWtldFByaW50ZXJcPg==</entry>
@@ -1065,6 +1097,9 @@
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtTWVuYVw+</entry>
         <entry>block</entry>
         <entry>h_table</entry>
+        <entry>13px</entry>
+        <entry>-frontend h2.h_table</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1079,9 +1114,9 @@
         <entry>ea</entry>
         <entry>qa</entry>
         <entry>wqa</entry>
-        <entry>q</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
