@@ -15,6 +15,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="dec042ef-0504-49fe-8708-3725bd911ee2" name="sestavovac-kombi-angular2" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
