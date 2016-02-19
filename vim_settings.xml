@@ -335,6 +335,13 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455869115758">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="285" column="68" />
+        <mark key="]" line="285" column="65" />
+        <mark key="." line="285" column="65" />
+        <mark key="^" line="285" column="65" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
         <mark key="]" line="320" column="40" />
@@ -372,11 +379,10 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ShrnutiControl/css/shrnuti.css" timestamp="1455804795428">
-        <mark key="[" line="27" column="62" />
-        <mark key="]" line="27" column="61" />
-        <mark key="^" line="27" column="61" />
-        <mark key="." line="27" column="61" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ShrnutiControl/css/shrnuti.css" timestamp="1455868262928">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455719267877">
         <mark key="[" line="26" column="3" />
@@ -409,11 +415,11 @@
         <mark key="^" line="365" column="18" />
       </file>
       <file name="$USER_HOME$/Projekty/angular.io/public/docs/_examples/toh-5/ts/app/dashboard.component.1.ts" timestamp="1455843609132" />
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/css/korunka.klient-info-control.css" timestamp="1455619311617">
-        <mark key="[" line="181" column="23" />
-        <mark key="]" line="181" column="28" />
-        <mark key="^" line="181" column="28" />
-        <mark key="." line="181" column="28" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/css/korunka.klient-info-control.css" timestamp="1455867629836">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="^" line="176" column="34" />
+        <mark key="." line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyPresenter.default.latte" timestamp="1452461698165">
         <mark key="[" line="2" column="8" />
@@ -553,11 +559,11 @@
         <mark key="." line="143" column="46" />
         <mark key="^" line="143" column="46" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/templates/KlientInfoControl.latte" timestamp="1455862827440">
-        <mark key="[" line="261" column="39" />
-        <mark key="]" line="262" column="19" />
-        <mark key="." line="262" column="19" />
-        <mark key="^" line="262" column="19" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/templates/KlientInfoControl.latte" timestamp="1455867197452">
+        <mark key="[" line="255" column="61" />
+        <mark key="]" line="255" column="175" />
+        <mark key="^" line="255" column="175" />
+        <mark key="." line="255" column="175" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455730862886">
         <mark key="[" line="8" column="4" />
@@ -731,9 +737,6 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero.service.ts" timestamp="1455842255554">
-        <mark key="[" line="15" column="5" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/vsadit-tiket-column.js" timestamp="1446646771539">
         <mark key="[" line="25" column="17" />
         <mark key="]" line="44" column="8" />
@@ -782,11 +785,19 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/angular.io/public/docs/ts/latest/tutorial/toh-pt5.jade" timestamp="1455840353167">
-        <mark key="'" line="505" column="1" />
-        <mark key="[" line="220" column="81" />
-        <mark key="]" line="220" column="81" />
-        <mark key="." line="220" column="81" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" timestamp="1455868339823">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="53" column="69" />
+        <mark key="]" line="46" column="86" />
+        <mark key="." line="46" column="86" />
+        <mark key="^" line="46" column="86" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" timestamp="1455806649246">
+        <mark key="'" line="37" column="8" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="36" column="8" />
+        <mark key="^" line="36" column="8" />
+        <mark key="." line="36" column="8" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/exceptions/SuperpiketException.php" timestamp="1448366237643">
         <mark key="[" line="14" column="37" />
@@ -829,10 +840,11 @@
         <mark key="^" line="129" column="23" />
         <mark key="." line="129" column="23" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/UhodniVyhrajControl/css/uhodni-vyhraj.css" timestamp="1455710433448">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/UhodniVyhrajControl/css/uhodni-vyhraj.css" timestamp="1455868710206">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="73" />
+        <mark key="." line="0" column="73" />
+        <mark key="^" line="0" column="73" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
@@ -931,8 +943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
-      <jump line="52" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="53" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="55" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="56" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
@@ -1019,8 +1029,6 @@
       <jump line="66" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/css/sazka-totals-control.css" />
       <jump line="24" column="39" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/css/sazka-totals-control.css" />
       <jump line="80" column="95" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
-      <jump line="62" column="12" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
-      <jump line="297" column="21" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
       <jump line="242" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="11" column="18" filename="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" />
       <jump line="59" column="55" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/base-korunka.css" />
@@ -1031,22 +1039,26 @@
       <jump line="37" column="8" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/config/macchiatto.local.neon" />
       <jump line="182" column="1" filename="$USER_HOME$/Projekty/angular.io/public/docs/ts/latest/tutorial/toh-pt5.jade" />
       <jump line="505" column="1" filename="$USER_HOME$/Projekty/angular.io/public/docs/ts/latest/tutorial/toh-pt5.jade" />
+      <jump line="461" column="4" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="297" column="21" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="62" column="12" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/css/korunka-style.css" />
+      <jump line="172" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXJ9ICAgICAgICAgICAgICBmcm9tICJhbmd1bGFyMi9yb3V0ZXIiOwo=</text>
+        <text encoding="base64">LnNhemVua2Etcl9jb2wgLk1lc3NhZ2VDb250YWluZXJDb250cm9sIHttYXJnaW4tdG9wOiAyMHB4O30K</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Dashboard Top Heroes</text>
+        <text>h_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7CiAgICAgICAgcGF0aDogJy9oZXJvZXMnLAogICAgICAgIG5hbWU6ICdIZXJvZXMnLAogICAgICAgIGNvbXBvbmVudDogSGVyb2VzQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">LnNhemVua2Etcl9jb2wgLk1lc3NhZ2VDb250YWluZXJDb250cm9sIHttYXJnaW4tdG9wOiAyMHB4O30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXJ9ICAgICAgICAgICAgICBmcm9tICJhbmd1bGFyMi9yb3V0ZXIiOwo=</text>
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1072,37 +1084,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuc2VsZWN0ZWQgewogICAgYmFja2dyb3VuZC1jb2xvcjogI0NGRDhEQyAhaW1wb3J0YW50OwogICAgY29sb3I6IHdoaXRlOwogIH0KICAuaGVyb2VzIHsKICAgIG1hcmdpbjogMCAwIDJlbSAwOwogICAgbGlzdC1zdHlsZS10eXBlOiBub25lOwogICAgcGFkZGluZzogMDsKICAgIHdpZHRoOiAxMGVtOwogIH0KICAuaGVyb2VzIGxpIHsKICAgIGN1cnNvcjogcG9pbnRlcjsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgIGxlZnQ6IDA7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjRUVFOwogICAgbWFyZ2luOiAuNWVtOwogICAgcGFkZGluZzogLjNlbSAwZW07CiAgICBoZWlnaHQ6IDEuNmVtOwogICAgYm9yZGVyLXJhZGl1czogNHB4OwogIH0KICAuaGVyb2VzIGxpLnNlbGVjdGVkOmhvdmVyIHsKICAgIGNvbG9yOiB3aGl0ZTsKICB9CiAgLmhlcm9lcyBsaTpob3ZlciB7CgoKICAgIGNvbG9yOiAjNjA3RDhCOwogICAgYmFja2dyb3VuZC1jb2xvcjogI0VFRTsKICAgIGxlZnQ6IC4xZW07CiAgfQogIC5oZXJvZXMgLnRleHQgewogICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgdG9wOiAtM3B4OwogIH0KICAuaGVyb2VzIC5iYWRnZSB7CiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgICBmb250LXNpemU6IHNtYWxsOwogICAgY29sb3I6IHdoaXRlOwogICAgcGFkZGluZzogMC44ZW0gMC43ZW0gMGVtIDAuN2VtOwogICAgYmFja2dyb3VuZC1jb2xvcjogIzYwN0Q4QjsKICAgIGxpbmUtaGVpZ2h0OiAxZW07CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBsZWZ0OiAtMXB4OwogICAgdG9wOiAtNHB4OwogICAgaGVpZ2h0OiAxLjhlbTsKICAgIG1hcmdpbi1yaWdodDogLjhlbTsKICAgIGJvcmRlci1yYWRpdXM6IDRweCAwcHggMHB4IDRweDsKICB9Cg==</text>
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aDI+TXkgaGVyb2VzPC9oMj4KICAgICAgICA8dWwgY2xhc3M9Imhlcm9lcyI+CiAgICAgICAgICAgIDxsaSAqbmdGb3I9IiNoZXJvIG9mIGhlcm9lcyIKICAgICAgICAgICAgICAgIChjbGljayk9Im9uU2VsZWN0KGhlcm8pIgogICAgICAgICAgICAgICAgW2NsYXNzLnNlbGVjdGVkXT0iaGVybyA9PT0gc2VsZWN0ZWRIZXJvIj4KICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYWRnZSI+e3toZXJvLmlkfX08L3NwYW4+IHt7aGVyby5uYW1lfX0KICAgICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICAgIDxkaXYgKm5nSWY9InNlbGVjdGVkSGVybyI+CiAgICAgICAgICAgIDxoMj4KICAgICAgICAgICAgICAgIHt7c2VsZWN0ZWRIZXJvLm5hbWUgfCB1cHBlcmNhc2UgfX0gaXMgbXkgaGVybwogICAgICAgICAgICA8L2gyPgogICAgICAgICAgICA8YnV0dG9uIChjbGljayk9ImdvdG9EZXRhaWwoKSI+VmlldyBEZXRhaWxzPC9idXR0b24+CiAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8bXktaGVyby1kZXRhaWwgW2hlcm9dPSJzZWxlY3RlZEhlcm8iPjwvbXktaGVyby1kZXRhaWw+Cg==</text>
+        <text encoding="base64">LnBvYm9ja3ktZnJvbnRlbmQgLnRhYmxlLWJveC5rb3J1bmthaG9wdHJvcCBoMiB7IGZvbnQtc2l6ZTogMTVweCFpbXBvcnRhbnQ7IHBhZGRpbmctcmlnaHQ6IDA7fQoucG9ib2NreS1mcm9udGVuZCAudGFibGUtYm94LmtvcnVua2Fob3B0cm9wIGgyIHsgZm9udC1zaXplOiAxM3B4IWltcG9ydGFudDsgcGFkZGluZy1yaWdodDogMDt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlucHV0czogWydoZXJvJ10sCg==</text>
+        <text encoding="base64">LmtsaWVudC1pbmZvIC5wcmV6ZGl2a2EgaW5wdXRbZGlzYWJsZWQ9ImRpc2FibGVkIl0ge2JhY2tncm91bmQtY29sb3I6IGdyZXk7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtIZXJvfSBmcm9tICcuL2hlcm8nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZWxzZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icG9waXMiPnD4ZXpk7XZrYSB2IEtvcnVuY2U8L3NwYW4+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiAqbmdJZj0iaGVybyI+CiAgICAgICAgPGgyPnt7aGVyby5uYW1lfX0gZGV0YWlscyE8L2gyPgogICAgICAgIDxkaXY+PGxhYmVsPmlkOiA8L2xhYmVsPnt7aGVyby5pZH19PC9kaXY+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxsYWJlbD5uYW1lOiA8L2xhYmVsPgogICAgICAgICAgPGlucHV0IFsobmdNb2RlbCldPSJoZXJvLm5hbWUiIHBsYWNlaG9sZGVyPSJuYW1lIi8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8YnV0dG9uIChjbGljayk9ImdvQmFjaygpIj5CYWNrPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icG9waXMiPnD4ZXpk7XZrYSB2IEtvcnVuY2U8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>Dashboard Top Heroes</last-search>
+      <last-search>h_table</last-search>
       <last-offset />
-      <last-pattern>Dashboard Top Heroes</last-pattern>
+      <last-pattern>h_table</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1122,7 +1134,6 @@
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtSG9kbm90YVw+</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtTWVuYVw+</entry>
         <entry>block</entry>
-        <entry>h_table</entry>
         <entry>13px</entry>
         <entry>-frontend h2.h_table</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
@@ -1130,6 +1141,7 @@
         <entry>learn about</entry>
         <entry>Learn about</entry>
         <entry>Dashboard Top Heroes</entry>
+        <entry>h_table</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1138,16 +1150,16 @@
         <entry>37</entry>
         <entry>68</entry>
         <entry>391</entry>
-        <entry>W</entry>
         <entry>1469</entry>
-        <entry>e</entry>
         <entry>ea</entry>
         <entry>qa</entry>
         <entry>wqa</entry>
         <entry>q</entry>
-        <entry>wq</entry>
+        <entry>e</entry>
+        <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
