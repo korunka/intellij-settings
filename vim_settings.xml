@@ -796,11 +796,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1455902145225">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="." line="5" column="26" />
-        <mark key="^" line="5" column="26" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1455918764634">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -936,7 +936,7 @@
         <mark key="^" line="35" column="33" />
         <mark key="." line="35" column="33" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.html" timestamp="1455844976515">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.html" timestamp="1455919314211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
@@ -954,11 +954,11 @@
         <mark key="^" line="121" column="67" />
         <mark key="." line="121" column="67" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1455904270763">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="27" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1455919659987">
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/SoutezePresenter.default.latte" timestamp="1453126312120">
         <mark key="[" line="0" column="41" />
@@ -1100,7 +1100,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CgkJCQk8bGkgY2xhc3M9Im5hdi1pdGVtIGFjdGl2ZSI+CgkJCQkJPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjIj5Ib21lIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+PC9hPgoJCQkJPC9saT4KCQkJCTxsaSBjbGFzcz0ibmF2LWl0ZW0iPgoJCQkJCTxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iIyI+QWJvdXQ8L2E+CgkJCQk8L2xpPgoJCQkJPGxpIGNsYXNzPSJuYXYtaXRlbSI+CgkJCQkJPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjIj5Db250YWN0PC9hPgoJCQkJPC9saT4KCQkJPC91bD4K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>(click)=&quot;vsaditTiket&quot;</text>
@@ -1112,7 +1112,7 @@
         <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciIHJvbGU9ImJ1dHRvbiIgaHJlZj0iaHR0cHM6Ly93d3cua29ydW5rYS5ldS92c2FkaXQva29tYmkiPlprdXMgdG8gbmFvc3RybyC7PC9hPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CgkJCQk8bGkgY2xhc3M9Im5hdi1pdGVtIGFjdGl2ZSI+CgkJCQkJPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjIj5Ib21lIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+PC9hPgoJCQkJPC9saT4KCQkJCTxsaSBjbGFzcz0ibmF2LWl0ZW0iPgoJCQkJCTxhIGNsYXNzPSJuYXYtbGluayIgaHJlZj0iIyI+QWJvdXQ8L2E+CgkJCQk8L2xpPgoJCQkJPGxpIGNsYXNzPSJuYXYtaXRlbSI+CgkJCQkJPGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjIj5Db250YWN0PC9hPgoJCQkJPC9saT4KCQkJPC91bD4K</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1138,28 +1138,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPGJ1dHRvbiAoY2xpY2spPSJ2c2FkaXRUaWtldCI+VnNhZGl0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">CTxkaXYgY2xhc3M9InJvdyI+CgkJPGgxIGNsYXNzPSJkaXNwbGF5LTMiPktvcnVua2EgS29tYmk8L2gxPgoJPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGJ1dHRvbiA+VnNhZGl0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cgo8ZGl2IGNsYXNzPSJqdW1ib3Ryb24iPgoJPGRpdiBjbGFzcz0iY29udGFpbmVyIj4KCQk8aDEgY2xhc3M9ImRpc3BsYXktMyI+VGFrIHRvaGxlIGplIEtvcnVua2EgS29tYmkhPC9oMT4KCQk8cD5Lb3J1bmthIEtvbWJpLCB0byBuZW7tIG9ieehlam7hIFNwb3J0a2EmIzg0ODI7LiBLb21iaSBw+Gl24WTtCgkJCWRvaHJvbWFkeSB0byBuZWpsZXCa7SB6IGxvdGVyaWUgYSBrdXJ6b3bpaG8gc+F6ZW7tLjwvcD4KCQk8cD5Q+GlwcmF2dGUgc2kgaSBWeSwgc3b5aiB27XTsem79IEtvbWLtay4uLjwvcD4KCQk8cD4KCQk8L3A+Cgk8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>(click)=&quot;vsaditTiket&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJPHA+PGEgY2xhc3M9ImJ0biBidG4tc2Vjb25kYXJ5IiAoY2xpY2spPSJ2c2FkaXRUaWtldCIgcm9sZT0iYnV0dG9uIj5Wc2FkaXQguzwvYT48L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8YnV0dG9uIChjbGljayk9InZzYWRpdFRpa2V0Ij5Wc2FkaXQ8L2J1dHRvbj4K</text>
+        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGcgYnRuLXN1Y2Nlc3MiIHJvbGU9ImJ1dHRvbiIgKGNsaWNrKT0idnNhZGl0VGlrZXQiPlZzYWRpdCC7PC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CgoJCQk8L3VsPgo=</text>
+        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGcgYnRuLXN1Y2Nlc3MiIHJvbGU9ImJ1dHRvbiIgKGNsaWNrKT0idnNhZGl0VGlrZXQiPlZzYWRpdCC7PC9hPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIKCQkJICAgICAgICBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGRhdGEtdGFyZ2V0PSIjbmF2YmFyIgoJCQkgICAgICAgIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLWNvbnRyb2xzPSJuYXZiYXIiPgoJCQkJPHNwYW4gY2xhc3M9InNyLW9ubHkiPlRvZ2dsZSBuYXZpZ2F0aW9uPC9zcGFuPgoJCQkJPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CgkJCQk8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KCQkJCTxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgoJCQk8L2J1dHRvbj4K</text>
+        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tbGciIHJvbGU9ImJ1dHRvbiIgaHJlZj0iaHR0cHM6Ly93d3cua29ydW5rYS5ldS92c2FkaXQva29tYmkiPlprdXMgdG8gamVub20gamFrbyC7PC9hPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGJnLWludmVyc2U=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQk8YWxlcnQgcm9sZT0iYWxlcnQiIGNsYXNzPSJhbGVydCBhbGVydC1kYW5nZXIgZGlzbWlzYWJsZSIgZGlzbWlzc09uVGltZW91dD0iMzAwMCIgPlRhdG8gc3Ry4W5rYSBzbG91nu0gcG91emUgamFrbyB1a+F6a2924SBpbXBsZW1lbnRhY2UgPC9hbGVydD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS4uLy4uL2Rpc3QvY3NzL2Jvb3RzdHJhcC5taW4uY3NzCg==</text>
+        <text encoding="base64">PGFsZXJ0IHJvbGU9ImFsZXJ0IiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIGRpc21pc2FibGUiIGRpc21pc3NPblRpbWVvdXQ9IjMwMDAiID5UYXRvIHN0cuFua2Egc2xvdZ7tIHBvdXplIGpha28gdWvhemtvduEgaW1wbGVtZW50YWNlIDwvYWxlcnQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
