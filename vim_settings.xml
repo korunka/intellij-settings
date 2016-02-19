@@ -394,7 +394,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455879035402">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455888589624">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="26" column="24" />
         <mark key="." line="26" column="24" />
@@ -495,6 +495,11 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" timestamp="1455889251491">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/SazkaTotalsControl.php" timestamp="1455532245597">
         <mark key="[" line="170" column="37" />
@@ -1064,10 +1069,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I2Jsb2stMDIgLnNhemVua2FfY29udGFpbmVyIC5kcmF3X3R5cGUgaDMge2ZvbnQtc2l6ZTogMThweDt9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/**</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
@@ -1076,7 +1081,7 @@
         <text encoding="base64">I2Jsb2stMDIgLnNhemVua2FfY29udGFpbmVyIC5kcmF3X3R5cGUgaDMge2ZvbnQtc2l6ZTogMThweDt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCiAqLwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1102,28 +1107,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIgo=</text>
+        <text encoding="base64">CiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
+      <register name="3" type="4">
+        <text>/**</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQo=</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
+        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
