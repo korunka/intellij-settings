@@ -346,12 +346,12 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455885023874">
-        <mark key="'" line="277" column="41" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="318" column="41" />
-        <mark key="." line="318" column="41" />
-        <mark key="^" line="318" column="41" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455885997457">
+        <mark key="'" line="110" column="47" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="9" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
@@ -962,8 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
-      <jump line="58" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="89" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="93" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="95" column="34" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
@@ -1062,19 +1060,21 @@
       <jump line="172" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="175" column="52" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="277" column="41" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
+      <jump line="82" column="28" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
+      <jump line="110" column="47" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuMCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">I2Jsb2stMDIg</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>kontext</text>
+        <text encoding="base64">XDxoM1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuMCIsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">I2Jsb2stMDIg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCiAqLwo=</text>
@@ -1131,9 +1131,9 @@
       </register>
     </registers>
     <search>
-      <last-search>kontext</last-search>
+      <last-search encoding="base64">XDxoM1w+</last-search>
       <last-offset />
-      <last-pattern>kontext</last-pattern>
+      <last-pattern encoding="base64">XDxoM1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1141,7 +1141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$month</entry>
         <entry>nazev</entry>
         <entry>azev</entry>
         <entry>action</entry>
@@ -1161,6 +1160,7 @@
         <entry>Dashboard Top Heroes</entry>
         <entry>h_table</entry>
         <entry>kontext</entry>
+        <entry encoding="base64">XDxoM1w+</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
