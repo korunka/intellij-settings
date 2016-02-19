@@ -39,6 +39,12 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/templates/layout.korunka.latte" timestamp="1455871251717">
+        <mark key="[" line="118" column="41" />
+        <mark key="]" line="118" column="49" />
+        <mark key="^" line="118" column="49" />
+        <mark key="." line="118" column="49" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/MojeKontoPresenter.korunkarmesice.latte" timestamp="1452514782266">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="9" column="11" />
@@ -116,10 +122,10 @@
         <mark key="^" line="21" column="4" />
         <mark key="." line="21" column="4" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/base.js" timestamp="1455806926879">
-        <mark key="[" line="300" column="0" />
-        <mark key="]" line="314" column="6" />
-        <mark key="." line="300" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/base.js" timestamp="1455871166562">
+        <mark key="]" line="295" column="48" />
+        <mark key="." line="295" column="48" />
+        <mark key="^" line="295" column="48" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Chette/Latte/Macros/UIMacros.php" timestamp="1453988818646">
         <mark key="[" line="416" column="86" />
@@ -1041,7 +1047,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LnNhemVua2Etcl9jb2wgLk1lc3NhZ2VDb250YWluZXJDb250cm9sIHttYXJnaW4tdG9wOiAyMHB4O30K</text>
+        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1050,10 +1056,10 @@
         <text>h_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnNhemVua2Etcl9jb2wgLk1lc3NhZ2VDb250YWluZXJDb250cm9sIHttYXJnaW4tdG9wOiAyMHB4O30K</text>
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQoJCUtPUlVOS0EudXRpbHMuZXZhbEpzSW5Eb20oJCgnYm9keScpKTsKCX0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
+        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1079,31 +1085,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
+        <text encoding="base64">CQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LnBvYm9ja3ktZnJvbnRlbmQgLnRhYmxlLWJveC5rb3J1bmthaG9wdHJvcCBoMiB7IGZvbnQtc2l6ZTogMTVweCFpbXBvcnRhbnQ7IHBhZGRpbmctcmlnaHQ6IDA7fQoucG9ib2NreS1mcm9udGVuZCAudGFibGUtYm94LmtvcnVua2Fob3B0cm9wIGgyIHsgZm9udC1zaXplOiAxM3B4IWltcG9ydGFudDsgcGFkZGluZy1yaWdodDogMDt9Cg==</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmtsaWVudC1pbmZvIC5wcmV6ZGl2a2EgaW5wdXRbZGlzYWJsZWQ9ImRpc2FibGVkIl0ge2JhY2tncm91bmQtY29sb3I6IGdyZXk7fQo=</text>
+        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZWxzZX0K</text>
+        <text encoding="base64">LnBvYm9ja3ktZnJvbnRlbmQgLnRhYmxlLWJveC5rb3J1bmthaG9wdHJvcCBoMiB7IGZvbnQtc2l6ZTogMTVweCFpbXBvcnRhbnQ7IHBhZGRpbmctcmlnaHQ6IDA7fQoucG9ib2NreS1mcm9udGVuZCAudGFibGUtYm94LmtvcnVua2Fob3B0cm9wIGgyIHsgZm9udC1zaXplOiAxM3B4IWltcG9ydGFudDsgcGFkZGluZy1yaWdodDogMDt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icG9waXMiPnD4ZXpk7XZrYSB2IEtvcnVuY2U8L3NwYW4+Cg==</text>
+        <text encoding="base64">LmtsaWVudC1pbmZvIC5wcmV6ZGl2a2EgaW5wdXRbZGlzYWJsZWQ9ImRpc2FibGVkIl0ge2JhY2tncm91bmQtY29sb3I6IGdyZXk7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0icG9waXMiPnD4ZXpk7XZrYSB2IEtvcnVuY2U8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZWxzZX0K</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1153,8 +1159,8 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
