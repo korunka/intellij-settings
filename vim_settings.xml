@@ -389,11 +389,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455719267877">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455875550720">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
@@ -569,9 +569,9 @@
         <mark key="^" line="255" column="175" />
         <mark key="." line="255" column="175" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455872888998">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455873929950">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="26" column="2" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
@@ -608,6 +608,12 @@
         <mark key="]" line="32" column="7" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/.gitignore" timestamp="1455875239760">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.mesicniRepublikovePoradi.korunka.latte" timestamp="1452259938176">
         <mark key="[" line="9" column="0" />
@@ -744,6 +750,11 @@
         <mark key="]" line="44" column="8" />
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/server/server.js" timestamp="1455874574919">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -1048,7 +1059,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ewogICJuYW1lIjogImFuZ3VsYXIyLXF1aWNrc3RhcnQiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAic2NyaXB0cyI6IHsKICAgICJwb3N0aW5zdGFsbCI6ICJucG0gcnVuIHR5cGluZ3MgaW5zdGFsbCIsCiAgICAidHNjIjogInRzYyIsCiAgICAidHNjOnciOiAidHNjIC13IiwKICAgICJsaXRlIjogImxpdGUtc2VydmVyIiwKICAgICJzdGFydCI6ICJjb25jdXJyZW50IFwibnBtIHJ1biB0c2M6d1wiIFwibnBtIHJ1biBsaXRlXCIgIiwKICAgICJ0eXBpbmdzIjogInR5cGluZ3MiCiAgfSwKICAibGljZW5zZSI6ICJJU0MiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiYW5ndWxhcjIiOiAiMi4wLjAtYmV0YS42IiwKICAgICJzeXN0ZW1qcyI6ICIwLjE5LjIwIiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4wIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiY29uY3VycmVudGx5IjogIl4xLjAuMCIsCiAgICAibGl0ZS1zZXJ2ZXIiOiAiXjIuMC4xIiwKICAgICJ0eXBlc2NyaXB0IjogIl4xLjcuNSIsCiAgICAidHlwaW5ncyI6ICJeMC42LjgiCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuMCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1057,10 +1068,10 @@
         <text>h_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ewogICJuYW1lIjogImFuZ3VsYXIyLXF1aWNrc3RhcnQiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAic2NyaXB0cyI6IHsKICAgICJwb3N0aW5zdGFsbCI6ICJucG0gcnVuIHR5cGluZ3MgaW5zdGFsbCIsCiAgICAidHNjIjogInRzYyIsCiAgICAidHNjOnciOiAidHNjIC13IiwKICAgICJsaXRlIjogImxpdGUtc2VydmVyIiwKICAgICJzdGFydCI6ICJjb25jdXJyZW50IFwibnBtIHJ1biB0c2M6d1wiIFwibnBtIHJ1biBsaXRlXCIgIiwKICAgICJ0eXBpbmdzIjogInR5cGluZ3MiCiAgfSwKICAibGljZW5zZSI6ICJJU0MiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiYW5ndWxhcjIiOiAiMi4wLjAtYmV0YS42IiwKICAgICJzeXN0ZW1qcyI6ICIwLjE5LjIwIiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4wIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiY29uY3VycmVudGx5IjogIl4xLjAuMCIsCiAgICAibGl0ZS1zZXJ2ZXIiOiAiXjIuMC4xIiwKICAgICJ0eXBlc2NyaXB0IjogIl4xLjcuNSIsCiAgICAidHlwaW5ncyI6ICJeMC42LjgiCiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICJyeGpzIjogIjUuMC4wLWJldGEuMCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCiAqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1086,28 +1097,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
+        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQo=</text>
+        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
+        <text encoding="base64">CQlLT1JVTktBLnV0aWxzLmV2YWxKc0luRG9tKCQoJ2JvZHknKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
+        <text encoding="base64">CQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
+        <text encoding="base64">LnVob2RuaXZ5aHJhal9jb250ZW50IHRhYmxlIHRoIHtmb250LXdlaWdodDogYm9sZDt9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LnBvYm9ja3ktZnJvbnRlbmQgLnRhYmxlLWJveC5rb3J1bmthaG9wdHJvcCBoMiB7IGZvbnQtc2l6ZTogMTVweCFpbXBvcnRhbnQ7IHBhZGRpbmctcmlnaHQ6IDA7fQoucG9ib2NreS1mcm9udGVuZCAudGFibGUtYm94LmtvcnVua2Fob3B0cm9wIGgyIHsgZm9udC1zaXplOiAxM3B4IWltcG9ydGFudDsgcGFkZGluZy1yaWdodDogMDt9Cg==</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmtsaWVudC1pbmZvIC5wcmV6ZGl2a2EgaW5wdXRbZGlzYWJsZWQ9ImRpc2FibGVkIl0ge2JhY2tncm91bmQtY29sb3I6IGdyZXk7fQo=</text>
+        <text encoding="base64">LmtvcnVua2EtZnJvbnRlbmQgaDIuaF90YWJsZSB7IGZvbnQtc2l6ZTogMTNweCFpbXBvcnRhbnQ7IHBhZGRpbmc6IDAgNXB4IWltcG9ydGFudDsgIGZvbnQtd2VpZ2h0OiBib2xkIWltcG9ydGFudDsgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
