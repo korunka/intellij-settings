@@ -394,11 +394,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455888589624">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455890540829">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="^" line="8" column="39" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
@@ -502,12 +502,12 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" timestamp="1455890516202">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" timestamp="1455891521972">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="^" line="1" column="16" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/SazkaTotalsControl.php" timestamp="1455532245597">
         <mark key="[" line="170" column="37" />
@@ -745,6 +745,7 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/index.html" timestamp="1455891511588" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero-detail.component.ts" timestamp="1455846222974">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="8" column="45" />
@@ -1187,10 +1188,10 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
         <entry>qa</entry>
         <entry>177</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
