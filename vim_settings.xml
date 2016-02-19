@@ -569,9 +569,9 @@
         <mark key="^" line="255" column="175" />
         <mark key="." line="255" column="175" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455730862886">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="9" column="23" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455872888998">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
       </file>
@@ -1048,7 +1048,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
+        <text encoding="base64">ewogICJuYW1lIjogImFuZ3VsYXIyLXF1aWNrc3RhcnQiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAic2NyaXB0cyI6IHsKICAgICJwb3N0aW5zdGFsbCI6ICJucG0gcnVuIHR5cGluZ3MgaW5zdGFsbCIsCiAgICAidHNjIjogInRzYyIsCiAgICAidHNjOnciOiAidHNjIC13IiwKICAgICJsaXRlIjogImxpdGUtc2VydmVyIiwKICAgICJzdGFydCI6ICJjb25jdXJyZW50IFwibnBtIHJ1biB0c2M6d1wiIFwibnBtIHJ1biBsaXRlXCIgIiwKICAgICJ0eXBpbmdzIjogInR5cGluZ3MiCiAgfSwKICAibGljZW5zZSI6ICJJU0MiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiYW5ndWxhcjIiOiAiMi4wLjAtYmV0YS42IiwKICAgICJzeXN0ZW1qcyI6ICIwLjE5LjIwIiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4wIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiY29uY3VycmVudGx5IjogIl4xLjAuMCIsCiAgICAibGl0ZS1zZXJ2ZXIiOiAiXjIuMC4xIiwKICAgICJ0eXBlc2NyaXB0IjogIl4xLjcuNSIsCiAgICAidHlwaW5ncyI6ICJeMC42LjgiCiAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1057,7 +1057,7 @@
         <text>h_table</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkvLyBTcHVzdO1tZSB2bG+eZW7pIEpTIHYgRE9NdQoJCUtPUlVOS0EudXRpbHMuZXZhbEpzSW5Eb20oJCgnYm9keScpKTsKCX0pOwo=</text>
+        <text encoding="base64">ewogICJuYW1lIjogImFuZ3VsYXIyLXF1aWNrc3RhcnQiLAogICJ2ZXJzaW9uIjogIjEuMC4wIiwKICAic2NyaXB0cyI6IHsKICAgICJwb3N0aW5zdGFsbCI6ICJucG0gcnVuIHR5cGluZ3MgaW5zdGFsbCIsCiAgICAidHNjIjogInRzYyIsCiAgICAidHNjOnciOiAidHNjIC13IiwKICAgICJsaXRlIjogImxpdGUtc2VydmVyIiwKICAgICJzdGFydCI6ICJjb25jdXJyZW50IFwibnBtIHJ1biB0c2M6d1wiIFwibnBtIHJ1biBsaXRlXCIgIiwKICAgICJ0eXBpbmdzIjogInR5cGluZ3MiCiAgfSwKICAibGljZW5zZSI6ICJJU0MiLAogICJkZXBlbmRlbmNpZXMiOiB7CiAgICAiYW5ndWxhcjIiOiAiMi4wLjAtYmV0YS42IiwKICAgICJzeXN0ZW1qcyI6ICIwLjE5LjIwIiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4wIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNCIKICB9LAogICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiY29uY3VycmVudGx5IjogIl4xLjAuMCIsCiAgICAibGl0ZS1zZXJ2ZXIiOiAiXjIuMC4xIiwKICAgICJ0eXBlc2NyaXB0IjogIl4xLjcuNSIsCiAgICAidHlwaW5ncyI6ICJeMC42LjgiCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CSQoZG9jdW1lbnQpLm9uKCdyZWFkeScsIGZ1bmN0aW9uICgpIHsKCQkkKCcjYmxvay0wMi1wcm9tbzpub3QoLmNvbnRhaW5lcik6aG92ZXInKS5jc3Moe2N1cnNvcjoncG9pbnRlcid9KTsKCX0pOwo=</text>
