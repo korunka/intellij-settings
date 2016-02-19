@@ -346,12 +346,12 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455885997457">
-        <mark key="'" line="110" column="47" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="9" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" timestamp="1455888163826">
+        <mark key="'" line="111" column="47" />
+        <mark key="[" line="83" column="40" />
+        <mark key="]" line="84" column="40" />
+        <mark key="." line="84" column="40" />
+        <mark key="^" line="84" column="40" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
@@ -732,7 +732,6 @@
         <mark key="^" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/index.html" timestamp="1455879043316" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero-detail.component.ts" timestamp="1455846222974">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="8" column="45" />
@@ -1064,8 +1063,8 @@
       <jump line="110" column="47" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">I2Jsb2stMDIg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2Jsb2stMDIgLnNhemVua2FfY29udGFpbmVyIC5kcmF3X3R5cGUgaDMge2ZvbnQtc2l6ZTogMThweDt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -1073,8 +1072,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">I2Jsb2stMDIg</text>
+      <register name="0" type="2">
+        <text encoding="base64">I2Jsb2stMDIgLnNhemVua2FfY29udGFpbmVyIC5kcmF3X3R5cGUgaDMge2ZvbnQtc2l6ZTogMThweDt9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE5LjAyLjIwMTYuCiAqLwo=</text>
