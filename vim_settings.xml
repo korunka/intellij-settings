@@ -553,11 +553,11 @@
         <mark key="." line="143" column="46" />
         <mark key="^" line="143" column="46" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/templates/KlientInfoControl.latte" timestamp="1455569448487">
-        <mark key="[" line="260" column="21" />
-        <mark key="]" line="260" column="21" />
-        <mark key="." line="260" column="21" />
-        <mark key="^" line="262" column="117" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/templates/KlientInfoControl.latte" timestamp="1455862827440">
+        <mark key="[" line="261" column="39" />
+        <mark key="]" line="262" column="19" />
+        <mark key="." line="262" column="19" />
+        <mark key="^" line="262" column="19" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455730862886">
         <mark key="[" line="8" column="4" />
@@ -1096,7 +1096,7 @@
         <text encoding="base64">ICAgICAgPGRpdiAqbmdJZj0iaGVybyI+CiAgICAgICAgPGgyPnt7aGVyby5uYW1lfX0gZGV0YWlscyE8L2gyPgogICAgICAgIDxkaXY+PGxhYmVsPmlkOiA8L2xhYmVsPnt7aGVyby5pZH19PC9kaXY+CiAgICAgICAgPGRpdj4KICAgICAgICAgIDxsYWJlbD5uYW1lOiA8L2xhYmVsPgogICAgICAgICAgPGlucHV0IFsobmdNb2RlbCldPSJoZXJvLm5hbWUiIHBsYWNlaG9sZGVyPSJuYW1lIi8+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgICA8YnV0dG9uIChjbGljayk9ImdvQmFjaygpIj5CYWNrPC9idXR0b24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1146,8 +1146,8 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
