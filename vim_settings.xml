@@ -193,10 +193,11 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/css/style.css" timestamp="1456007946880">
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
-        <mark key="^" line="18" column="20" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/css/style.css" timestamp="1456008859898">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/PobockyPresenter.php" timestamp="1446651206463">
         <mark key="[" line="116" column="74" />
@@ -965,11 +966,11 @@
         <mark key="^" line="121" column="67" />
         <mark key="." line="121" column="67" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1456007959026">
-        <mark key="[" line="62" column="44" />
-        <mark key="]" line="62" column="45" />
-        <mark key="." line="62" column="45" />
-        <mark key="^" line="62" column="45" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1456008981054">
+        <mark key="[" line="29" column="70" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="69" />
+        <mark key="^" line="29" column="69" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/SoutezePresenter.default.latte" timestamp="1453126312120">
         <mark key="[" line="0" column="41" />
@@ -1111,10 +1112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHZhbHVlPSIwIg==</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbHVlPSIwIg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
@@ -1123,7 +1124,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzYXprYSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHZhbHVlPSIwIg==</text>
+        <text>e</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1149,28 +1150,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHNpemU9IjIi</text>
+        <text>g</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnRTYXprYSk7Cg==</text>
+      <register name="3" type="4">
+        <text>n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzYXprYSk7Cg==</text>
+        <text encoding="base64">CQkJPHA+PGlucHV0ICNwb2xpY2tvIChibHVyKT0ic2V0VGlwb3ZhbmFDaXNsYShwb2xpY2tvLnZhbHVlKSI+CgkJCTwvcD4KCQkJPHA+CgkJCQk8c21hbGw+yO1zbGEgb2Rk7Gx1anRlIOjhcmtvdSBuZWJvIG1lemVyb3UuPC9zbWFsbD4KCQkJPC9wPgoJCQk8ZGl2IGNsYXNzPSJwb3phZGktY2lzZWwiPgoJCQkJPHNwYW4gKm5nRm9yPSIjdGlwb3ZhbmVDaXNsbyBvZiB0aXBvdmFuYUNpc2xhIgoJCQkJICAgICAgY2xhc3M9InRpcG92YW5lLWNpc2xvIj57e3RpcG92YW5lQ2lzbG99fTwvc3Bhbj4KCQkJPC9kaXY+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzYXpreU5hUHJpbGV6aXRvc3RpID0gW107Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0cmltIHdoaXRlc3BhY2UsIHBhcnNlIGl0IHRvIG51bWJlciwgY2hlY2sgaWYgbGFyZ2VyIHRoYW4gMAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYXprYSA9IHNhemthLnRyaW0oKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmF6ZQo=</text>
+        <text encoding="base64">CQkJPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDIwLjAyLjIwMTYuCiAqLwo=</text>
+        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
