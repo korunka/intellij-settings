@@ -442,11 +442,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456007994125">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456011048059">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/css/style.css" timestamp="1447079419533">
         <mark key="[" line="7" column="0" />
@@ -808,11 +808,11 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456007022817">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="21" column="11" />
-        <mark key="^" line="21" column="11" />
-        <mark key="." line="21" column="11" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456010966536">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="59" column="5" />
+        <mark key="." line="59" column="5" />
+        <mark key="^" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -1111,20 +1111,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzYXprYSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">e0FycmF5PG51bWJlcj59</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAqIAogKi8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1150,28 +1150,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>g</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJPHA+PGlucHV0ICNwb2xpY2tvIChibHVyKT0ic2V0VGlwb3ZhbmFDaXNsYShwb2xpY2tvLnZhbHVlKSI+CgkJCTwvcD4KCQkJPHA+CgkJCQk8c21hbGw+yO1zbGEgb2Rk7Gx1anRlIOjhcmtvdSBuZWJvIG1lemVyb3UuPC9zbWFsbD4KCQkJPC9wPgoJCQk8ZGl2IGNsYXNzPSJwb3phZGktY2lzZWwiPgoJCQkJPHNwYW4gKm5nRm9yPSIjdGlwb3ZhbmVDaXNsbyBvZiB0aXBvdmFuYUNpc2xhIgoJCQkJICAgICAgY2xhc3M9InRpcG92YW5lLWNpc2xvIj57e3RpcG92YW5lQ2lzbG99fTwvc3Bhbj4KCQkJPC9kaXY+Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+        <text>I</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJPC9kaXY+Cg==</text>
+      <register name="8" type="4">
+        <text>s</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCTwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
