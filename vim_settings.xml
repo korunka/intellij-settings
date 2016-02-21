@@ -193,11 +193,11 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/css/style.css" timestamp="1456020754391">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/css/style.css" timestamp="1456062386895">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/PobockyPresenter.php" timestamp="1446651206463">
         <mark key="[" line="116" column="74" />
@@ -247,6 +247,7 @@
         <mark key="^" line="145" column="53" />
         <mark key="." line="145" column="53" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.component.ts" timestamp="1456063384603" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.korunka.latte" timestamp="1451996237083">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="65" />
@@ -435,10 +436,11 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456061135519">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456063348050">
+        <mark key="[" line="24" column="78" />
+        <mark key="]" line="24" column="77" />
+        <mark key="^" line="24" column="77" />
+        <mark key="." line="24" column="77" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/css/style.css" timestamp="1447079419533">
         <mark key="[" line="7" column="0" />
@@ -724,11 +726,11 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456058272327">
-        <mark key="[" line="51" column="17" />
-        <mark key="]" line="37" column="4" />
-        <mark key="^" line="37" column="4" />
-        <mark key="." line="37" column="4" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456062652087">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="35" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="14" column="32" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
@@ -807,11 +809,11 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456060906737">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456063273553">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="44" column="22" />
+        <mark key="^" line="44" column="22" />
+        <mark key="." line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -965,11 +967,11 @@
         <mark key="^" line="121" column="67" />
         <mark key="." line="121" column="67" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1456060261033">
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="47" column="77" />
-        <mark key="." line="47" column="77" />
-        <mark key="^" line="47" column="77" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1456063569261">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="50" column="64" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/SoutezePresenter.default.latte" timestamp="1453126312120">
         <mark key="[" line="0" column="41" />
@@ -1111,19 +1113,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ocG9jZXRWc2F6ZW55Y2hDaXNlbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>{{getPocetKombinaci(tipovanaCisla.length)}}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobiA9PSAwIHx8IG4gPT0gMSkKICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgaWYgKHRoaXMuZmFjdG9yaWFsc1tuXSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIHRoaXMuZmFjdG9yaWFsc1tuXTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHRoaXMuZmFjdG9yaWFsc1tuXSA9IHRoaXMuZmFjdG9yaWFsKG4gLSAxKSAqIG47Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEvo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ocG9jZXRWc2F6ZW55Y2hDaXNlbCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1148,32 +1150,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CgogICAgbmF6ZXY6IHN0cmluZzsKCgogICAgLyoqCiAgICAgKiBQb+hldCDo7XNlbCB2ZSBza3VwaW7sLCBkZWZpbnVq7WPtY2ggdHV0byBw+O1sZZ5pdG9zdAogICAgICovCiAgICBwb2NldDogbnVtYmVyOwo=</text>
+      <register name="2" type="4">
+        <text>{{getPocetKombinaci(tipovanaCisla.length)}}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnBvY2V0ID0gcG9jZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnRpcG92YW5hQ2lzbGEubGVuZ3RoID09PSAwKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5hemV2ID0gbmF6ZXY7Cg==</text>
+        <text encoding="base64">CQkJCTxzcGFuICpuZ0Zvcj0iI3ByaWxleml0b3N0IG9mIHByaWxleml0b3N0aSI+c2RmYTxici8+PC9zcGFuPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtNYXRofSBmcm9tICcuL21hdGgnOwo=</text>
+        <text encoding="base64">CQkJCXt7cHJpbGV6aXRvc3RpLmxlbmd0aH19Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>'</text>
+        <text encoding="base64">PC90aGVhZD4=</text>
       </register>
-      <register name="7" type="4">
-        <text>'</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQk8dGQ+PC90ZD4K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICpuZ0Zvcj0iI3ByaWxleml0b3N0IG9mIHByaWxleml0b3N0aSI=</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQk8dGQ+PC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTx0ciAqbmdGb3I9IiNwcmlsZXppdG9zdCBvZiBwcmlsZXppdG9zdGkiPgoJCQkJCTx0ZCBjbGFzcz0idGV4dC1jZW50ZXIiPnt7cHJpbGV6aXRvc3QubmF6ZXZ9fTwvdGQ+CgkJCQkJPHRkIGNsYXNzPSJ0ZXh0LWNlbnRlciI+e3twcmlsZXppdG9zdC5nZXRQb2NldEtvbWJpbmFjaSh0aXBvdmFuYUNpc2xhLmxlbmd0aCl9fTwvdGQ+CgkJCQkJPHRkPgoJCQkJCQk8aW5wdXQgdHlwZT0ibnVtYmVyIgoJCQkJCQkgICAgICAgdmFsdWU9IjAiCgkJCQkJCSAgICAgICBtaW49IjAiCgkJCQkJCSAgICAgICAjcG9saWNrbwoJCQkJCQkgICAgICAgKGNoYW5nZSk9InByaWxleml0b3N0Lm5hc3RhdlNhemt1KHBvbGlja28udmFsdWUpIj4KCQkJCQk8L3RkPgoJCQkJCTx0ZCBjbGFzcz0idGV4dC1yaWdodCI+e3twcmlsZXppdG9zdC5nZXRTYXprYUNlbGtlbSh0aXBvdmFuYUNpc2xhLmxlbmd0aCl9fSBL6AoJCQkJCTwvdGQ+CgkJCQk8L3RyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1226,8 +1228,8 @@
         <entry>we</entry>
         <entry>wq</entry>
         <entry>ww</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
