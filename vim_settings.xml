@@ -393,7 +393,6 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/index.html" timestamp="1456073062924" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/css/korunkarControl.css" timestamp="1451994729452">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="18" column="9" />
@@ -725,7 +724,6 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero-detail.component.html" timestamp="1456064212031" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/js/korunka.vsadit-tiket-column.js" timestamp="1446646705347">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="54" />
@@ -889,11 +887,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456072801122">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456124504193">
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
@@ -1123,11 +1121,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtlbmFibGVQcm9kTW9kZX0gZnJvbSAiYW5ndWxhcjIvY29yZSI7CgplbmFibGVQcm9kTW9kZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PC90ZD4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90cj4=</text>
+        <text encoding="base64">PC90ZD4=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
@@ -1135,8 +1133,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJICAgIDxzZXN0YXZvdmFjLXByaWxleml0b3N0ICpuZ0Zvcj0iI3ByaWxleml0b3N0IG9mIHByaWxleml0b3N0aSIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtlbmFibGVQcm9kTW9kZX0gZnJvbSAiYW5ndWxhcjIvY29yZSI7CgplbmFibGVQcm9kTW9kZSgpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PC90ZD4=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1162,28 +1160,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8L3RyPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtlbmFibGVQcm9kTW9kZX0gZnJvbSAiYW5ndWxhcjIvY29yZSI7CgplbmFibGVQcm9kTW9kZSgpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQk8L3RyPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8dHI+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PC90cj4=</text>
       </register>
-      <register name="5" type="4">
-        <text>*ngFor=&quot;#prilezitost of prilezitosti&quot;</text>
-      </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>*ngFor=&quot;#prilezitost of prilezitosti&quot;</text>
       </register>
       <register name="7" type="4">
         <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>=</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
