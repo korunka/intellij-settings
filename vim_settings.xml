@@ -247,10 +247,9 @@
         <mark key="^" line="145" column="53" />
         <mark key="." line="145" column="53" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.component.ts" timestamp="1456072829208">
-        <mark key="[" line="17" column="12" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.component.ts" timestamp="1456125806209">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.korunka.latte" timestamp="1451996237083">
@@ -440,11 +439,12 @@
         <mark key="^" line="6" column="26" />
         <mark key="." line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456063348050">
-        <mark key="[" line="24" column="78" />
-        <mark key="]" line="24" column="77" />
-        <mark key="^" line="24" column="77" />
-        <mark key="." line="24" column="77" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" timestamp="1456125795302">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/css/style.css" timestamp="1447079419533">
         <mark key="[" line="7" column="0" />
@@ -887,11 +887,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456124504193">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="44" />
-        <mark key="^" line="21" column="44" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456125604879">
+        <mark key="[" line="25" column="48" />
+        <mark key="]" line="19" column="51" />
+        <mark key="." line="19" column="51" />
+        <mark key="^" line="19" column="51" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
@@ -1019,8 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
-      <jump line="95" column="34" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="96" column="30" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="65" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="74" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
@@ -1119,13 +1117,15 @@
       <jump line="82" column="28" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="110" column="47" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="0" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" />
+      <jump line="2" column="24" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
@@ -1133,8 +1133,8 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJICAgIDxzZXN0YXZvdmFjLXByaWxleml0b3N0ICpuZ0Zvcj0iI3ByaWxleml0b3N0IG9mIHByaWxleml0b3N0aSIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PC90ZD4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1160,28 +1160,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtlbmFibGVQcm9kTW9kZX0gZnJvbSAiYW5ndWxhcjIvY29yZSI7CgplbmFibGVQcm9kTW9kZSgpOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjIuMDIuMjAxNi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8L3RyPgo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dHI+Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PC90cj4=</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>*ngFor=&quot;#prilezitost of prilezitosti&quot;</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
