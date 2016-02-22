@@ -17,6 +17,8 @@
   </PHPCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
+    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
+    <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -50,6 +52,15 @@
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="neon">
