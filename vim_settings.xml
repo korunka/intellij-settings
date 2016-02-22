@@ -45,9 +45,9 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/tipovana-cisla.component.ts" timestamp="1456155214672">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="35" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/tipovana-cisla.component.ts" timestamp="1456173411725">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="31" column="4" />
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
@@ -57,11 +57,10 @@
         <mark key="^" line="146" column="23" />
         <mark key="." line="146" column="23" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket-factory.ts" timestamp="1456155988674">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket-factory.ts" timestamp="1456172808173">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/MojeKontoPresenter.korunkarmesice.latte" timestamp="1452514782266">
         <mark key="[" line="8" column="39" />
@@ -321,6 +320,9 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket-service.ts" timestamp="1456172844691">
+        <mark key="[" line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.latte" timestamp="1454321798704">
         <mark key="[" line="103" column="43" />
         <mark key="]" line="106" column="43" />
@@ -427,11 +429,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456153770960">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="52" column="9" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="52" column="9" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456173898086">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455890540829">
         <mark key="[" line="8" column="24" />
@@ -547,12 +549,6 @@
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" timestamp="1455897809551">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/SazkaTotalsControl.php" timestamp="1455532245597">
         <mark key="[" line="170" column="37" />
@@ -754,11 +750,22 @@
         <mark key="^" line="52" column="26" />
         <mark key="." line="52" column="26" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1456173969459">
+        <mark key="]" line="45" column="22" />
+        <mark key="^" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="11" />
         <mark key="^" line="78" column="11" />
         <mark key="." line="78" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/services/tiket.service.ts" timestamp="1456173112770">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/PocitadloControl/templates/PocitadloControl.dialogVkladyVybery.latte" timestamp="1447935161603">
         <mark key="[" line="18" column="17" />
@@ -831,11 +838,10 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456169899127">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sestavovac-kombi.component.ts" timestamp="1456172942253">
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -906,11 +912,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456145618301">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="39" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456173263883">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="49" column="3" />
+        <mark key="." line="49" column="3" />
+        <mark key="^" line="49" column="3" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
@@ -1140,20 +1146,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2F6a2E6IDAsCiAgICAgIHBvY2V0S29tYmluYWNpOiAwLAogICAgICBzYXprYUNlbGtlbTogMAogICAgfSwKICAgIHsKICAgICAgbmF6ZXY6ICcnLAogICAgICBzYXprYTogMCwKICAgICAgcG9jZXRLb21iaW5hY2k6IDAsCiAgICAgIHNhemthQ2Vsa2VtOiAwCiAgICB9LAogICAgewogICAgICBuYXpldjogJycsCiAgICAgIHNhemthOiAwLAogICAgICBwb2NldEtvbWJpbmFjaTogMCwKICAgICAgc2F6a2FDZWxrZW06IDAKICAgIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>čtveřice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIG5hemV2OiAndHJvamljZScsCiAgICAgICAgICAgIHNhemthOiAwLAogICAgICAgICAgICBwb2NldEtvbWJpbmFjaTogMCwKICAgICAgICAgICAgc2F6a2FDZWxrZW06IDAKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUHJpbGV6aXRvc3QoMSwgJ3PzbGEnKSwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc2F6a2E6IDAsCiAgICAgIHBvY2V0S29tYmluYWNpOiAwLAogICAgICBzYXprYUNlbGtlbTogMAogICAgfSwKICAgIHsKICAgICAgbmF6ZXY6ICcnLAogICAgICBzYXprYTogMCwKICAgICAgcG9jZXRLb21iaW5hY2k6IDAsCiAgICAgIHNhemthQ2Vsa2VtOiAwCiAgICB9LAogICAgewogICAgICBuYXpldjogJycsCiAgICAgIHNhemthOiAwLAogICAgICBwb2NldEtvbWJpbmFjaTogMCwKICAgICAgc2F6a2FDZWxrZW06IDAKICAgIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1178,32 +1184,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbmF6ZXY6ICcnLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc2F6a2FDZWxrZW06IDAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcG9jZXRLb21iaW5hY2k6IDAsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2F6a2E6IDAsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgbmF6ZXY6ICcnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1255,9 +1261,9 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>ww</entry>
+        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
