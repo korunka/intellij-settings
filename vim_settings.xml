@@ -258,10 +258,11 @@
         <mark key="^" line="145" column="53" />
         <mark key="." line="145" column="53" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.component.ts" timestamp="1456176386011">
-        <mark key="[" line="1" column="50" />
-        <mark key="]" line="1" column="50" />
-        <mark key="." line="1" column="50" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.component.ts" timestamp="1456181372333">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.korunka.latte" timestamp="1451996237083">
         <mark key="[" line="7" column="0" />
@@ -429,11 +430,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456176954825">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-        <mark key="^" line="7" column="53" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456181811330">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="32" />
+        <mark key="^" line="46" column="32" />
+        <mark key="." line="46" column="32" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455890540829">
         <mark key="[" line="8" column="24" />
@@ -750,11 +751,11 @@
         <mark key="^" line="51" column="26" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1456176361569">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="22" />
-        <mark key="^" line="62" column="22" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1456181289109">
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="35" />
+        <mark key="." line="59" column="35" />
+        <mark key="^" line="59" column="35" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
@@ -762,11 +763,11 @@
         <mark key="^" line="78" column="11" />
         <mark key="." line="78" column="11" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/services/tiket.service.ts" timestamp="1456173112770">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/services/tiket.service.ts" timestamp="1456179117297">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="39" />
+        <mark key="." line="12" column="65" />
+        <mark key="^" line="12" column="65" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/PocitadloControl/templates/PocitadloControl.dialogVkladyVybery.latte" timestamp="1447935161603">
         <mark key="[" line="18" column="17" />
@@ -774,11 +775,11 @@
         <mark key="^" line="19" column="11" />
         <mark key="." line="19" column="11" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/services/math.service.ts" timestamp="1456176247652">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/services/math.service.ts" timestamp="1456180967695">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="4" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_penize_klienta.sh" timestamp="1448025127174">
         <mark key="[" line="45" column="69" />
@@ -920,11 +921,10 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456176715640">
-        <mark key="[" line="28" column="84" />
-        <mark key="]" line="28" column="83" />
-        <mark key="^" line="28" column="83" />
-        <mark key="." line="28" column="83" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456181407172">
+        <mark key="[" line="28" column="63" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
@@ -1154,20 +1154,20 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5fbWF0aFNlcnZpY2UuYmlub21pbmFsQ29lZmZpY2llbnQocG9jZXRWc2F6ZW55Y2hDaXNlbCwgdGhpcy5wb2NldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuZmFjdG9yaWFsKG4pIC8gKHRoaXMuZmFjdG9yaWFsKGspICogdGhpcy5mYWN0b3JpYWwobiAtIGspKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>t</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1192,32 +1192,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>o</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSk7CiAgICAgIC8vIG1vcmUgc3RhdGVtZW50cwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VjZXQgKz0gcHJpbGV6aXRvc3Quc2F6a2FDZWxrZW07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEluamVjdG9yLnJlc29sdmVBbmRJbnN0YW50aWF0ZShQcmlsZXppdG9zdCksCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMucHJpbGV6aXRvc3RpLmhhc093blByb3BlcnR5KHByaWxleml0b3N0KSkgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciAodmFyICBpbiB0aGlzLnByaWxleml0b3N0IHsK</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>i</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9tYXRoU2VydmljZS5iaW5vbWluYWxDbwo=</text>
+        <text encoding="base64">ICAgIGZvciAodmFyICBpbiB0aGlzLnByaWxleml0b3N0aSkgewogICAgICBpZiAodGhpcy5wcmlsZXppdG9zdGkuaGFzT3duUHJvcGVydHkocHJpbGV6aXRvc3QpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1270,8 +1270,8 @@
         <entry>we</entry>
         <entry>ww</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
