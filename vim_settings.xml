@@ -745,11 +745,11 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456236501081">
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="78" column="54" />
-        <mark key="." line="78" column="54" />
-        <mark key="^" line="78" column="54" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456237314692">
+        <mark key="[" line="65" column="42" />
+        <mark key="]" line="65" column="52" />
+        <mark key="." line="65" column="52" />
+        <mark key="^" line="65" column="52" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1456181289109">
         <mark key="[" line="59" column="38" />
@@ -921,11 +921,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456232066497">
-        <mark key="[" line="29" column="88" />
-        <mark key="]" line="29" column="92" />
-        <mark key="." line="29" column="92" />
-        <mark key="^" line="29" column="92" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1456237610086">
+        <mark key="[" line="29" column="29" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
