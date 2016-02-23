@@ -430,8 +430,8 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456181811330">
-        <mark key="[" line="46" column="16" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456227733495">
+        <mark key="[" line="64" column="3" />
         <mark key="]" line="46" column="32" />
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
@@ -745,11 +745,8 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456227512412">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456229100944">
+        <mark key="[" line="48" column="11" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1456181289109">
         <mark key="[" line="59" column="38" />
@@ -1155,7 +1152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vICsgcOx0aWNlCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1164,10 +1161,10 @@
         <text encoding="base64">XDxoM1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMuZmFjdG9yaWFsKG4pIC8gKHRoaXMuZmFjdG9yaWFsKGspICogdGhpcy5mYWN0b3JpYWwobiAtIGspKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZD57e3Nwb2NpdGVqVnlocnkoMX19IEvoPC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vICsgcOx0aWNlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1193,31 +1190,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vICsg6HR2ZfhpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSk7CiAgICAgIC8vIG1vcmUgc3RhdGVtZW50cwo=</text>
+        <text encoding="base64">ICAgIC8vICsgdHJvamljZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VjZXQgKz0gcHJpbGV6aXRvc3Quc2F6a2FDZWxrZW07Cg==</text>
+        <text encoding="base64">ICAgIC8vICsgZHZvamljZSA9IChwb2NldCBkdm9qaWMgdiB0cmVm4WNoKSAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMucHJpbGV6aXRvc3RpLmhhc093blByb3BlcnR5KHByaWxleml0b3N0KSkgewo=</text>
+        <text encoding="base64">ICAgIC8vID0gc/NsYSA9IChwb2NldCBz82wgdiB0cmVm4WNoKSAqICg1ICogc2F6a2EgbmEgc/NsYSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAodmFyICBpbiB0aGlzLnByaWxleml0b3N0IHsK</text>
+        <text encoding="base64">ICAgIGZvciAodmFyIO0gPSAwOyBpIDwgNjsgaSsrKSB7CiAgICAgIC8vIHZ5aHJhID0gcG9jZXQga29tYmluYWPtIHYgcPjtbGWeaXRvc3RpIHTpdG8gZOlsa3kgcG/oZXRUcmVmCiAgICAgIC8vIHBsdXMgcG/oZXQga29tYmluYWPtIHYgcPjtbGWeaXRvc3RpIAogICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">CgoKICBwdWJsaWMgdnlocnk6IEFycmF5PG51bWJlcj4gPSBbCiAgICAwLAogICAgMCwKICAgIDAsCiAgICAwLAogICAgMCwKICAgIDAKICBdOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIDx0ZD57e3Z5aHJ5WzFdfX0gS+g8L3RkPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAodmFyICBpbiB0aGlzLnByaWxleml0b3N0aSkgewogICAgICBpZiAodGhpcy5wcmlsZXppdG9zdGkuaGFzT3duUHJvcGVydHkocHJpbGV6aXRvc3QpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDx0ZD57e3Z5aHJ5WzJdfX0gS+g8L3RkPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1270,8 +1267,8 @@
         <entry>we</entry>
         <entry>ww</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
