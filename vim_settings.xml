@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.pobocky.latte" timestamp="1454321925679">
@@ -745,11 +745,10 @@
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/server.ts" timestamp="1456332222366">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/server.ts" timestamp="1456344810952">
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.pobocky.latte" timestamp="1451996260870">
         <mark key="[" line="9" column="0" />
