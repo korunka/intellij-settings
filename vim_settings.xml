@@ -447,6 +447,11 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.gitignore" timestamp="1456326098826">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="29" column="34" />
@@ -685,6 +690,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/tsconfig.json" timestamp="1456326228055">
+        <mark key="[" line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.mesicniRepublikovePoradi.korunka.latte" timestamp="1452259938176">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="65" />
@@ -750,8 +758,11 @@
         <mark key="^" line="10" column="54" />
         <mark key="." line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1456322494650">
-        <mark key="[" line="1" column="28" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1456325869466">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="2" />
+        <mark key="^" line="37" column="2" />
+        <mark key="." line="37" column="2" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456251955755">
         <mark key="[" line="36" column="50" />
@@ -859,6 +870,11 @@
         <mark key="]" line="1" column="49" />
         <mark key="^" line="1" column="49" />
         <mark key="." line="1" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/gulpfile.js" timestamp="1456326195644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_konto_transakce.sql" timestamp="1448294114448">
         <mark key="[" line="58" column="6" />
@@ -1164,7 +1180,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTwvc2NyaXB0PgoK</text>
+        <text encoding="base64">CS8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PC90Ym9keT4=</text>
@@ -1173,10 +1189,10 @@
         <text encoding="base64">XDxoM1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHRyICpuSWY9Int7c3BvY2l0ZWpWeWhyeSgzKT4wfX0iPgo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogInRlc3QiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTwvc2NyaXB0PgoK</text>
+        <text encoding="base64">CS8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1202,25 +1218,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDEpPjAiPgogICAgICAgICAgPHRkPjE8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgxKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDIpPjAiPgogICAgICAgICAgPHRkPjI8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgyKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDMpPjAiPgogICAgICAgICAgPHRkPjM8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgzKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDQpPjAiPgogICAgICAgICAgPHRkPjQ8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg0KX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDUpPjAiPgogICAgICAgICAgPHRkPjU8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg1KX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDYpPjAiPgogICAgICAgICAgPHRkPjY8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg2KX19IEvoPC90ZD4KICAgICAgPC90cj4K</text>
+        <text encoding="base64">CS9ub2RlX21vZHVsZXMK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">PC90Ym9keT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">d2ViLwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PC90ZW1wbGF0ZT4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CgojIyMgTGludXggdGVtcGxhdGUKKn4KCiMgS0RFIGRpcmVjdG9yeSBwcmVmZXJlbmNlcwouZGlyZWN0b3J5CgojIExpbnV4IHRyYXNoIGZvbGRlciB3aGljaCBtaWdodCBhcHBlYXIgb24gYW55IHBhcnRpdGlvbiBvciBkaXNrCi5UcmFzaC0qCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Km5nSWY9InNwb2NpdGVqVnlocnkoaSk+MCI=</text>
+        <text>### Yeoman template
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAiZmlsZXMiOiB7CgogIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJndWxwLWNvbmNhdCI6ICJeMi42LjAiLAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>#i=&quot;index&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">CTwvc2NyaXB0PgoK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDEpPjAiPgogICAgICAgICAgPHRkPjE8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgxKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDIpPjAiPgogICAgICAgICAgPHRkPjI8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgyKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDMpPjAiPgogICAgICAgICAgPHRkPjM8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSgzKX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDQpPjAiPgogICAgICAgICAgPHRkPjQ8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg0KX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDUpPjAiPgogICAgICAgICAgPHRkPjU8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg1KX19IEvoPC90ZD4KICAgICAgPC90cj4KICAgICAgPHRyICpuZ0lmPSJzcG9jaXRlalZ5aHJ5KDYpPjAiPgogICAgICAgICAgPHRkPjY8L3RkPgogICAgICAgICAgPHRkPnt7c3BvY2l0ZWpWeWhyeSg2KX19IEvoPC90ZD4KICAgICAgPC90cj4K</text>
