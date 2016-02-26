@@ -636,11 +636,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1456428163042">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1456491558326">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -865,6 +865,11 @@
         <mark key="]" line="5" column="61" />
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456490715104">
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
@@ -1305,7 +1310,7 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1358,8 +1363,8 @@
         <entry>we</entry>
         <entry>ww</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
