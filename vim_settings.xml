@@ -51,11 +51,6 @@
         <mark key="^" line="134" column="426" />
         <mark key="." line="134" column="426" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/client/app/components/AppComponent.ts" timestamp="1456393989422">
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/js/korunka.klient-info-control.js" timestamp="1455525286987">
         <mark key="[" line="467" column="11" />
         <mark key="]" line="468" column="8" />
@@ -141,6 +136,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/spec-bundle.js" timestamp="1456523194481" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="81" />
@@ -170,6 +166,9 @@
         <mark key="]" line="9" column="11" />
         <mark key="^" line="9" column="11" />
         <mark key="." line="9" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket-service.ts" timestamp="1456172844691">
+        <mark key="[" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.latte" timestamp="1454321798704">
         <mark key="[" line="103" column="43" />
@@ -855,6 +854,7 @@
         <mark key="." line="8" column="39" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/src/app/directives/router-active.ts" timestamp="1456522961862" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/app/component.js" timestamp="1456498622664">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="35" />
@@ -927,6 +927,10 @@
         <mark key="^" line="5" column="33" />
         <mark key="." line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/src/vendor.ts" timestamp="1456522815892" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/webpack.config.js" timestamp="1456523387006">
+        <mark key="[" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/components/TahControl/templates/TahControl.latte" timestamp="1448539381543">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="13" />
@@ -956,6 +960,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/webpack.prod.config.js" timestamp="1456523341680" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.nax.latte" timestamp="1455567303519">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="32" column="7" />
@@ -1019,6 +1024,7 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled3/src/main.ts" timestamp="1456522850426" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1456393898972">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="33" />
@@ -1084,6 +1090,9 @@
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1455903646734">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/templates/VyberTahuControl.latte" timestamp="1448538899612">
         <mark key="[" line="6" column="29" />
