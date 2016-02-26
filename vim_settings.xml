@@ -401,14 +401,16 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/app/app/index.js" timestamp="1456489768556">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.sazenka.latte" timestamp="1455570934996">
         <mark key="[" line="0" column="29" />
         <mark key="]" line="45" column="6" />
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/tsconfig.json" timestamp="1456346597115">
-        <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/KrajskyRocniCelkovyAktualni.php" timestamp="1452159840926">
         <mark key="[" line="15" column="0" />
@@ -816,6 +818,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/app/app/component.js" timestamp="1456489739433">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/.gitignore" timestamp="1446923027354">
         <mark key="[" line="3" column="5" />
@@ -1239,7 +1246,7 @@
         <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>/**</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoM1w+</text>
@@ -1276,29 +1283,29 @@
       <register name="2" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjYuMDIuMjAxNi4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="3" type="4">
+        <text>/**</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gdW5jb21tZW50IGFmdGVyIHBsYWNpbmcgeW91ciBmYXZpY29uIGluIC9wdWJsaWMK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogTGlzdGVuIG9uIHByb3ZpZGVkIHBvcnQsIG9uIGFsbCBuZXR3b3JrIGludGVyZmFjZXMuCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjYuMDIuMjAxNi4K</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjYuMDIuMjAxNi4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1351,8 +1358,8 @@
         <entry>we</entry>
         <entry>ww</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
