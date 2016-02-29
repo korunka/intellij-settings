@@ -1123,6 +1123,13 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1456752096620">
+        <mark key="'" line="1619" column="13" />
+        <mark key="[" line="1259" column="20" />
+        <mark key="]" line="1259" column="38" />
+        <mark key="^" line="1259" column="38" />
+        <mark key="." line="1259" column="38" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="57" column="29" />
@@ -1173,8 +1180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="30" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
-      <jump line="65" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="74" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="75" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="85" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
@@ -1273,22 +1278,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/bs-config.js" />
       <jump line="2" column="24" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/prilezitost.ts" />
+      <jump line="1233" column="13" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
+      <jump line="1609" column="13" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoM1w+</text>
+        <text encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAvLyBFTlRSWSBhY2NlcHRzIHBhdGggb3IgYW4gb2JqZWN0IG9mIGVudHJpZXMuIFdFJ2xsIGJlIHVzaW5nIHRoZSBsYXR0ZXIsIHNpbmNlIGl0J3MgbW9yZSBjb252ZW5pZW50IGZvciBtb3JlIGNvbXBsZXggY29uZmlndXJhdGlvbnMKICBlbnRyeTogewogICAgYXBwOiBQQVRIUy5hcHAKICB9LAogIG91dHB1dDogewogICAgcGF0aDogUEFUSFMuYnVpbGQsCiAgICBmaWxlbmFtZTogJ2J1bmRsZS5qcycKICB9Cg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1313,38 +1320,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZSI6ICJeMS40LjAiLAo=</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIgo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="4" type="4">
+        <text>o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjYuMDIuMjAxNi4K</text>
+      <register name="5" type="4">
+        <text>c</text>
       </register>
-      <register name="6" type="4">
-        <text>/**</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJY29yZUVsZW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigndGV4dGlucHV0JywgZnVuY3Rpb24oZXZlbnQpewoJCQkJZGVidWcuZGVidWcoZXZlbnQpOwoJCQl9KVY7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="7" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMjYuMDIuMjAxNi4K</text>
+      <register name="8" type="4">
+        <text>I</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoM1w+</last-search>
+      <last-search encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoM1w+</last-pattern>
+      <last-pattern encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1352,8 +1359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nazev</entry>
-        <entry>azev</entry>
         <entry>action</entry>
         <entry>actionLo</entry>
         <entry>menuC</entry>
@@ -1372,6 +1377,8 @@
         <entry>h_table</entry>
         <entry>kontext</entry>
         <entry encoding="base64">XDxoM1w+</entry>
+        <entry encoding="base64">XDxvbktleURvd25cPg==</entry>
+        <entry encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
