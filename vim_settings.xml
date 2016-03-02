@@ -9,7 +9,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/client/index.js" timestamp="1456502846791">
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/client/index.js" timestamp="1456922155113">
         <mark key="[" line="0" column="22" />
         <mark key="]" line="0" column="57" />
         <mark key="^" line="0" column="57" />
@@ -392,6 +392,7 @@
         <mark key="^" line="255" column="175" />
         <mark key="." line="255" column="175" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/client/component.js" timestamp="1456922180668" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455873929950">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="26" column="2" />
@@ -886,11 +887,10 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456831907113">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456922304656">
+        <mark key="[" line="5" column="38" />
+        <mark key="]" line="7" column="42" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
@@ -1282,7 +1282,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzZXJ2ZXIgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnY2xpZW50JyksCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHRoaXMudGlrZXQuY2lzbGEgPSB2YWx1ZXM7</text>
@@ -1291,10 +1291,10 @@
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
+        <text encoding="base64">ICBiYWNrb2ZmaWNlIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2NsaWVudCcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzZXJ2ZXIgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnY2xpZW50JyksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1319,29 +1319,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHRoaXMudGlrZXQuY2lzbGEgPSB2YWx1ZXM7</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjbGllbnQgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnY2xpZW50JyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">IHRoaXMudGlrZXQuY2lzbGEgPSB2YWx1ZXM7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CgogICAgLyoqCiAgICAgKgogICAgICogQHBhcmFtIGV2ZW50CiAgICAgKi8KICAgIGZ1bmN0aW9uIG9uT21nKGV2ZW50KSB7CiAgICAgIGRlYnVnLmRlYnVnKCdvbWcnLCBldmVudCk7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>, data</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Zy5kZWJ1ZygkaW5wdXRFbGVtZW50LnZhbCgpKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
-      </register>
-      <register name="8" type="4">
-        <text>e</text>
-      </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
