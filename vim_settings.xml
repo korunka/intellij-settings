@@ -116,6 +116,12 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/backoffice/component.js" timestamp="1456931560571">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/js/souteze.js" timestamp="1455108741272">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="88" column="14" />
@@ -654,11 +660,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1456930210725">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-        <mark key="." line="15" column="37" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1456931745746">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="14" />
+        <mark key="^" line="15" column="14" />
+        <mark key="." line="15" column="14" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -834,6 +840,12 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/client/component.js" timestamp="1456932168199">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/mock-heroes.ts" timestamp="1456007289673">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="0" column="27" />
@@ -893,11 +905,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456930393407">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456932017972">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="3" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
@@ -1141,12 +1153,9 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1456753432991">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1456932858304">
         <mark key="'" line="882" column="10" />
-        <mark key="[" line="1289" column="33" />
-        <mark key="]" line="1287" column="21" />
         <mark key="^" line="1287" column="21" />
-        <mark key="." line="1287" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
@@ -1198,7 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.modern.korunka.latte" />
       <jump line="63" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
       <jump line="28" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
       <jump line="38" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
@@ -1298,22 +1306,23 @@
       <jump line="667" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
       <jump line="879" column="9" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
       <jump line="882" column="10" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>D</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tvZmZpY2UgOiBQQVRIUy5zcmMuYmFja29mZmljZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2J1aWxkJykK</text>
+        <text encoding="base64">aWYgKFRBUkdFVCA9PT0gJ2NsaWVudCcpIHsKICBjb25zdCB0YXJnZXRDb25maWcgPSB7CiAgICBvdXRwdXQgOiB7CiAgICAgIHBhdGggOiBQQVRIUy5kaXN0LmNsaWVudCwKICAgICAgZmlsZW5hbWUgOiAnYnVuZGxlLmpzJwogICAgfQogIH0KfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>D</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJhY2tvZmZpY2UgOiBQQVRIUy5zcmMuYmFja29mZmljZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1338,29 +1347,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>p</text>
+      <register name="2" type="2">
+        <text encoding="base64">CgppZiAoVEFSR0VUID09PSAnY2xpZW50JykgewogIGNvbW1vblsnb3V0cHV0J10gPSB7CiAgICBwYXRoIDogUEFUSFMuZGlzdC5jbGllbnQsCiAgICBmaWxlbmFtZSA6ICdidW5kbGUuanMnCiAgfTsKfQppZiAoVEFSR0VUID09PSAnYmFja29mZmljZScpIHsKICBjb21tb25bJ291dHB1dCddID0ge307Cn0K</text>
       </register>
-      <register name="3" type="4">
-        <text>p</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">dmFyIGRpc3REaXIgPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYnVpbGQnKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>S</text>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIHNyY0RpciA9IHBhdGguam9pbihfX2Rpcm5hbWUsICdhcHBzJyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZyb250b2ZmaWNlIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2J1aWxkJywgJ2Zyb250b2ZmaWNlJykgLy8gcG9ib2NreQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>p</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZyb250b2ZmaWNlIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FwcHMnLCAnZnJvbnRvZmZpY2UnKSAvLyBwb2JvY2t5Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>a</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhdGggOiBQQVRIUy5kaXN0LmJhY2tvZmZpY2UsCiAgICBmaWxlbmFtZSA6ICdidW5kbGUuanMnCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhcHBzIDoK</text>
+      <register name="9" type="4">
+        <text>const</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
