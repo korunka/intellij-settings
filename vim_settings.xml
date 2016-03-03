@@ -916,11 +916,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457016172370">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="87" column="25" />
-        <mark key="." line="87" column="25" />
-        <mark key="^" line="87" column="25" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457043862244">
+        <mark key="[" line="65" column="1" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
@@ -1321,19 +1321,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFRBUkdFVCA9ICdkaXN0JzsKICAgIEFQUExJQ0FUSU9OID0gJ2NsaWVudCc7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3BsYXlpbmcgJyArIHByb2Nlc3MuZW52Lm5wbV9saWZlY3ljbGVfZXZlbnQpOwpjb25zb2xlLmxvZygnYXBwIGlzICcgKyBBUFBMSUNBVElPTik7CmNvbnNvbGUubG9nKCd0cmd0IGlzICcgKyBQQVRIUy5kaXN0W0FQUExJQ0FUSU9OXSk7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFRBUkdFVCA9ICdkaXN0JzsKICAgIEFQUExJQ0FUSU9OID0gJ2NsaWVudCc7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2FwcCBpcyAnICsgQVBQTElDQVRJT04pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ3BsYXlpbmcgJyArIHByb2Nlc3MuZW52Lm5wbV9saWZlY3ljbGVfZXZlbnQpOwpjb25zb2xlLmxvZygnYXBwIGlzICcgKyBBUFBMSUNBVElPTik7CmNvbnNvbGUubG9nKCd0cmd0IGlzICcgKyBQQVRIUy5kaXN0W0FQUExJQ0FUSU9OXSk7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1358,32 +1358,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="2" type="4">
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3dpdGNoICgpIHsK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">c3dpdGNoIChwcm8pIHsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="6" type="2">
+        <text encoding="base64">c3dpdGNoICgpIHsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJlY2hvMiI6ICJFQ0hPIDIiLAo=</text>
+        <text encoding="base64">c3dpdGNoIChwcm8pIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1436,8 +1436,8 @@
         <entry>we</entry>
         <entry>ww</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
