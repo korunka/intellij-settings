@@ -660,11 +660,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1456934734232">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1457009525021">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="31" />
+        <mark key="^" line="13" column="14" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -905,7 +905,7 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1456955438034">
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457009492789">
         <mark key="[" line="31" column="7" />
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
@@ -1310,7 +1310,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhY2tvZmZpY2UgOiBQQVRIUy5zcmMuYmFja29mZmljZQo=</text>
+        <text encoding="base64">ICAgICJidWlsZC1jbGllbnQiIDogIndlYnBhY2siLAo=</text>
       </register>
       <register name="-" type="4">
         <text>const</text>
@@ -1319,7 +1319,7 @@
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgKFRBUkdFVCA9PT0gJ2NsaWVudCcpIHsKICBjb25zdCB0YXJnZXRDb25maWcgPSB7CiAgICBvdXRwdXQgOiB7CiAgICAgIHBhdGggOiBQQVRIUy5kaXN0LmNsaWVudCwKICAgICAgZmlsZW5hbWUgOiAnYnVuZGxlLmpzJwogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICAgICJidWlsZC1jbGllbnQiIDogIndlYnBhY2siLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJhY2tvZmZpY2UgOiBQQVRIUy5zcmMuYmFja29mZmljZQo=</text>
