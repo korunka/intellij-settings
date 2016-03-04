@@ -268,6 +268,12 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="D:/Projekty/workspace.xml" timestamp="1457098647665">
+        <mark key="'" line="578" column="0" />
+        <mark key="[" line="586" column="0" />
+        <mark key="]" line="586" column="0" />
+        <mark key="." line="586" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/index.html" timestamp="1456825573338">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="41" column="6" />
@@ -598,7 +604,6 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/typings/browser/ambient/htmlparser2/htmlparser2.d.ts" timestamp="1457096342515" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="37" column="7" />
@@ -1303,10 +1308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="254" column="24" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
-      <jump line="311" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
-      <jump line="410" column="19" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
-      <jump line="485" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
       <jump line="207" column="42" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
       <jump line="336" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/SoutezePresenter.php" />
       <jump line="355" column="21" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/SoutezePresenter.php" />
@@ -1403,22 +1404,26 @@
       <jump line="128" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
       <jump line="129" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
       <jump line="130" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="32" column="27" filename="D:/Projekty/workspace.xml" />
+      <jump line="134" column="0" filename="D:/Projekty/workspace.xml" />
+      <jump line="551" column="0" filename="D:/Projekty/workspace.xml" />
+      <jump line="578" column="0" filename="D:/Projekty/workspace.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gPHJlZmVyZW5jZSBwYXRoPSJicm93c2VyXGFtYmllbnRcbm9kZVxub2RlLmQudHMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvTG90ZXJpZSBLb3J1bmthL29iZWQtby1ib3Qvc2NyYXBlci50cyI+CiAgICAgIDxwcm92aWRlciBzZWxlY3RlZD0idHJ1ZSIgZWRpdG9yLXR5cGUtaWQ9InRleHQtZWRpdG9yIj4KICAgICAgICA8c3RhdGUgdmVydGljYWwtc2Nyb2xsLXByb3BvcnRpb249IjAuNDc2OTAwMTYiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjIwIiBjb2x1bW49IjAiIHNlbGVjdGlvbi1zdGFydC1saW5lPSIyMCIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iMCIgc2VsZWN0aW9uLWVuZC1saW5lPSIyMCIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjAiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBvcnRcPg==</text>
+        <text>D:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvdC5hcGkucmVhY3Rpb25zLmFkZCh7CiAgICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgICBjaGFubmVsICAgOiBtZXNzYWdlLmNoYW5uZWwsCiAgICAgICAgbmFtZSAgICAgIDogJ3JvYm90X2ZhY2UnCiAgICAgIH0sCiAgICAgIGZ1bmN0aW9uIChlcnIsIHJlcykgewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIGJvdC5ib3RraXQubG9nKCdGYWlsZWQgdG8gYWRkIGVtb2ppIHJlYWN0aW9uIDooICcsIGVycik7CiAgICAgICAgfQogICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text>$PROJECT_DIR$</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gPHJlZmVyZW5jZSBwYXRoPSJicm93c2VyXGFtYmllbnRcbm9kZVxub2RlLmQudHMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvTG90ZXJpZSBLb3J1bmthL29iZWQtby1ib3Qvc2NyYXBlci50cyI+CiAgICAgIDxwcm92aWRlciBzZWxlY3RlZD0idHJ1ZSIgZWRpdG9yLXR5cGUtaWQ9InRleHQtZWRpdG9yIj4KICAgICAgICA8c3RhdGUgdmVydGljYWwtc2Nyb2xsLXByb3BvcnRpb249IjAuNDc2OTAwMTYiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjIwIiBjb2x1bW49IjAiIHNlbGVjdGlvbi1zdGFydC1saW5lPSIyMCIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iMCIgc2VsZWN0aW9uLWVuZC1saW5lPSIyMCIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjAiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1443,38 +1448,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvTG90ZXJpZSBLb3J1bmthL29iZWQtby1ib3QvdHlwaW5ncy9tYWluL2FtYmllbnQvcmVxdWVzdC9yZXF1ZXN0LmQudHMiPgogICAgICA8cHJvdmlkZXIgc2VsZWN0ZWQ9InRydWUiIGVkaXRvci10eXBlLWlkPSJ0ZXh0LWVkaXRvciI+CiAgICAgICAgPHN0YXRlIHZlcnRpY2FsLXNjcm9sbC1wcm9wb3J0aW9uPSIwLjgzNDU3NTI0Ij4KICAgICAgICAgIDxjYXJldCBsaW5lPSIxMzUiIGNvbHVtbj0iMCIgc2VsZWN0aW9uLXN0YXJ0LWxpbmU9IjEzNSIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iMCIgc2VsZWN0aW9uLWVuZC1saW5lPSIxMzUiIHNlbGVjdGlvbi1lbmQtY29sdW1uPSIwIiAvPgogICAgICAgICAgPGZvbGRpbmcgLz4KICAgICAgICA8L3N0YXRlPgogICAgICA8L3Byb3ZpZGVyPgogICAgPC9lbnRyeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iYnJvd3NlclxhbWJpZW50XGh0bWxwYXJzZXIyXGh0bWxwYXJzZXIyLmQudHMiIC8+Cg==</text>
+        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvTG90ZXJpZSBLb3J1bmthL29iZWQtby1ib3Qvc2NyYXBlci50cyI+CiAgICAgIDxwcm92aWRlciBzZWxlY3RlZD0idHJ1ZSIgZWRpdG9yLXR5cGUtaWQ9InRleHQtZWRpdG9yIj4KICAgICAgICA8c3RhdGUgdmVydGljYWwtc2Nyb2xsLXByb3BvcnRpb249IjAuMDk1MzgwMDMiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjQiIGNvbHVtbj0iMjIiIHNlbGVjdGlvbi1zdGFydC1saW5lPSI0IiBzZWxlY3Rpb24tc3RhcnQtY29sdW1uPSIyMiIgc2VsZWN0aW9uLWVuZC1saW5lPSI0IiBzZWxlY3Rpb24tZW5kLWNvbHVtbj0iMjIiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8b3B0aW9uIHZhbHVlPSIkUFJPSkVDVF9ESVIkL3NjcmFwZXIudHMiIC8+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gPHJlZmVyZW5jZSBwYXRoPSJicm93c2VyXGFtYmllbnRcbm9kZVxub2RlLmQudHMiIC8+Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>/</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iYnJvd3NlclxhbWJpZW50XGh0bWxwYXJzZXIyXGh0bWxwYXJzZXIyLmQudHMiIC8+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibWFpblxhbWJpZW50XGh0bWxwYXJzZXIyXGh0bWxwYXJzZXIyLmQudHMiIC8K</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibWFpblxub2RlXG5vZGUuZC50cyIgLz4K</text>
-      </register>
-      <register name="7" type="4">
-        <text>\</text>
-      </register>
-      <register name="8" type="4">
-        <text>ambnt</text>
-      </register>
-      <register name="9" type="4">
-        <text>e</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBvcnRcPg==</last-search>
+      <last-search>D:</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBvcnRcPg==</last-pattern>
+      <last-pattern>D:</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1482,8 +1487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>menuC</entry>
-        <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtXD4=</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtSG9kbm90YVw+</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtTWVuYVw+</entry>
@@ -1502,6 +1505,8 @@
         <entry encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDxleHBvcnRcPg==</entry>
+        <entry>d:</entry>
+        <entry>D:</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1519,10 +1524,10 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>ww</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>wqa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
