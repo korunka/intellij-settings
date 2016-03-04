@@ -527,11 +527,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457083600183">
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="37" column="44" />
-        <mark key="^" line="37" column="44" />
-        <mark key="." line="37" column="44" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457085323260">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="46" column="34" />
+        <mark key="." line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/templates/VsaditTiketColumn.latte" timestamp="1449831072551">
         <mark key="[" line="0" column="42" />
@@ -1367,10 +1367,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgImJ1Z3MiOiB7CiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9ob3dkeWFpL2JvdGtpdC9pc3N1ZXMiCiAgfSw=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>xoxb-24314404037-PwqrVfr1MxaCx01vx6DUkixh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
@@ -1379,7 +1379,7 @@
         <text encoding="base64">CiAgImJ1Z3MiOiB7CiAgICAidXJsIjogImh0dHBzOi8vZ2l0aHViLmNvbS9ob3dkeWFpL2JvdGtpdC9pc3N1ZXMiCiAgfSw=</text>
       </register>
       <register name="1" type="4">
-        <text>xoxb-24314404037-PwqrVfr1MxaCx01vx6DUkixh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1404,29 +1404,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAic2xhY2stYXBpLXRva2VuIjogInhveGItMjQzMTQ0MDQwMzctUHdxclZmcjFNeGFDeDAxdng2RFVraXhoIgo=</text>
+      <register name="2" type="4">
+        <text>.</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">bnBtIEVSUiEgVGVsbCB0aGUgcGFja2FnZSBhdXRob3IgdG8gZml4IHRoZWlyIHBhY2thZ2Uuago=</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgU0xBQ0tfQVBJX1RPS0VOID0gcmVxdWlyZSgnLi9zbGFjay1hcGktdG9rZW4uanNvbicpO2RkCg==</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;Ondra Hlaváč&quot;</text>
+        <text>č</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAiYXV0aG9yIjogIk9uZHJhIEhsYXZhYyIsCg==</text>
+      <register name="6" type="4">
+        <text>u</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6ICJodHRwczovL2dpdGh1Yi5jb20va29ydW5rYS9vYmVkLW8tYm90Igo=</text>
+      <register name="7" type="4">
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>xoxb-24314404037-PwqrVfr1MxaCx01vx6DUkixh</text>
+        <text>o</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3Rlc3QnKTsK</text>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
