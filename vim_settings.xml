@@ -33,6 +33,11 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/tipovana-cisla.component.ts" timestamp="1456825872734">
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="59" column="32" />
+        <mark key="^" line="59" column="32" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/package.json" timestamp="1457082928946">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="11" column="48" />
@@ -527,11 +532,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457088286145">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="24" />
-        <mark key="." line="45" column="24" />
-        <mark key="^" line="45" column="24" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457089832649">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/templates/VsaditTiketColumn.latte" timestamp="1449831072551">
         <mark key="[" line="0" column="42" />
@@ -1159,11 +1164,10 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457089660250">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457089692144">
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="15" column="28" />
+        <mark key="^" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.rocniKrajskePoradi.pobocky.latte" timestamp="1452259957720">
         <mark key="[" line="6" column="0" />
@@ -1373,7 +1377,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CmNvbnRyb2xsZXIuaGVhcnMoWycocmFk7GppKSddLCBbJ2RpcmVjdF9tZW50aW9uJywgJ21lbnRpb24nLCAnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgYm90LmFwaS5yZWFjdGlvbnMuYWRkKHsKICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgY2hhbm5lbCAgIDogbWVzc2FnZS5jaGFubmVsLAogICAgICBuYW1lICAgICAgOiAnYmx1c2gnCiAgICB9LAogICAgZnVuY3Rpb24gKGVyciwgcmVzKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBib3QuYm90a2l0LmxvZygnRmFpbGVkIHRvIGFkZCBlbW9qaSByZWFjdGlvbiA6KCAnLCBlcnIpOwogICAgICB9CiAgICB9KTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0htbS4uLiB0byBt4ZogYXNpIHByYXZkdS4nKTsKfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -1385,7 +1389,7 @@
         <text encoding="base64">ICAgIGJvdC5hcGkucmVhY3Rpb25zLmFkZCh7CiAgICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgICBjaGFubmVsICAgOiBtZXNzYWdlLmNoYW5uZWwsCiAgICAgICAgbmFtZSAgICAgIDogJ3JvYm90X2ZhY2UnCiAgICAgIH0sCiAgICAgIGZ1bmN0aW9uIChlcnIsIHJlcykgewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIGJvdC5ib3RraXQubG9nKCdGYWlsZWQgdG8gYWRkIGVtb2ppIHJlYWN0aW9uIDooICcsIGVycik7CiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CmNvbnRyb2xsZXIuaGVhcnMoWycocmFk7GppKSddLCBbJ2RpcmVjdF9tZW50aW9uJywgJ21lbnRpb24nLCAnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgYm90LmFwaS5yZWFjdGlvbnMuYWRkKHsKICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgY2hhbm5lbCAgIDogbWVzc2FnZS5jaGFubmVsLAogICAgICBuYW1lICAgICAgOiAnYmx1c2gnCiAgICB9LAogICAgZnVuY3Rpb24gKGVyciwgcmVzKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBib3QuYm90a2l0LmxvZygnRmFpbGVkIHRvIGFkZCBlbW9qaSByZWFjdGlvbiA6KCAnLCBlcnIpOwogICAgICB9CiAgICB9KTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0htbS4uLiB0byBt4ZogYXNpIHByYXZkdS4nKTsKfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1411,28 +1415,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDQuMDMuMjAxNi4K</text>
+        <text encoding="base64">ICByZXF1ZXN0LmdldCgiaHR0cHM6Ly9nb29nbGUuY29tIikucGlwZShwYXJzZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Y29uc3QgcGFyc2VyID0gbmV3IGh0bWxwYXJzZXIuV3JpdGFibGVTdHJlYW0oewogIG9udGFnc3RhcnQobmFtZSkgewogICAgY29uc29sZS5sb2cobmFtZSArICcgJyk7CiAgfSwKICBvbmVuZCgpewogICAgY29uc29sZS5sb2coJ1RoaXMgaXMgdGhlIGVuZC4uLicpOwogIH0KfSk7CgpyZXF1ZXN0LmdldCgiaHR0cHM6Ly9nb29nbGUuY29tIikucGlwZShwYXJzZXIpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDQuMDMuMjAxNi4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBib3QuYm90a2l0LmxvZygndHJlZmEnKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>i</text>
       </register>
-      <register name="6" type="4">
-        <text>g</text>
-      </register>
-      <register name="7" type="4">
-        <text>/</text>
-      </register>
-      <register name="8" type="4">
-        <text>/</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
