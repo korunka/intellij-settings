@@ -556,11 +556,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457102856959">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457102965322">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/templates/VsaditTiketColumn.latte" timestamp="1449831072551">
         <mark key="[" line="0" column="42" />
@@ -1411,7 +1411,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RkZWJ1ZyhyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICBwb3J0OiAzMDAxCg==</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1423,7 +1423,7 @@
         <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RkZWJ1ZyhyZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICBwb3J0OiAzMDAxCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1449,28 +1449,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXVlc3RkZWJ1ZyA9IHJlcXVpcmUgKCdyZXF1ZXN0LWRlYnVnJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RkZWJ1ZyhyZXF1ZXN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWVzdC5kZWJ1ZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RkZWJ1ZyA9IHJlcXVpcmUgKCdyZXF1ZXN0LWRlYnVnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Tk9ERV9ERUJVRz1yZXF1ZXN0Cg==</text>
+        <text encoding="base64">cmVxdWVzdC5kZWJ1ZyA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtZXRob2Q6ICdHRVQnCg==</text>
+        <text encoding="base64">Tk9ERV9ERUJVRz1yZXF1ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYXRoOiAnJywK</text>
+        <text encoding="base64">ICBtZXRob2Q6ICdHRVQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwYXRoOiAnJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWVzdGRlYnVnKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIHJlcXVlc3RkZWJ1ZyA9IHJlcXVpcmUoJ3JlcXVlc3QtZGVidWcnKTsK</text>
+        <text encoding="base64">cmVxdWVzdGRlYnVnKHJlcXVlc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
