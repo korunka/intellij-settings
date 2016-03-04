@@ -92,6 +92,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457095410472">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/www/maintenance/hlasky.txt" timestamp="1453206095664">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="0" />
@@ -171,7 +177,6 @@
         <mark key="." line="28" column="48" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/bundle.js" timestamp="1457049053488" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.korunka.latte" timestamp="1454335600120">
         <mark key="[" line="10" column="117" />
         <mark key="]" line="10" column="116" />
@@ -286,6 +291,12 @@
         <mark key="]" line="28" column="8" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/tsconfig.json" timestamp="1457095604724">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/client/index.html" timestamp="1456394074337">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="16" column="16" />
@@ -387,6 +398,9 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" timestamp="1457096846233">
+        <mark key="'" line="130" column="8" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/math.service.ts" timestamp="1456059068131">
         <mark key="[" line="15" column="15" />
         <mark key="]" line="15" column="15" />
@@ -429,7 +443,6 @@
         <mark key="^" line="255" column="175" />
         <mark key="." line="255" column="175" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/client/component.js" timestamp="1456922180668" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/package.json" timestamp="1455873929950">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="26" column="2" />
@@ -532,11 +545,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457089832649">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="1" column="26" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457095653942">
+        <mark key="[" line="54" column="14" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/templates/VsaditTiketColumn.latte" timestamp="1449831072551">
         <mark key="[" line="0" column="42" />
@@ -574,13 +587,13 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/examples/convo_bot.js" timestamp="1457083792552" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/fixtures/cs/korunka_divize.sql" timestamp="1448620202188">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="50" />
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
+      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/typings/browser/ambient/htmlparser2/htmlparser2.d.ts" timestamp="1457096342515" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.kombi.latte" timestamp="1455568168064">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="37" column="7" />
@@ -705,6 +718,12 @@
         <mark key="]" line="20" column="33" />
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457096817999">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -980,7 +999,6 @@
         <mark key="." line="170" column="60" />
         <mark key="^" line="170" column="60" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/npm-debug.log" timestamp="1456926076238" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/KlientInfoControl.php" timestamp="1455521680556">
         <mark key="[" line="288" column="46" />
         <mark key="]" line="288" column="103" />
@@ -993,6 +1011,7 @@
         <mark key="." line="29" column="79" />
         <mark key="^" line="29" column="79" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/typings.json" timestamp="1457096559786" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled2/package.json" timestamp="1456420186487">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="33" />
@@ -1220,10 +1239,6 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1456932858304">
-        <mark key="'" line="882" column="10" />
-        <mark key="^" line="1287" column="21" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/db_vytvor_korunka_klienta.sh" timestamp="1447959723230">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="57" column="29" />
@@ -1274,26 +1289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="28" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="38" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="39" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="49" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="50" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="52" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="53" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="55" column="7" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="60" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="64" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="66" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="75" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="76" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="90" column="2" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="91" column="1" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-sestka.korunka.latte" />
-      <jump line="247" column="4" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
-      <jump line="272" column="32" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
-      <jump line="257" column="38" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
-      <jump line="267" column="38" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="254" column="24" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/css/sestavovac-korunky-control.css" />
       <jump line="311" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
       <jump line="410" column="19" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/KorunkarControl.php" />
@@ -1374,22 +1369,42 @@
       <jump line="879" column="9" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
       <jump line="882" column="10" filename="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" />
       <jump line="8" column="25" filename="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" />
+      <jump line="132" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="136" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="146" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="151" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="159" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="164" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="206" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="210" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="219" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="228" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="232" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="237" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="243" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="249" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="258" column="2" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="18" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="121" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="128" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="129" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
+      <jump line="130" column="8" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnRyb2xsZXIuaGVhcnMoWycocmFk7GppKSddLCBbJ2RpcmVjdF9tZW50aW9uJywgJ21lbnRpb24nLCAnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgYm90LmFwaS5yZWFjdGlvbnMuYWRkKHsKICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgY2hhbm5lbCAgIDogbWVzc2FnZS5jaGFubmVsLAogICAgICBuYW1lICAgICAgOiAnYmx1c2gnCiAgICB9LAogICAgZnVuY3Rpb24gKGVyciwgcmVzKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBib3QuYm90a2l0LmxvZygnRmFpbGVkIHRvIGFkZCBlbW9qaSByZWFjdGlvbiA6KCAnLCBlcnIpOwogICAgICB9CiAgICB9KTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0htbS4uLiB0byBt4ZogYXNpIHByYXZkdS4nKTsKfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
+        <text encoding="base64">XDxleHBvcnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvdC5hcGkucmVhY3Rpb25zLmFkZCh7CiAgICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgICBjaGFubmVsICAgOiBtZXNzYWdlLmNoYW5uZWwsCiAgICAgICAgbmFtZSAgICAgIDogJ3JvYm90X2ZhY2UnCiAgICAgIH0sCiAgICAgIGZ1bmN0aW9uIChlcnIsIHJlcykgewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIGJvdC5ib3RraXQubG9nKCdGYWlsZWQgdG8gYWRkIGVtb2ppIHJlYWN0aW9uIDooICcsIGVycik7CiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnRyb2xsZXIuaGVhcnMoWycocmFk7GppKSddLCBbJ2RpcmVjdF9tZW50aW9uJywgJ21lbnRpb24nLCAnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgYm90LmFwaS5yZWFjdGlvbnMuYWRkKHsKICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgY2hhbm5lbCAgIDogbWVzc2FnZS5jaGFubmVsLAogICAgICBuYW1lICAgICAgOiAnYmx1c2gnCiAgICB9LAogICAgZnVuY3Rpb24gKGVyciwgcmVzKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBib3QuYm90a2l0LmxvZygnRmFpbGVkIHRvIGFkZCBlbW9qaSByZWFjdGlvbiA6KCAnLCBlcnIpOwogICAgICB9CiAgICB9KTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0htbS4uLiB0byBt4ZogYXNpIHByYXZkdS4nKTsKfSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1415,37 +1430,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1ZXN0LmdldCgiaHR0cHM6Ly9nb29nbGUuY29tIikucGlwZShwYXJzZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICdub2RlL3JlZGRxdWVzdCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcGFyc2VyID0gbmV3IGh0bWxwYXJzZXIuV3JpdGFibGVTdHJlYW0oewogIG9udGFnc3RhcnQobmFtZSkgewogICAgY29uc29sZS5sb2cobmFtZSArICcgJyk7CiAgfSwKICBvbmVuZCgpewogICAgY29uc29sZS5sb2coJ1RoaXMgaXMgdGhlIGVuZC4uLicpOwogIH0KfSk7CgpyZXF1ZXN0LmdldCgiaHR0cHM6Ly9nb29nbGUuY29tIikucGlwZShwYXJzZXIpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICdub2RlL3JlcXVlc3QnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibm9kZS5kLnRzIiAvPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDQuMDMuMjAxNi4K</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBib3QuYm90a2l0LmxvZygndHJlZmEnKTsK</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</last-search>
+      <last-search encoding="base64">XDxleHBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxleHBvcnRcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1453,7 +1468,6 @@
     </search>
     <history>
       <history-search>
-        <entry>actionLo</entry>
         <entry>menuC</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
         <entry encoding="base64">XDx2c2F6ZW5vQ2Vsa2VtXD4=</entry>
@@ -1473,6 +1487,7 @@
         <entry encoding="base64">XDxvbktleURvd25cPg==</entry>
         <entry encoding="base64">XDxiaW5kSW5wdXRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxleHBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -1491,8 +1506,8 @@
         <entry>e</entry>
         <entry>we</entry>
         <entry>ww</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
