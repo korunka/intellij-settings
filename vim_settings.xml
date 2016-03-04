@@ -557,13 +557,13 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457109515544">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457123911941">
+        <mark key="[" line="69" column="66" />
+        <mark key="]" line="69" column="62" />
+        <mark key="." line="69" column="62" />
+        <mark key="^" line="69" column="62" />
       </file>
-      <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457117013265">
+      <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="36" />
@@ -1222,11 +1222,10 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457122728212">
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-        <mark key="^" line="47" column="18" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457124199658">
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.rocniKrajskePoradi.pobocky.latte" timestamp="1452259957720">
         <mark key="[" line="6" column="0" />
