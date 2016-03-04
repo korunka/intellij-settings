@@ -557,11 +557,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457132780342">
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="7" />
-        <mark key="." line="68" column="7" />
-        <mark key="^" line="68" column="7" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457134427230">
+        <mark key="[" line="57" column="80" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -8318,8 +8318,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -8328,10 +8328,10 @@
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLHsKICAgICAgdHlwZTogInR5cGluZyIKICAgIH0pOwo=</text>
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gLy8K</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8357,28 +8357,28 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text>;</text>
+      </register>
+      <register name="3" type="4">
         <text>)</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgaWQ6IDEK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY2hhbm5lbC4sCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vIHRoZW4gcmVzcG9uZCB3aXRoIGEgbWVzc2FnZSBvYmplY3QK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLCAndHJlZmEnKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8KLy92YXIgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsKLy92YXIgZnMgPSByZXF1aXJlKCdmcycpOwovL3JlcXVlc3QoJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMS8nKS5waXBlKGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCdkb29kbGUudHh0JykpOwovLwovLwovLwovL3Byb2Nlc3MuZXhpdCgxKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3phIG3sIHaaZScpOwo=</text>
+        <text encoding="base64">Ly8KLy92YXIgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsKLy92YXIgZnMgPSByZXF1aXJlKCdmcycpOwovL3JlcXVlc3QoJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMS8nKS5waXBlKGZzLmNyZWF0ZVdyaXRlU3RyZWFtKCdkb29kbGUudHh0JykpOwovLwovLwovLwovL3Byb2Nlc3MuZXhpdCgxKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
