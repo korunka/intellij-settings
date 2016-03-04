@@ -92,8 +92,8 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457095410472">
-        <mark key="[" line="0" column="26" />
+      <file name="D:/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457098326393">
+        <mark key="[" line="22" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -115,6 +115,11 @@
         <mark key="]" line="10" column="54" />
         <mark key="^" line="10" column="22" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/typings/browser.d.ts" timestamp="1457098057240">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/app/sestavovac-kombi.component.ts" timestamp="1455897512990">
         <mark key="[" line="26" column="15" />
@@ -719,11 +724,11 @@
         <mark key="^" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457096817999">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.ts" timestamp="1457098363442">
+        <mark key="[" line="22" column="51" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -981,6 +986,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/typings/main.d.ts" timestamp="1457098051936">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457049022345">
         <mark key="[" line="65" column="1" />
         <mark key="]" line="68" column="25" />
@@ -1011,7 +1021,11 @@
         <mark key="." line="29" column="79" />
         <mark key="^" line="29" column="79" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/typings.json" timestamp="1457096559786" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/typings.json" timestamp="1457098028827">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled2/package.json" timestamp="1456420186487">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="33" />
@@ -1392,10 +1406,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">Ly8gPHJlZmVyZW5jZSBwYXRoPSJicm93c2VyXGFtYmllbnRcbm9kZVxub2RlLmQudHMiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBvcnRcPg==</text>
@@ -1404,7 +1418,7 @@
         <text encoding="base64">ICAgIGJvdC5hcGkucmVhY3Rpb25zLmFkZCh7CiAgICAgICAgdGltZXN0YW1wIDogbWVzc2FnZS50cywKICAgICAgICBjaGFubmVsICAgOiBtZXNzYWdlLmNoYW5uZWwsCiAgICAgICAgbmFtZSAgICAgIDogJ3JvYm90X2ZhY2UnCiAgICAgIH0sCiAgICAgIGZ1bmN0aW9uIChlcnIsIHJlcykgewogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgIGJvdC5ib3RraXQubG9nKCdGYWlsZWQgdG8gYWRkIGVtb2ppIHJlYWN0aW9uIDooICcsIGVycik7CiAgICAgICAgfQogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7Cg==</text>
+        <text encoding="base64">Ly8gPHJlZmVyZW5jZSBwYXRoPSJicm93c2VyXGFtYmllbnRcbm9kZVxub2RlLmQudHMiIC8+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1429,29 +1443,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICdub2RlL3JlZGRxdWVzdCc7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtyZXF1ZXN0fSBmcm9tICdub2RlL3JlcXVlc3QnOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibm9kZS5kLnRzIiAvPgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>o</text>
-      </register>
-      <register name="6" type="4">
-        <text>n</text>
-      </register>
-      <register name="7" type="4">
+      <register name="2" type="4">
         <text>/</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0iYnJvd3NlclxhbWJpZW50XGh0bWxwYXJzZXIyXGh0bWxwYXJzZXIyLmQudHMiIC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibWFpblxhbWJpZW50XGh0bWxwYXJzZXIyXGh0bWxwYXJzZXIyLmQudHMiIC8K</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8vIDxyZWZlcmVuY2UgcGF0aD0ibWFpblxub2RlXG5vZGUuZC50cyIgLz4K</text>
+      </register>
+      <register name="7" type="4">
+        <text>\</text>
+      </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>ambnt</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1498,7 +1512,6 @@
         <entry>391</entry>
         <entry>1469</entry>
         <entry>ea</entry>
-        <entry>wqa</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>qa</entry>
@@ -1508,6 +1521,7 @@
         <entry>ww</entry>
         <entry>wq</entry>
         <entry>wa</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
