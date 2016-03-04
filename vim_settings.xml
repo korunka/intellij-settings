@@ -158,6 +158,7 @@
         <mark key="." line="28" column="48" />
         <mark key="^" line="28" column="48" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/bundle.js" timestamp="1457049053488" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.korunka.latte" timestamp="1454335600120">
         <mark key="[" line="10" column="117" />
         <mark key="]" line="10" column="116" />
@@ -671,11 +672,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1457015628463">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/package.json" timestamp="1457048827949">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -916,11 +917,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457043862244">
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457049022345">
         <mark key="[" line="65" column="1" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
+        <mark key="]" line="68" column="25" />
+        <mark key="." line="68" column="25" />
+        <mark key="^" line="68" column="25" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
@@ -1321,7 +1322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3BsYXlpbmcgJyArIHByb2Nlc3MuZW52Lm5wbV9saWZlY3ljbGVfZXZlbnQpOwpjb25zb2xlLmxvZygnYXBwIGlzICcgKyBBUFBMSUNBVElPTik7CmNvbnNvbGUubG9nKCd0cmd0IGlzICcgKyBQQVRIUy5kaXN0W0FQUExJQ0FUSU9OXSk7Cgo=</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjb25jdXJyZW50bHkgLS1raWxsLW90aGVycyBcIm5wbSBydW4gcnVuLWNsaWVudFwiIFwibnBtIHJ1biBydW4tYmFja29mZmljZVwiIiwK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1330,7 +1331,7 @@
         <text encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FwcCBpcyAnICsgQVBQTElDQVRJT04pOwo=</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJjb25jdXJyZW50bHkgLS1raWxsLW90aGVycyBcIm5wbSBydW4gcnVuLWNsaWVudFwiIFwibnBtIHJ1biBydW4tYmFja29mZmljZVwiIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coJ3BsYXlpbmcgJyArIHByb2Nlc3MuZW52Lm5wbV9saWZlY3ljbGVfZXZlbnQpOwpjb25zb2xlLmxvZygnYXBwIGlzICcgKyBBUFBMSUNBVElPTik7CmNvbnNvbGUubG9nKCd0cmd0IGlzICcgKyBQQVRIUy5kaXN0W0FQUExJQ0FUSU9OXSk7Cgo=</text>
