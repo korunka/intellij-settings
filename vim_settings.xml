@@ -128,11 +128,7 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/package.json" timestamp="1457082898412">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="31" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/zalezitost.html" timestamp="1457140906354" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/zalezitost.html" timestamp="1457144199432" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/backoffice/component.js" timestamp="1456931560571">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="42" />
@@ -549,11 +545,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457140088820">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457141847180">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="17" column="65" />
+        <mark key="." line="17" column="65" />
+        <mark key="^" line="17" column="65" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -1188,6 +1184,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/npm-debug.log" timestamp="1457143619720" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.pobocky.latte" timestamp="1454321979155">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1206,11 +1203,11 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457141141809">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457145258643">
+        <mark key="[" line="209" column="31" />
+        <mark key="]" line="209" column="23" />
+        <mark key="." line="209" column="23" />
+        <mark key="^" line="209" column="23" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.rocniKrajskePoradi.pobocky.latte" timestamp="1452259957720">
         <mark key="[" line="6" column="0" />
@@ -8299,20 +8296,20 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>text()</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgc2VsZiA9IHRoaXM7CgogIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KSB7CgogICAgcmVxdWVzdCh6ZHJvamVbaWRaZHJvamVdLnVybCwgZnVuY3Rpb24gKGVycm9yLCByZXNwb25zZSwgYm9keSkgewoKICAgICAgbGV0IG1vamVJZCA9IGlkWmRyb2plOwogICAgICBsZXQgbXVqWmRyb2ogPSB6ZHJvamVbaWRaZHJvamVdOwoKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgcmVqZWN0KCduZXBvZGH4aWxvIHNlIHN04Whub3V0IG5hYu1ka3UgcHJvICcgKyBtdWpaZHJvai5uYW1lLCBlcnJvcik7CiAgICAgICAgY29uc29sZS5sb2coJ25lcG9kYfhpbG8gc2Ugc3ThaG5vdXQgbmFi7WRrdSBwcm8gJyArIG11alpkcm9qLm5hbWUsIGVycm9yKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBzZWxmW211alpkcm9qLnBhcnNlcl0uYXBwbHkoc2VsZiwgW2JvZHksIG1vamVJZF0pOwogICAgICAgIHJlc29sdmUoc2VsZi5uYWJpZGthW21vamVJZF0pOwogICAgICB9CiAgICB9KTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAucmVwbGFjZSgvKCk/XChbXHMxMjM0NTY3ODksXStcKVxzJC9pLCAnJykK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>-</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8337,29 +8334,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>text()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBib2R5ID0gZW5jb2RpbmcuY29udmVydChib2R5LCAndXRmOCcsIGNwMTI1MCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxldCBjZW5hID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gYm9keS50b1N0cmluZygndXRmOCcpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>cena</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
-      <register name="5" type="4">
-        <text>$(tds[2]).text()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBuYXpldiA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICdVc2VyLUFnZW50JyAgICAgOiAncmVxdWVzdCcsCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICQodGRzWzFdKS50ZXh0KCkucmVwbGFjZSgvXHMrL2csICcgJykudHJpbSgpOw==</text>
+        <text encoding="base64">ICAgICAgaGVhZGVycyA6IHs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRyaW0gY2VueQo=</text>
+        <text encoding="base64">ICAgICAgICAgICdBY2NlcHQtQ2hhcnNldCcgOiAndXRmLTgnCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRyaW0gbuF6dnUK</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
