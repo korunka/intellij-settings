@@ -549,11 +549,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457207022502">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="81" column="3" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="85" column="68" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457207847750">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="2" />
+        <mark key="^" line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -1158,6 +1158,7 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/encoding/lib/encoding.js" timestamp="1457207966559" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1456393898972">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="33" />
@@ -1219,11 +1220,11 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457206686366">
-        <mark key="[" line="118" column="11" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457208700974">
+        <mark key="[" line="215" column="49" />
+        <mark key="]" line="217" column="36" />
+        <mark key="^" line="217" column="36" />
+        <mark key="." line="217" column="36" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.rocniKrajskePoradi.pobocky.latte" timestamp="1452259957720">
         <mark key="[" line="6" column="0" />
@@ -8313,19 +8314,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29udHJvbGxlci5oZWFycyhbJyhjby4qKGhyYWp8bWFqfGRbYeFddmF8amUpKS4qKHpbYeFdbGUoW3qeXWl0b3N0KSopJ10sIFsnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgY29uc29sZS5sb2cobWVzc2FnZS5tYXRjaCk7CiAgYm90LnJlcGx5KG1lc3NhZ2UsICdLb3VrbnUgc2UgbmEgbmFi7WRrdSBa4Wxlnml0b3N0aS4nKTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0FsZSBide90ZSBzY2hvdu12YXbtLCBqZZp07CBzZSB16O1tLiA6Ymx1c2g6Jyk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>zdroje[idZdroje].url,</text>
       </register>
       <register name="/" type="4">
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29udHJvbGxlci5oZWFycyhbJyhjby4qKGhyYWp8bWFqfGRbYeFddmF8amUpKS4qKHpbYeFdbGUoW3qeXWl0b3N0KSopJ10sIFsnZGlyZWN0X21lc3NhZ2UnLCAnYW1iaWVudCddLCBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7CiAgY29uc29sZS5sb2cobWVzc2FnZS5tYXRjaCk7CiAgYm90LnJlcGx5KG1lc3NhZ2UsICdLb3VrbnUgc2UgbmEgbmFi7WRrdSBa4Wxlnml0b3N0aS4nKTsKICBib3QucmVwbHkobWVzc2FnZSwgJ0FsZSBide90ZSBzY2hvdu12YXbtLCBqZZp07CBzZSB16O1tLiA6Ymx1c2g6Jyk7Cn0pOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiUkVCRSIsIHRoaXMubmFiaWRrYVttb2plSWRdKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8350,29 +8351,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaGVhZGVyczogewo=</text>
       </register>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAnQWNjZXB0LUNoYXJzZXQnOiAnY3AxMjUwJwo=</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>zdroje[idZdroje].url,</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>x</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
