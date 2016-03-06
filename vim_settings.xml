@@ -21,7 +21,6 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/examples/incoming_webhooks.js" timestamp="1457222650631" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/app/app.ts" timestamp="1455897885254">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="3" column="25" />
@@ -134,7 +133,6 @@
         <mark key="[" line="28" column="4" />
         <mark key="]" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/zalezitost.html" timestamp="1457144199432" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/backoffice/component.js" timestamp="1456931560571">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="42" />
@@ -282,7 +280,6 @@
         <mark key="^" line="60" column="16" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/htmlparser2/lib/Parser.js" timestamp="1457109408087" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/tsconfig.json" timestamp="1457095604724">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="9" column="25" />
@@ -451,7 +448,6 @@
         <mark key="." line="45" column="6" />
         <mark key="^" line="45" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/examples/slackbutton_incomingwebhooks.js" timestamp="1457222710063" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/tsconfig.json" timestamp="1456346597115">
         <mark key="[" line="4" column="21" />
       </file>
@@ -521,11 +517,11 @@
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457228052114">
-        <mark key="[" line="79" column="25" />
-        <mark key="]" line="79" column="28" />
-        <mark key="." line="79" column="28" />
-        <mark key="^" line="79" column="28" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/obedobot.js" timestamp="1457229814657">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="13" />
+        <mark key="." line="67" column="13" />
+        <mark key="^" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -838,7 +834,6 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457220953847" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/components/TahControl/css/tah-control.css" timestamp="1447794048222">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="42" />
@@ -999,7 +994,6 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/SlackBot.js" timestamp="1457132158840" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/polo.html" timestamp="1457145329036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="39" column="55" />
@@ -1060,7 +1054,6 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/encoding/lib/encoding.js" timestamp="1457207966559" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1456393898972">
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="33" />
@@ -1097,13 +1090,18 @@
         <mark key="^" line="49" column="45" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/test.js" timestamp="1457229822140">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/hero-detail.component.ts" timestamp="1455846222974">
         <mark key="[" line="7" column="50" />
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/npm-debug.log" timestamp="1457143619720" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.pobocky.latte" timestamp="1454321979155">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -8219,7 +8217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobWVzc2FnZSwgewogICAgICAgICAgdGV4dCAgICAgICAgOiAiVGFraGxlIHZ5cGFk4SBha3R14Wxu7SBuYWLtZGthIiwKICAgICAgICAgIGF0dGFjaG1lbnRzIDogbmFiaWRreQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>com</text>
@@ -8231,7 +8229,7 @@
         <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLCB7IHR5cGUgOiAidHlwaW5nIiB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobWVzc2FnZSwgewogICAgICAgICAgdGV4dCAgICAgICAgOiAiVGFraGxlIHZ5cGFk4SBha3R14Wxu7SBuYWLtZGthIiwKICAgICAgICAgIGF0dGFjaG1lbnRzIDogbmFiaWRreQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8256,29 +8254,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>com</text>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDMuMjAxNi4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYWxsYmFjayAgIDogIkRlbm7tIG1lbnUgcHJvICIgKyByZXN1bHRzW2tleV0ubmF6ZXYgKyAiOiAiICsgcmVzdWx0c1trZXldLndlYiwKICAgICAgICAgICAgICB0aXRsZSAgICAgIDogcmVzdWx0c1trZXldLm5hemV2LAogICAgICAgICAgICAgIHRpdGxlX2xpbmsgOiByZXN1bHRzW2tleV0ud2ViLAogICAgICAgICAgICAgIHRleHQgICAgICAgOiAiIgo=</text>
+        <text encoding="base64">Ly9jb250cm9sbGVyLmhlYXJzKAovLyAgWydjb1xccyhocmFqKSddLAovLyAgWydkaXJlY3RfbWVzc2FnZScsICdhbWJpZW50J10sCi8vICBmdW5jdGlvbiAoYm90LCBtZXNzYWdlKSB7Ci8vICAgIC8vIHDtmmVtZQovLyAgICBib3QucmVwbHkobWVzc2FnZSwgewovLyAgICAgIHR5cGUgOiAidHlwaW5nIgovLyAgICB9KTsKLy8gICAgLy8gdnJhY+1tZSBvZHBvduzvCi8vICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gKCkgewovLyAgICAgIGJvdC5yZXBseShtZXNzYWdlLCAiS291a251IHNlLiIpOwovLyAgICB9LCA2NjYpOwovLyAgfQovLyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHDtmmVtZQogICAgYm90LnJlcGx5KG1lc3NhZ2UsIHsKICAgICAgdHlwZSA6ICJ0eXBpbmciCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBib3QucmVwbHkobWVzc2FnZSwgewogICAgICAgICAgdGV4dCAgICAgICAgOiAiVGFraGxlIHZ5cGFk4SBha3R14Wxu7SBuYWLtZGthIiwKICAgICAgICAgIGF0dGFjaG1lbnRzIDogbmFiaWRreQogICAgICAgIH0pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLCB7CiAgICAgIHRleHQ6Ik5hYu1ka2EgcHJvIHJlc3RhdXJhY2UiLAogICAgICBhdHRhY2htZW50cyA6IFt7CiAgICAgICAgZmFsbGJhY2sgOiAidGVzdDUiLAogICAgICAgIHRleHQgICAgIDogInRlc3R1XG5qaTUiLAogICAgICAgIGNvbG9yICAgIDogIiM3Q0QxOTciCiAgICAgIH1dCiAgICB9KTsK</text>
+      <register name="6" type="4">
+        <text>com</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLCAiaG5lZCB0byB6amlzdO1tIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvdC5yZXBseShtZXNzYWdlLCB7IHR5cGUgOiAidHlwaW5nIiB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYWxsYmFjayAgIDogIkRlbm7tIG1lbnUgcHJvICIgKyByZXN1bHRzW2tleV0ubmF6ZXYgKyAiOiAiICsgcmVzdWx0c1trZXldLndlYiwKICAgICAgICAgICAgICB0aXRsZSAgICAgIDogcmVzdWx0c1trZXldLm5hemV2LAogICAgICAgICAgICAgIHRpdGxlX2xpbmsgOiByZXN1bHRzW2tleV0ud2ViLAogICAgICAgICAgICAgIHRleHQgICAgICAgOiAiIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGV4dCAgICAgICAgOiAidGVzdDQiLAo=</text>
+        <text encoding="base64">ICAgIC8vIHDtmmVtZQogICAgYm90LnJlcGx5KG1lc3NhZ2UsIHsKICAgICAgdHlwZSA6ICJ0eXBpbmciCiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
