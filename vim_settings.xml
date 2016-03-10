@@ -704,11 +704,11 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/index.html" timestamp="1457634213180">
-        <mark key="[" line="81" column="7" />
-        <mark key="]" line="81" column="38" />
-        <mark key="^" line="81" column="38" />
-        <mark key="." line="81" column="38" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/index.html" timestamp="1457635639899">
+        <mark key="[" line="57" column="25" />
+        <mark key="]" line="101" column="0" />
+        <mark key="^" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/dashboard.component.ts" timestamp="1455846364973">
         <mark key="[" line="7" column="42" />
@@ -1007,7 +1007,7 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.htaccess" timestamp="1457634405952">
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.htaccess" timestamp="1457635564649">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="5" column="22" />
         <mark key="^" line="5" column="22" />
@@ -8321,7 +8321,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgLS1pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -8373,9 +8373,9 @@
         <entry>wqa</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
