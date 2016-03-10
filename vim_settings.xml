@@ -345,11 +345,11 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457646229748">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457647315633">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="211" column="68" />
-        <mark key="]" line="234" column="29" />
-        <mark key="." line="234" column="29" />
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
         <mark key="^" line="234" column="29" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.latte" timestamp="1454418330933">
@@ -722,7 +722,9 @@
         <mark key="^" line="400" column="0" />
         <mark key="." line="400" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" timestamp="1457601780454" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" timestamp="1457647257560">
+        <mark key="'" line="164" column="30" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/js/korunka.injector.js" timestamp="1454511385446">
         <mark key="[" line="52" column="30" />
         <mark key="]" line="52" column="27" />
@@ -847,11 +849,10 @@
         <mark key="^" line="40" column="2" />
         <mark key="." line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/.env" timestamp="1457628413305">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/.env" timestamp="1457647183911">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/HerniBodyServicePresenter.php" timestamp="1452167187209">
         <mark key="[" line="31" column="7" />
@@ -859,7 +860,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457626939188" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457646894335" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/components/TahControl/css/tah-control.css" timestamp="1447794048222">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="42" />
@@ -1269,11 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
-      <jump line="164" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
-      <jump line="206" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
-      <jump line="210" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
-      <jump line="219" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
       <jump line="228" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
       <jump line="232" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
       <jump line="237" column="4" filename="D:/Projekty/Loterie Korunka/obed-o-bot/typings/main/ambient/request/request.d.ts" />
@@ -1369,6 +1365,11 @@
       <jump line="46" column="12" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" />
       <jump line="47" column="4" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" />
       <jump line="47" column="8" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/SlackBot.js" />
+      <jump line="307" column="13" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" />
+      <jump line="391" column="70" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" />
+      <jump line="528" column="13" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" />
+      <jump line="663" column="26" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" />
+      <jump line="164" column="30" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/CoreBot.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8259,19 +8260,19 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>http</text>
+        <text>No handler</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgPGhyLz4K</text>
       </register>
       <register name="1" type="4">
-        <text>o</text>
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8297,37 +8298,37 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>m</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3ciPjwvZGl2Pgo=</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA8IS0tIGxvZ28gLS0+Cg==</text>
+      <register name="5" type="4">
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PCEtLSBMYXRlc3QgY29tcGlsZWQgYW5kIG1pbmlmaWVkIEphdmFTY3JpcHQgLS0+CjxzY3JpcHQgc3JjPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNi9qcy9ib290c3RyYXAubWluLmpzIiBpbnRlZ3JpdHk9InNoYTM4NC0wbVNiSkRFSGlhbGZtdUJCUVA2QTRRcnBycTVPVmZXMzdQUlIzajVFTHF4c3MxeVZxT3RuZXBuSFZQOWFKN3hTIiBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj48L3NjcmlwdD4K</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tIExhdGVzdCBjb21waWxlZCBhbmQgbWluaWZpZWQgSmF2YVNjcmlwdCAtLT4KICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9tYXhjZG4uYm9vdHN0cmFwY2RuLmNvbS9ib290c3RyYXAvMy4zLjYvanMvYm9vdHN0cmFwLm1pbi5qcyIgaW50ZWdyaXR5PSJzaGEzODQtMG1TYkpERUhpYWxmbXVCQlFQNkE0UXJwcnE1T1ZmVzM3UFJSM2o1RUxxeHNzMXlWcU90bmVwbkhWUDlhSjd4UyIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+PC9zY3JpcHQ+ICAK</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgPCEtLSBPcHRpb25hbCB0aGVtZSAtLT4KICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vbWF4Y2RuLmJvb3RzdHJhcGNkbi5jb20vYm9vdHN0cmFwLzMuMy42L2Nzcy9ib290c3RyYXAtdGhlbWUubWluLmNzcyIgaW50ZWdyaXR5PSJzaGEzODQtZkxXMk4wMWxNcWpha0JreDNsL005RWFodXdwU2ZlTnZWNjNKNWV6bjN1WnphcFQwdTdFWXNYTWpRViswRW41ciIgY3Jvc3NvcmlnaW49ImFub255bW91cyI+Cg==</text>
+      <register name="8" type="4">
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>http</last-search>
+      <last-search>No handler</last-search>
       <last-offset />
-      <last-pattern>http</last-pattern>
+      <last-pattern>No handler</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxuYWN0aURvc3R1cG5lTWVzaWNlVnlzbGVka3VcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -8335,8 +8336,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnB1dEVsZW1lbnRcPg==</entry>
-        <entry encoding="base64">XDxleHBvcnRcPg==</entry>
         <entry>d:</entry>
         <entry>D:</entry>
         <entry>this</entry>
@@ -8355,6 +8354,8 @@
         <entry encoding="base64">XDxib3RcPg==</entry>
         <entry encoding="base64">XDx3ZWJzZXJ2ZXJcPg==</entry>
         <entry>http</entry>
+        <entry>tick</entry>
+        <entry>No handler</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
