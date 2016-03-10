@@ -345,12 +345,12 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457622633935">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457625331370">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="194" column="70" />
-        <mark key="]" line="198" column="32" />
-        <mark key="." line="198" column="32" />
-        <mark key="^" line="198" column="32" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="219" column="27" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.latte" timestamp="1454418330933">
         <mark key="[" line="133" column="0" />
@@ -1136,7 +1136,7 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457540878124">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" timestamp="1457624891967">
         <mark key="'" line="282" column="43" />
         <mark key="[" line="104" column="41" />
         <mark key="]" line="104" column="37" />
@@ -8240,19 +8240,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhdXJhY2UucHVzaCh7CiAgICAgICAgICAgICAgICAgIGZhbGxiYWNrICAgOiByZXN1bHRzW2tleV0ubmF6ZXYgKyAnOiAnICsgcmVzdWx0c1trZXldLndlYiwKICAgICAgICAgICAgICAgICAgdGl0bGUgICAgICA6IHJlc3VsdHNba2V5XS5uYXpldiwKICAgICAgICAgICAgICAgICAgdGl0bGVfbGluayA6IHJlc3VsdHNba2V5XS53ZWIsCiAgICAgICAgICAgICAgICAgIHRleHQgICAgICAgOiBwb2xvemt5LmpvaW4oJ1xuJyksCiAgICAgICAgICAgICAgICAgIG1ya2R3bl9pbiAgOiBbJ3RleHQnXQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXRleHQgICA6IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>'Vyberte, kde všude si dneska vyberete.',</text>
       </register>
       <register name="/" type="4">
         <text>http</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmFiaWRreSA9IFtdOwogICAgICAgIGZvciAodmFyIGtleSBpbiByZXN1bHRzKSB7CiAgICAgICAgICBpZiAocmVzdWx0cy5oYXNPd25Qcm9wZXJ0eShrZXkpKSB7CiAgICAgICAgICAgIHZhciBwb2xvemt5ID0gW107CiAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmVzdWx0c1trZXldLnBvbG96a3kubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICBwb2xvemt5LnB1c2goCiAgICAgICAgICAgICAgICByZXN1bHRzW2tleV0ucG9sb3preVtpXS5uYXpldiArICcgLSAqJyArIHJlc3VsdHNba2V5XS5wb2xvemt5W2ldLmNlbmEgKyAnKicKICAgICAgICAgICAgICApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIG5hYmlka3kucHVzaCh7CiAgICAgICAgICAgICAgZmFsbGJhY2sgICA6ICdEZW5u7SBtZW51IHBybyAnICsgcmVzdWx0c1trZXldLm5hemV2ICsgJzogJyArIHJlc3VsdHNba2V5XS53ZWIsCiAgICAgICAgICAgICAgdGl0bGUgICAgICA6IHJlc3VsdHNba2V5XS5uYXpldiwKICAgICAgICAgICAgICB0aXRsZV9saW5rIDogcmVzdWx0c1trZXldLndlYiwKICAgICAgICAgICAgICB0ZXh0ICAgICAgIDogcG9sb3preS5qb2luKCdcbicpLAogICAgICAgICAgICAgIG1ya2R3bl9pbiAgOiBbJ3RleHQnXQogICAgICAgICAgICB9KTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsIHsKICAgICAgICAgIHRleHQgICAgICAgIDogJ1Rha2hsZSB2eXBhZOEgYWt0deFsbu0gbmFi7WRrYScsCiAgICAgICAgICBhdHRhY2htZW50cyA6IG5hYmlka3kKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhdXJhY2UudGV4dC5wdXNoKHsKICAgICAgICAgICAgICAgICAgdGV4dCAgICAgOiBlbW9qaXNbaV0gKyAnICcgKyByZXN1bHRzW2tleV0ubmFtZSwKICAgICAgICAgICAgICAgICAgZmFsbGJhY2sgOiAnKCcgKyArK2kgKyAnKSAnICsgcmVzdWx0c1trZXldLm5hbWUKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3RhdXJhY2UucHVzaCh7CiAgICAgICAgICAgICAgICAgIGZhbGxiYWNrICAgOiByZXN1bHRzW2tleV0ubmF6ZXYgKyAnOiAnICsgcmVzdWx0c1trZXldLndlYiwKICAgICAgICAgICAgICAgICAgdGl0bGUgICAgICA6IHJlc3VsdHNba2V5XS5uYXpldiwKICAgICAgICAgICAgICAgICAgdGl0bGVfbGluayA6IHJlc3VsdHNba2V5XS53ZWIsCiAgICAgICAgICAgICAgICAgIHRleHQgICAgICAgOiBwb2xvemt5LmpvaW4oJ1xuJyksCiAgICAgICAgICAgICAgICAgIG1ya2R3bl9pbiAgOiBbJ3RleHQnXQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByZXRleHQgICA6IAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8277,29 +8277,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>'Vyberte, kde všude si dneska vyberete.',</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGV4dCAgICAgOiBlbW9qaXNbaV0gKyAnICcgKyByZXN1bHRzW2tleV0ubmFtZSw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVzdWx0c1trZXldLnBvbG96a3lbaV0ubmF6ZXYgKyAnIC0gKicgKyByZXN1bHRzW2tleV0ucG9sb3preVtpXS5jZW5hICsgJyonCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmFsbGJhY2sgOiAnKCcgKyArK2kgKyAnKSAnICsgcmVzdWx0c1trZXldLm5hbWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAucHVzaCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudHMgOiBuYWJpZGt5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgcG9sb3preSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXR0YWNobWVudHMgOiBuYWJpZGt5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgcmVzdWx0cy5sZW5ndGg7IGkrKykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3RhdXJhY2UucHVzaCgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGJvdC5yZXBseShtZXNzYWdlLCB7CiAgICAgICAgICAgIHRleHQgICAgICAgIDogJ1Rha2hsZSB2eXBhZOEgYWt0deFsbu0gbmFi7WRrYScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8354,8 +8354,8 @@
         <entry>wqa</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>wa</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
