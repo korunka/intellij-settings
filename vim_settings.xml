@@ -1066,10 +1066,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1457599217105">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1457600111534">
+        <mark key="[" line="8" column="135" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/vyhry.component.ts" timestamp="1456251955755">
         <mark key="[" line="36" column="50" />
@@ -1231,11 +1232,11 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="73" column="46" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package-asdf.js" timestamp="1457599145470">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="154" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package-asdf.js" timestamp="1457600057199">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="42" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniRepublikovePoradi.korunka.latte" timestamp="1451996475135">
         <mark key="[" line="0" column="59" />
@@ -8234,8 +8235,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJhd2Vzb21lLXR5cGVzY3JpcHQtbG9hZGVyIiA6ICIwLjE1LjEwIiwKICAgICJpZS1zaGltIiAgICAgICAgICAgICAgICAgICA6ICJeMC4xLjAiLAogICAgInNvdXJjZS1tYXAtbG9hZGVyIiAgICAgICAgIDogIl4wLjEuNSIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -8244,10 +8245,10 @@
         <text encoding="base64">XDxib3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0taW5saW5lIC0tY29sb3JzIC0tcHJvZ3Jlc3MgLS1kaXNwbGF5LWVycm9yLWRldGFpbHMgLS1kaXNwbGF5LWNhY2hlZCIsCiAgICAid2F0Y2giOiAibnBtIHJ1biBidWlsZCAtLSAtLXdhdGNoIiwKICAgICJzdGFydCI6ICIuL25vZGVfbW9kdWxlcy8uYmluL3dlYnBhY2stZGV2LXNlcnZlciAtLWlubGluZSAtLWNvbG9ycyAtLXByb2dyZXNzIC0tZGlzcGxheS1lcnJvci1kZXRhaWxzIC0tZGlzcGxheS1jYWNoZWQgLS1wb3J0IDMwMDAgIC0tY29udGVudC1iYXNlIHNyYyIK</text>
+        <text encoding="base64">ICAgICJhd2Vzb21lLXR5cGVzY3JpcHQtbG9hZGVyIiA6ICIwLjE1LjEwIiwKICAgICJpZS1zaGltIiAgICAgICAgICAgICAgICAgICA6ICJeMC4xLjAiLAogICAgInNvdXJjZS1tYXAtbG9hZGVyIiAgICAgICAgIDogIl4wLjEuNSIsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJzeXN0ZW1qcyI6ICIwLjE5LjI0IiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8272,32 +8273,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>n</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAia2V5d29yZHMiICAgICAgICA6IFsKICAgICJBbmd1bGFyMiIsCiAgICAiYW5ndWxhcjItc2VlZCIsCiAgICAib2ZmaWNpYWwgYW5ndWxhciAyIHNlZWQiLAogICAgIm9mZmljaWFsIGFuZ3VsYXIyIHNlZWQiCiAgXSwKICAicmVwb3NpdG9yeSIgICAgICA6IHsKICAgICJ0eXBlIiA6ICJnaXQiLAogICAgInVybCIgIDogImdpdCtodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyMi1zZWVkLmdpdCIKICB9LAogICJidWdzIiAgICAgICAgICAgIDogewogICAgInVybCIgOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhcjItc2VlZC9pc3N1ZXMiCiAgfSwKICAiaG9tZXBhZ2UiICAgICAgICA6ICJodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyMi1zZWVkI3JlYWRtZSIK</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAibmFtZSIgICAgICAgICAgICA6ICJhbmd1bGFyMi1zZWVkIiwKICAidmVyc2lvbiIgICAgICAgICA6ICIxLjAuMCIsCiAgImRlc2NyaXB0aW9uIiAgICAgOiAiQSBzaW1wbGUgc3RhcnRlciBBbmd1bGFyMiBwcm9qZWN0IiwKICAic2NyaXB0cyIgICAgICAgICA6IHsKICAgICJ0eXBpbmdzLWluc3RhbGwiIDogIi4vbm9kZV9tb2R1bGVzLy5iaW4vdHlwaW5ncyBpbnN0YWxsIiwKICAgICJwb3N0aW5zdGFsbCIgICAgIDogIm5wbSBydW4gdHlwaW5ncy1pbnN0YWxsIiwKICAgICJidWlsZCIgICAgICAgICAgIDogIndlYnBhY2sgLS1pbmxpbmUgLS1jb2xvcnMgLS1wcm9ncmVzcyAtLWRpc3BsYXktZXJyb3ItZGV0YWlscyAtLWRpc3BsYXktY2FjaGVkIiwKICAgICJ3YXRjaCIgICAgICAgICAgIDogIm5wbSBydW4gYnVpbGQgLS0gLS13YXRjaCIsCiAgICAic3RhcnQiICAgICAgICAgICA6ICIuL25vZGVfbW9kdWxlcy8uYmluL3dlYnBhY2stZGV2LXNlcnZlciAtLWlubGluZSAtLWNvbG9ycyAtLXByb2dyZXNzIC0tZGlzcGxheS1lcnJvci1kZXRhaWxzIC0tZGlzcGxheS1jYWNoZWQgLS1wb3J0IDMwMDAgIC0tY29udGVudC1iYXNlIHNyYyIK</text>
       </register>
-      <register name="4" type="4">
-        <text>b</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB9LAogICJjb250cmlidXRvcnMiICAgIDogWwogICAgIlJvYiBXb3JtYWxkIDxyb2J3b3JtYWxkQGdtYWlsLmNvbT4iLAogICAgIlBhdHJpY2tKUyA8Z2l0aHViQGdkaTIyOTAuY29tPiIKICBdLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAibGljZW5zZSIgICAgICAgICA6ICJNSVQiLAo=</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8350,8 +8351,8 @@
         <entry>e</entry>
         <entry>wq</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
