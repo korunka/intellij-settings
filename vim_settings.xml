@@ -345,12 +345,12 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457647315633">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457649442151">
         <mark key="'" line="47" column="4" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-        <mark key="^" line="234" column="29" />
+        <mark key="[" line="1034" column="1" />
+        <mark key="]" line="1034" column="1" />
+        <mark key="." line="1034" column="1" />
+        <mark key="^" line="1034" column="1" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.latte" timestamp="1454418330933">
         <mark key="[" line="133" column="0" />
@@ -860,7 +860,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457646894335" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457648812283" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/components/TahControl/css/tah-control.css" timestamp="1447794048222">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="42" />
@@ -8259,11 +8259,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IHByb2Nlc3MuZXhpdCgpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IHByb2Nlc3MuZXhpdCgpOw==</text>
       </register>
       <register name="/" type="4">
         <text>No handler</text>
@@ -8271,8 +8271,8 @@
       <register name="0" type="2">
         <text encoding="base64">CiAgPGhyLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">IHByb2Nlc3MuZXhpdCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8298,7 +8298,7 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text encoding="base64">IHByb2Nlc3MuZXhpdCgpOw==</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
