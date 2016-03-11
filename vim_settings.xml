@@ -345,7 +345,7 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457723741561">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457725818541">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="62" column="4" />
@@ -859,6 +859,7 @@
         <mark key="^" line="32" column="6" />
         <mark key="." line="32" column="6" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/lib/Slackbot_worker.js" timestamp="1457726251062" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/VyberTahuControl/components/TahControl/css/tah-control.css" timestamp="1447794048222">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="1" column="42" />
