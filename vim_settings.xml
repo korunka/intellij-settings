@@ -345,11 +345,11 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457795369331">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="254" column="31" />
-        <mark key="^" line="254" column="31" />
-        <mark key="." line="254" column="31" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457795585708">
+        <mark key="[" line="271" column="1" />
+        <mark key="]" line="278" column="0" />
+        <mark key="^" line="278" column="0" />
+        <mark key="." line="278" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.latte" timestamp="1454418330933">
         <mark key="[" line="133" column="0" />
@@ -8259,7 +8259,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CgoKLyoqCiAqIEdlbmVy4XRvciBu4WRvZG79Y2gg6O1zZWwgb2QgTUlOIGRvIE1BWCAodnlqbWEgTUFYKQogKgogKiBAcGFyYW0ge051bWJlcn0gbWluCiAqIEBwYXJhbSB7TnVtYmVyfSBtYXgKICogQHJldHVybnMge051bWJlcn0KICovCmZ1bmN0aW9uIGdldFJhbmRvbUludChtaW4sIG1heCkgewogIHJldHVybgogIHJldHVybiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAobWF4IC0gbWluKSkgKyBtaW47Cn0K</text>
+        <text encoding="base64">Lyplc2xpbnQtZGlzYWJsZSBuby1wcm9jZXNzLWV4aXQgKi8K</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -8268,7 +8268,7 @@
         <text encoding="base64">XDxnZXRSYW5kb21JbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgPGhyLz4K</text>
+        <text encoding="base64">Lyplc2xpbnQtZGlzYWJsZSBuby1wcm9jZXNzLWV4aXQgKi8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgoKLyoqCiAqIEdlbmVy4XRvciBu4WRvZG79Y2gg6O1zZWwgb2QgTUlOIGRvIE1BWCAodnlqbWEgTUFYKQogKgogKiBAcGFyYW0ge051bWJlcn0gbWluCiAqIEBwYXJhbSB7TnVtYmVyfSBtYXgKICogQHJldHVybnMge051bWJlcn0KICovCmZ1bmN0aW9uIGdldFJhbmRvbUludChtaW4sIG1heCkgewogIHJldHVybgogIHJldHVybiBNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkgKiAobWF4IC0gbWluKSkgKyBtaW47Cn0K</text>
@@ -8321,7 +8321,7 @@
         <text>a</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8374,8 +8374,8 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
