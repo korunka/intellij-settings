@@ -345,12 +345,11 @@
         <mark key="." line="180" column="35" />
         <mark key="^" line="180" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457808871994">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" timestamp="1457811218614">
         <mark key="'" line="19" column="45" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="45" />
-        <mark key="^" line="19" column="45" />
-        <mark key="." line="19" column="45" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.latte" timestamp="1454418330933">
         <mark key="[" line="133" column="0" />
@@ -8261,7 +8260,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgbXVqWmRyb2ogPTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>mujZdroj</text>
@@ -8273,7 +8272,7 @@
         <text>zdroje[idZdroje]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgbXVqWmRyb2ogPTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8298,32 +8297,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>mujZdroj</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gdnlmaWx0cnVqZW1lIHR5IGJleiBuYWJpZGVrCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>mujZdroj</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsICdCb2h1nmVsIHBybyBkbmWaZWsgbmVt4W0gnuFkbukgbmFi7WRreS4nKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>zdroje[idZdroje]</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYm90LnJlcGx5KG1lc3NhZ2UsIHsKICAgICAgICB0ZXh0ICAgICAgICA6ICdUYWtobGUgdnlwYWThIGFrdHXhbG7tIG5hYu1ka2EnLAogICAgICAgIGF0dGFjaG1lbnRzIDogbmFiaWRreQogICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQgbW9qZUlkID0gaWRaZHJvamU7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gKGNvLiooaHJhanxtYWp8ZFth4V12YXxqZSkpLiooelth4V1sZShbep5daXRvc3QpKikK</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0cy5maWx0ZXIoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImplZHUgb2ZmbGluZSAiKTsK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCwgcHJvY2Vzcy5lbnYuT0ZGTElORV9OQUJJREtBLCB0cnVlID09PSBwcm9jZXNzLmVudi5PRkZMSU5FX05BQklES0EsICJ0cnVlIiA9PT0gcHJvY2Vzcy5lbnYuT0ZGTElORV9OQUJJREtBKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKE9iamVjdC5rZXlzKHJlc3VsdHMpLmxlbmd0aCA9PT0gMCkgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>process.env.OFFLINE_NABIDKA == &quot;true&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZXQgbXVqWmRyb2ogPTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -8376,8 +8375,8 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
