@@ -33,11 +33,11 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/package.json" timestamp="1457711799792">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="2" column="18" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/package.json" timestamp="1457793197761">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="34" column="1" />
+        <mark key="^" line="34" column="1" />
+        <mark key="." line="34" column="1" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.vikend.html" timestamp="1457209345896">
         <mark key="[" line="0" column="0" />
@@ -8321,7 +8321,7 @@
         <text>a</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -8373,9 +8373,9 @@
         <entry>wqa</entry>
         <entry>e</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
