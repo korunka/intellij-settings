@@ -541,11 +541,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/index.html" timestamp="1457866197611">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/index.html" timestamp="1457872073566">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/VsaditTiketColumn/templates/VsaditTiketColumn.latte" timestamp="1449831072551">
         <mark key="[" line="0" column="42" />
@@ -583,10 +583,10 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1457867810933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1457871883299">
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/fixtures/cs/korunka_divize.sql" timestamp="1448620202188">
         <mark key="[" line="1" column="50" />
@@ -896,9 +896,9 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" timestamp="1457870410523">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" timestamp="1457871762972">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="57" column="7" />
         <mark key="." line="71" column="0" />
         <mark key="^" line="73" column="74" />
       </file>
@@ -914,7 +914,7 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/package.json" timestamp="1457870146596">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/package.json" timestamp="1457872105762">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
@@ -1010,8 +1010,14 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457866564229" />
-      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/src/index.html" timestamp="1457866168860" />
+      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457872086985">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/src/index.html" timestamp="1457872061146">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/www/maintenance/custom_message.php" timestamp="1451298238199">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="2" />
@@ -1078,7 +1084,7 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1457866395710">
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1457872197205">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="8" column="0" />
@@ -8237,8 +8243,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiYnVkZSBob3QiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJwb2x5ZmlsbHMuYnVuZGxlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJ2ZW5kb3IuYnVuZGxlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJhcHAuYnVuZGxlLmpzIj48L3NjcmlwdD4=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -8246,11 +8252,11 @@
       <register name="/" type="4">
         <text>==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCA6IFBBVEhTLnNyY1tBUFBMSUNBVElPTl0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJwb2x5ZmlsbHMuYnVuZGxlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJ2ZW5kb3IuYnVuZGxlLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgYXN5bmMgc3JjPSJhcHAuYnVuZGxlLmpzIj48L3NjcmlwdD4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiYnVkZSBob3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGluY2x1ZGUgOiAnL2FwcCcK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8276,28 +8282,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNsaWVudCAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYnVpbGQnLCAnY2xpZW50JyksCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlcnZlciAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXBwcycsICdzZXJ2ZXInKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiYnVkZSBob3QiKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNsaWVudCAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYnVpbGQnLCAnY2xpZW50JyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDEzLjAzLjIwMTYuCiAqLwo=</text>
+        <text encoding="base64">ICAgIHNlcnZlciAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXBwcycsICdzZXJ2ZXInKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjIuMC4wIiwKICAgICJsaXRlLXNlcnZlciI6ICJeMi4xLjAiLAo=</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDEzLjAzLjIwMTYuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICJjb25jdXJyZW50bHkiOiAiXjIuMC4wIiwKICAgICJsaXRlLXNlcnZlciI6ICJeMi4xLjAiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">eCA9Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
