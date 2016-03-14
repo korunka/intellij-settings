@@ -303,7 +303,12 @@
         <mark key="^" line="60" column="16" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/index.js" timestamp="1457963794711" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/index.js" timestamp="1457966814208">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="17" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="36" column="17" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-alexander/package.json" timestamp="1457952567777">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -8330,20 +8335,20 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+      <register name="&quot;" type="4">
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtCbG9nQ29tcG9uZW50fSBmcm9tICcuL2Jsb2cuY29tcG9uZW50JzsK</text>
+      <register name="0" type="4">
+        <text>⎜</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+      <register name="1" type="4">
+        <text>O</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8368,29 +8373,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEFQUExJQ0FUSU9OID0gJ2JhY2tvZmZpY2UnOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFRBUkdFVCA9ICdkZXZlbG9wbWVudCc7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjYXNlICdydW4tYmFja29mZmljZSc6Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGJyZWFrOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjYXNlICdidWlsZC1iYWNrb2ZmaWNlJzoKICAgIFRBUkdFVCA9ICdwcm9kdWN0aW9uJzsKICAgIEFQUExJQ0FUSU9OID0gJ2JhY2tvZmZpY2UnOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZCAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYnVpbGQnLCAnc2hhcmVkJykK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tvZmZpY2UgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYnVpbGQnLCAnYmFja29mZmljZScpLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHNoYXJlZCAgICAgOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYXBwcycsICdzaGFyZWQnKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
