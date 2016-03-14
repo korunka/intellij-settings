@@ -21,11 +21,11 @@
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/home.component.ts" timestamp="1457986806942">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/home.component.ts" timestamp="1457989206468">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/app/app.ts" timestamp="1455897885254">
         <mark key="[" line="0" column="19" />
@@ -141,10 +141,6 @@
         <mark key="^" line="118" column="54" />
         <mark key="." line="118" column="54" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/node_modules/botkit/package.json" timestamp="1457826455141">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="31" column="3" />
-      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/backoffice/component.js" timestamp="1456931560571">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="42" />
@@ -257,11 +253,11 @@
         <mark key="^" line="5" column="8" />
         <mark key="." line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/app.component.ts" timestamp="1457987653421">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/app.component.ts" timestamp="1457988910375">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientSmsGenerator/KlientSmsGenerator.php" timestamp="1452518218107">
         <mark key="[" line="320" column="40" />
@@ -1016,10 +1012,6 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/src/app.ts" timestamp="1457875255655">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="34" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.rocniRepublikovePoradi.latte" timestamp="1452259983044">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="61" />
@@ -1061,6 +1053,7 @@
         <mark key="." line="29" column="79" />
         <mark key="^" line="29" column="79" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-angular2-tutorial/app/hero-detail.component.ts" timestamp="1457989234017" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/untitled2/package.json" timestamp="1456420186487">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="5" column="33" />
@@ -1082,10 +1075,11 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1457988444222">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1457988743124">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.htaccess" timestamp="1457635564649">
         <mark key="[" line="8" column="29" />
@@ -1093,15 +1087,17 @@
         <mark key="^" line="5" column="22" />
         <mark key="." line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1457989165533">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457875181697">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="82" column="3" />
         <mark key="^" line="83" column="1" />
         <mark key="." line="83" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/src/index.html" timestamp="1457872061146">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/www/maintenance/custom_message.php" timestamp="1451298238199">
         <mark key="[" line="3" column="2" />
@@ -1157,10 +1153,10 @@
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/blog/blog.component.ts" timestamp="1457988078394">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/blog/blog.component.ts" timestamp="1457989215852">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="2" column="70" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.mesicniPobockovePoradi.pobocky.latte" timestamp="1451996260870">
@@ -1220,10 +1216,6 @@
         <mark key="]" line="48" column="44" />
         <mark key="^" line="48" column="44" />
         <mark key="." line="48" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/src/app/seed-app.html" timestamp="1457876417567">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/DetailTiketuPresenter.tiket.latte" timestamp="1448876535872">
         <mark key="[" line="49" column="0" />
@@ -8357,19 +8349,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+PGEgaHJlZj0iIyI+SG9tZTwvYT48L2xpPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtOYXZpZ2F0aW9uQ29tcG9uZW50fSBmcm9tICcuL25hdmlnYXRpb24vbmF2aWdhdGlvbi5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9saT4g</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>M</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8IS0tIExhdGVzdCBjb21waWxlZCBhbmQgbWluaWZpZWQgQ1NTIC0tPgogIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIKICAgICAgICBocmVmPSJodHRwczovL21heGNkbi5ib290c3RyYXBjZG4uY29tL2Jvb3RzdHJhcC8zLjMuNi9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiCiAgICAgICAgaW50ZWdyaXR5PSJzaGEzODQtMXE4bVRKT0FTeDhqMUF1K2E1V0RWblBpMmxrRmZ3d0VBYThoRERkalpscExlZ3hoalZNRTFmZ2pXUEdta3pzNyIKICAgICAgICBjcm9zc29yaWdpbj0iYW5vbnltb3VzIj4K</text>
+        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ2FuZ3VsYXIyL2NvcmUnOwppbXBvcnQge1JvdXRlciwgUm91dGUsIFJvdXRlQ29uZmlnLCBST1VURVJfRElSRUNUSVZFU30gZnJvbSAnYW5ndWxhcjIvcm91dGVyJzsKCkBDb21wb25lbnQoewogIHNlbGVjdG9yOiAnYmxvZy1jb21wb25lbnQnLAogIGRpcmVjdGl2ZXM6IFtST1VURVJfRElSRUNUSVZFU10sCiAgdGVtcGxhdGVVcmw6ICdjb21wb25lbnRzL2Jsb2cvYmxvZy5jb21wb25lbnQuaHRtbCcKfSkKZXhwb3J0IGNsYXNzIEJsb2dDb21wb25lbnQgewoKICBjb25zdHJ1Y3RvcigpIHsKICB9CgogIG5nT25Jbml0KCkgewoKICB9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+PGEgaHJlZj0iIyI+SG9tZTwvYT48L2xpPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtOYXZpZ2F0aW9uQ29tcG9uZW50fSBmcm9tICcuL25hdmlnYXRpb24vbmF2aWdhdGlvbi5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8394,29 +8386,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PC9saT4g</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZXIsIFJvdXRlLCBSb3V0ZUNvbmZpZywgUk9VVEVSX0RJUkVDVElWRVN9IGZyb20gJ2FuZ3VsYXIyL3JvdXRlcic7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8YSBbcm91dGVyTGlua109IlsnL0hvbWUnXSIgPiBIb21lIDwvYT4K</text>
+        <text encoding="base64">ICAgIDwvbmF2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxuYXY+CiAgPGEgW3JvdXRlckxpbmtdPSJbJy9Ib21lJ10iID4gSG9tZSA8L2E+CiAgPGEgW3JvdXRlckxpbmtdPSJbJy9CbG9nJ10iID4gQmxvZyA8L2E+CjwvbmF2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGEgW3JvdXRlckxpbmtdPSJbJy9CbG9nJ10iID4gQmxvZyA8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1kZWZhdWx0IG5hdmJhci1zdGF0aWMtdG9wIj4KICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPGRpdiBjbGFzcz0ibmF2YmFyLWhlYWRlciI+CiAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0ibmF2YmFyLXRvZ2dsZSBjb2xsYXBzZWQiIGRhdGEtdG9nZ2xlPSJjb2xsYXBzZSIgZGF0YS10YXJnZXQ9IiNuYXZiYXIiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIiBhcmlhLWNvbnRyb2xzPSJuYXZiYXIiPgogICAgICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5Ub2dnbGUgbmF2aWdhdGlvbjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgPC9idXR0b24+CiAgICAgIDxhIGNsYXNzPSJuYXZiYXItYnJhbmQiIGhyZWY9IiMiPlByb2plY3QgbmFtZTwvYT4KICAgIDwvZGl2PgogICAgPGRpdiBpZD0ibmF2YmFyIiBjbGFzcz0ibmF2YmFyLWNvbGxhcHNlIGNvbGxhcHNlIj4KICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiMiPkhvbWU8L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iI2Fib3V0Ij5BYm91dDwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjY29udGFjdCI+Q29udGFjdDwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPgogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5Ecm9wZG93biA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPgogICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93bi1oZWFkZXIiPk5hdiBoZWFkZXI8L2xpPgogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U2VwYXJhdGVkIGxpbms8L2E+PC9saT4KICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPk9uZSBtb3JlIHNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+CiAgICAgICAgICA8L3VsPgogICAgICAgIDwvbGk+CiAgICAgIDwvdWw+CiAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij4KICAgICAgICA8bGk+PGEgaHJlZj0iLi4vbmF2YmFyLyI+RGVmYXVsdDwvYT48L2xpPgogICAgICAgIDxsaSBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIuLyI+U3RhdGljIHRvcCA8c3BhbiBjbGFzcz0ic3Itb25seSI+KGN1cnJlbnQpPC9zcGFuPjwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIuLi9uYXZiYXItZml4ZWQtdG9wLyI+Rml4ZWQgdG9wPC9hPjwvbGk+CiAgICAgIDwvdWw+CiAgICA8L2Rpdj48IS0tLy5uYXYtY29sbGFwc2UgLS0+CiAgPC9kaXY+CjwvbmF2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGEgW3JvdXRlckxpbmtdPSJbJy9Ib21lJ10iID4gSG9tZSA8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">ICAgIDxuYXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icm93IGhsYXZpY2thIj4KCiAgPGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+Cgo8L2Rpdj4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDE0LjAzLjIwMTYuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPjwvaDE+Cg==</text>
+        <text encoding="base64">ICBuZXcgUm91dGUoewogICAgcGF0aDogJy9ibG9nJywKICAgIGNvbXBvbmVudDogQmxvZ0NvbXBvbmVudCwKICAgIG5hbWU6ICdCbG9nJwogIH0pLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PG1lbnU+CiAgCjwvbWVudT4K</text>
+        <text encoding="base64">PG5hdj4KICA8YSBbcm91dGVyTGlua109IlsnL0Jsb2cnXSI+IEJsb2cgPC9hPgo8L25hdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
