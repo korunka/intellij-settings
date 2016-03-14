@@ -303,12 +303,12 @@
         <mark key="^" line="60" column="16" />
         <mark key="." line="60" column="16" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/index.js" timestamp="1457969774729">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/index.js" timestamp="1457971917330">
         <mark key="'" line="24" column="20" />
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="63" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="31" column="32" />
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="27" column="9" />
+        <mark key="." line="27" column="9" />
+        <mark key="^" line="27" column="9" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-alexander/package.json" timestamp="1457952567777">
         <mark key="[" line="9" column="0" />
@@ -8336,11 +8336,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Yup. We totally stole this from Vimeo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">P1xuXAo/ICAgICAgIEBAQCYgICAgICAgQEBAQEBAXG5cCj8gICAgI0BAQEBAQEAgICAgJkBAQEBAQEBAICAgICAgIEJ1aWx0IHVzaW5nOlxuXAo/ICAjQEBAQEBAQEBALiAgJSUmQEBAQEBAQCAgICAgICCVIEFuZ3VsYXIgMlxuXAo/ICAgICAgJkBAQEBAJSAgICAgKEBAQEBAKCBcblwKPyAgICAgICBAQEBAQEAgICAgIEBAQEBAQCBcblwKPyAgICAgICAlQEBAQEAoICAuQEBAQEAoICAgICAgXG5cCj8gICAgICAgIEBAQEBAQChAQEBAQEBcblwKPyAgICAgICAgL0BAQEBAQEBAQEAlICAgICAgICAgICAgTGlrZSBwbGF5aW5nIHdpdGggbmV3IHRlY2hub2xvZ3ksIHRvbz9cblwKPyAgICAgICAgICZAQEBAQEBAJQo/ICAgICAgICAgIEBAQEBAI1xuXAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Yup. We totally stole this from Vimeo</text>
+        <text encoding="base64">ICAgICAgIGh0dHBzOi8vZGV2ZWxvcGVycy5rb3J1bmthLmV1L1xuXA==</text>
       </register>
       <register name="/" type="4">
         <text>M</text>
@@ -8348,8 +8348,8 @@
       <register name="0" type="2">
         <text encoding="base64">PyAgICAgICBAQEAmICAgICAgIEBAQEBAQFxuXAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Yup. We totally stole this from Vimeo</text>
+      <register name="1" type="2">
+        <text encoding="base64">P1xuXAo/ICAgICAgIEBAQCYgICAgICAgQEBAQEBAXG5cCj8gICAgI0BAQEBAQEAgICAgJkBAQEBAQEBAICAgICAgIEJ1aWx0IHVzaW5nOlxuXAo/ICAjQEBAQEBAQEBALiAgJSUmQEBAQEBAQCAgICAgICCVIEFuZ3VsYXIgMlxuXAo/ICAgICAgJkBAQEBAJSAgICAgKEBAQEBAKCBcblwKPyAgICAgICBAQEBAQEAgICAgIEBAQEBAQCBcblwKPyAgICAgICAlQEBAQEAoICAuQEBAQEAoICAgICAgXG5cCj8gICAgICAgIEBAQEBAQChAQEBAQEBcblwKPyAgICAgICAgL0BAQEBAQEBAQEAlICAgICAgICAgICAgTGlrZSBwbGF5aW5nIHdpdGggbmV3IHRlY2hub2xvZ3ksIHRvbz9cblwKPyAgICAgICAgICZAQEBAQEBAJQo/ICAgICAgICAgIEBAQEBAI1xuXAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8375,28 +8375,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIJUgTm9kZS5qcyBcblw=</text>
+        <text encoding="base64">ICAgICAgIGh0dHBzOi8vZGV2ZWxvcGVycy5rb3J1bmthLmV1L1xuXA==</text>
       </register>
       <register name="3" type="4">
-        <text>• Socket IO\n\</text>
+        <text>Yup. We totally stole this from Vimeo</text>
       </register>
       <register name="4" type="4">
-        <text>• TypeScript\n\</text>
+        <text encoding="base64">ICAgIJUgTm9kZS5qcyBcblw=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgICAgIJUgQW5ndWxhciAyXG5c</text>
+        <text>• Socket IO\n\</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>• TypeScript\n\</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgIJUgQW5ndWxhciAyXG5c</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>\</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
