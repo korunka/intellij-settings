@@ -1120,11 +1120,10 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458056492865">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="33" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458057277603">
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457875181697">
         <mark key="[" line="74" column="0" />
@@ -1162,7 +1161,7 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1458056454351" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1458057074414" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1458043044257" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.nax.latte" timestamp="1455567303519">
         <mark key="[" line="20" column="0" />
@@ -8420,7 +8419,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PGgyPjIwMTYtMjAxNzwvaDI+Cg==</text>
+        <text encoding="base64">CiAgQElucHV0KCkgdHlwZTogc3RyaW5nID0gJ25vcm1hbCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -8432,7 +8431,7 @@
         <text encoding="base64">ICAgIDxoMT5DemVjaCBBdGxhbnRpYyBSb3c8L2gxPgogICAgPGgyPjIwMTYtMjAxNzwvaDI+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGgyPjIwMTYtMjAxNzwvaDI+Cg==</text>
+        <text encoding="base64">CiAgQElucHV0KCkgdHlwZTogc3RyaW5nID0gJ25vcm1hbCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8458,31 +8457,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWZzZCBzCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxvZ28iPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBvbk5nSW5pdCgpewo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmc2RhZicsIHRoaXMudHlwZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">PGgyPjIwMTYtMjAxNzwvaDI+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">PGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -8536,8 +8535,8 @@
         <entry>Wa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
