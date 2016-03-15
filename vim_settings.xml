@@ -639,6 +639,12 @@
         <mark key="." line="707" column="16" />
         <mark key="^" line="707" column="16" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458060504489">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/main.ts" timestamp="1457987586248">
         <mark key="[" line="3" column="48" />
         <mark key="]" line="3" column="47" />
@@ -871,6 +877,9 @@
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458059743374">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualni.php" timestamp="1452089430818">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="13" column="5" />
@@ -1065,6 +1074,11 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/home/home.component.ts" timestamp="1458059637519">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/webpack.config.js" timestamp="1457049022345">
         <mark key="[" line="65" column="1" />
         <mark key="]" line="68" column="25" />
@@ -1176,8 +1190,6 @@
         <mark key="^" line="18" column="36" />
         <mark key="." line="18" column="36" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1458057074414" />
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/models/prilezitost.ts" timestamp="1458043044257" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/SazkaTotalsControl/templates/SazkaTotalsControl.nax.latte" timestamp="1455567303519">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="32" column="7" />
@@ -1260,7 +1272,6 @@
         <mark key="." line="12" column="65" />
         <mark key="^" line="12" column="65" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/home/home.component.scss" timestamp="1458056316139" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ApiModule/KlientPresenter.php" timestamp="1446575827712">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="82" column="28" />
@@ -1331,6 +1342,10 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458060135255">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/index.html" timestamp="1457015753123">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="23" />
@@ -1395,6 +1410,12 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/home/home.component.html" timestamp="1458059768567">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/ServiceModule/components/KlientEmailGenerator/KlientEmailGenerator.php" timestamp="1452518207375">
         <mark key="[" line="259" column="39" />
         <mark key="]" line="258" column="40" />
@@ -1412,6 +1433,10 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/lod/lod.component.html" timestamp="1458059561376">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/css/sluzby.css" timestamp="1446932610583">
         <mark key="[" line="0" column="0" />
@@ -1444,7 +1469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="21" filename="$USER_HOME$/Downloads/polo.html" />
       <jump line="71" column="60" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
       <jump line="72" column="9" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
       <jump line="100" column="5" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
@@ -1544,6 +1568,7 @@
       <jump line="24" column="20" filename="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/index.js" />
       <jump line="39" column="29" filename="$USER_HOME$/Projekty/Czech Atlantic Row/web/.idea/workspace.xml" />
       <jump line="187" column="52" filename="$USER_HOME$/Projekty/Czech Atlantic Row/web/.idea/workspace.xml" />
+      <jump line="0" column="0" filename="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8433,20 +8458,20 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSB1cmw9ImZpbGU6Ly9EOi9Qcm9qZWt0eS9DemVjaCBBdGxhbnRpYyBSb3cvd2ViL25vZGVfbW9kdWxlcyIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iJFBST0pFQ1RfRElSJC9jZXN0YS5odG1sIiAvPg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
       </register>
-      <register name="0" type="4">
-        <text>file://$PROJECT_DIR$</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgPGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+CiAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSB1cmw9ImZpbGU6Ly9EOi9Qcm9qZWt0eS9DemVjaCBBdGxhbnRpYyBSb3cvd2ViL25vZGVfbW9kdWxlcyIgLz4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8471,32 +8496,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHJvb3QgdXJsPSJmaWxlOi8vRDovUHJvamVrdHkvQ3plY2ggQXRsYW50aWMgUm93L3dlYi9ub2RlX21vZHVsZXMiIC8+Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICA8ZW50cnkgZmlsZT0iZmlsZTovL0Q6L1Byb2pla3R5L0N6ZWNoIEF0bGFudGljIFJvdy93ZWIvd2VicGFjay5jb25maWcuanMiPgogICAgICA8cHJvdmlkZXIgc2VsZWN0ZWQ9InRydWUiIGVkaXRvci10eXBlLWlkPSJ0ZXh0LWVkaXRvciI+CiAgICAgICAgPHN0YXRlIHZlcnRpY2FsLXNjcm9sbC1wcm9wb3J0aW9uPSIwLjAiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjAiIGNvbHVtbj0iMCIgc2VsZWN0aW9uLXN0YXJ0LWxpbmU9IjAiIHNlbGVjdGlvbi1zdGFydC1jb2x1bW49IjAiIHNlbGVjdGlvbi1lbmQtbGluZT0iMCIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjAiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vJFBST0pFQ1RfRElSJC93ZWJwYWNrLmNvbmZpZy5qcyI+CiAgICAgIDxwcm92aWRlciBzZWxlY3RlZD0idHJ1ZSIgZWRpdG9yLXR5cGUtaWQ9InRleHQtZWRpdG9yIj4KICAgICAgICA8c3RhdGUgdmVydGljYWwtc2Nyb2xsLXByb3BvcnRpb249IjAuMTc0NTQ1NDUiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjEyIiBjb2x1bW49IjAiIHNlbGVjdGlvbi1zdGFydC1saW5lPSIxMiIgc2VsZWN0aW9uLXN0YXJ0LWNvbHVtbj0iMCIgc2VsZWN0aW9uLWVuZC1saW5lPSIxMiIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjAiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICA8ZW50cnkgZmlsZT0iZmlsZTovL0Q6L1Byb2pla3R5L0N6ZWNoIEF0bGFudGljIFJvdy93ZWIvcGFja2FnZS5qc29uIj4KICAgICAgPHByb3ZpZGVyIHNlbGVjdGVkPSJ0cnVlIiBlZGl0b3ItdHlwZS1pZD0idGV4dC1lZGl0b3IiPgogICAgICAgIDxzdGF0ZSB2ZXJ0aWNhbC1zY3JvbGwtcHJvcG9ydGlvbj0iMC4wIj4KICAgICAgICAgIDxjYXJldCBsaW5lPSIwIiBjb2x1bW49IjAiIHNlbGVjdGlvbi1zdGFydC1saW5lPSIwIiBzZWxlY3Rpb24tc3RhcnQtY29sdW1uPSIwIiBzZWxlY3Rpb24tZW5kLWxpbmU9IjAiIHNlbGVjdGlvbi1lbmQtY29sdW1uPSIwIiAvPgogICAgICAgICAgPGZvbGRpbmcgLz4KICAgICAgICA8L3N0YXRlPgogICAgICA8L3Byb3ZpZGVyPgogICAgPC9lbnRyeT4KICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvQ3plY2ggQXRsYW50aWMgUm93L3dlYi90eXBpbmdzLmpzb24iPgogICAgICA8cHJvdmlkZXIgc2VsZWN0ZWQ9InRydWUiIGVkaXRvci10eXBlLWlkPSJ0ZXh0LWVkaXRvciI+CiAgICAgICAgPHN0YXRlIHZlcnRpY2FsLXNjcm9sbC1wcm9wb3J0aW9uPSIwLjAiPgogICAgICAgICAgPGNhcmV0IGxpbmU9IjAiIGNvbHVtbj0iMCIgc2VsZWN0aW9uLXN0YXJ0LWxpbmU9IjAiIHNlbGVjdGlvbi1zdGFydC1jb2x1bW49IjAiIHNlbGVjdGlvbi1lbmQtbGluZT0iMCIgc2VsZWN0aW9uLWVuZC1jb2x1bW49IjAiIC8+CiAgICAgICAgICA8Zm9sZGluZyAvPgogICAgICAgIDwvc3RhdGU+CiAgICAgIDwvcHJvdmlkZXI+CiAgICA8L2VudHJ5Pg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICA8ZmlsZSB1cmw9ImZpbGU6Ly9EOi9Qcm9qZWt0eS9DemVjaCBBdGxhbnRpYyBSb3cvd2ViIiBsaWJyYXJpZXM9Int3ZWIgbm9kZV9tb2R1bGVzfSIgLz4=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PG9wdGlvbiB2YWx1ZT0iJFBST0pFQ1RfRElSJC9jZXN0YS5odG1sIiAvPg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPHJlY2VudCBuYW1lPSJmaWxlOi8vJFBST0pFQ1RfRElSJFxhcHBcY29tcG9uZW50c1xwb3NhZGthIiAvPgogICAgICA8cmVjZW50IG5hbWU9ImZpbGU6Ly8kUFJPSkVDVF9ESVIkXGFwcFxjb21wb25lbnRzXHBvZHBvcmEiIC8+CiAgICAgIDxyZWNlbnQgbmFtZT0iQzpcVXNlcnNcT25k+GVqXFByb2pla3R5XEN6ZWNoIEF0bGFudGljIFJvd1x3ZWJcYXBwXGNvbXBvbmVudHNccGFydG5lcmkiIC8+CiAgICAgIDxyZWNlbnQgbmFtZT0iQzpcVXNlcnNcT25k+GVqXFByb2pla3R5XEN6ZWNoIEF0bGFudGljIFJvd1x3ZWJcYXBwXGNvbXBvbmVudHNcbG9kIiAvPgogICAgICA8cmVjZW50IG5hbWU9IkM6XFVzZXJzXE9uZPhlalxQcm9qZWt0eVxDemVjaCBBdGxhbnRpYyBSb3dcd2ViXGFwcFxjb21wb25lbnRzXGNlc3RhIiAvPgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8548,10 +8573,10 @@
         <entry>W</entry>
         <entry>Wa</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
