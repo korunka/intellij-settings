@@ -639,11 +639,11 @@
         <mark key="." line="707" column="16" />
         <mark key="^" line="707" column="16" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458060504489">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="71" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458062100949">
+        <mark key="[" line="86" column="31" />
+        <mark key="]" line="86" column="49" />
+        <mark key="^" line="71" column="45" />
+        <mark key="." line="86" column="31" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/main.ts" timestamp="1457987586248">
         <mark key="[" line="3" column="48" />
@@ -1342,9 +1342,9 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458060135255">
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458062050405">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/index.html" timestamp="1457015753123">
         <mark key="[" line="4" column="16" />
@@ -8459,7 +8459,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text encoding="base64">IGNsYXNzPSJsb2dvLWxpbmsi</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -8467,8 +8467,8 @@
       <register name="/" type="4">
         <text>C:</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgPGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+CiAgICA8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzPSJsb2dvLWxpbmsi</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
