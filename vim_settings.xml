@@ -563,6 +563,12 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/home/home.component.ts" timestamp="1458034232264">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/PocitadloControl/templates/PocitadloControl.dialogVkladyVybery.latte" timestamp="1447935161603">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="19" column="11" />
@@ -580,6 +586,11 @@
         <mark key="]" line="45" column="97" />
         <mark key="." line="45" column="97" />
         <mark key="^" line="45" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/home/home.component.html" timestamp="1458034256085">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.korunkarMesiceCelorepublikovy.korunka.latte" timestamp="1451995086682">
         <mark key="[" line="0" column="0" />
@@ -912,10 +923,8 @@
         <mark key="^" line="52" column="163" />
         <mark key="." line="52" column="163" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/login/login.component.ts" timestamp="1457989742501">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/login/login.component.ts" timestamp="1458034140293">
+        <mark key="[" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/VyplatyActionControl/templates/VyplatyActionControl.detail.latte" timestamp="1446652762729">
         <mark key="[" line="29" column="54" />
@@ -8419,8 +8428,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -8431,8 +8440,8 @@
       <register name="0" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8457,32 +8466,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZTogYAogICAgPGgxPkN6ZWNoIEF0bGFudGljIFJvdzwvaDE+CiAgICA8aDI+MjAxNiAtIDIwMTc8L2gyPgoKICAgIDxoMT5EaXZuYSBuYXZpZ2FjZTwvaDE+CiAgYAo=</text>
       </register>
       <register name="3" type="4">
-        <text>;</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="4" type="4">
-        <text>y</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>y</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8534,10 +8543,10 @@
         <entry>e</entry>
         <entry>W</entry>
         <entry>Wa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
