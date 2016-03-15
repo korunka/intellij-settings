@@ -1127,11 +1127,11 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458051277596">
-        <mark key="[" line="34" column="44" />
-        <mark key="]" line="34" column="78" />
-        <mark key="^" line="34" column="78" />
-        <mark key="." line="34" column="78" />
+      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458052607207">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="50" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.htaccess" timestamp="1457635564649">
         <mark key="[" line="8" column="29" />
@@ -8445,19 +8445,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIKICAgICAgICAgICAgICBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGRhdGEtdGFyZ2V0PSIjbmF2YmFyIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIKICAgICAgICAgICAgICBhcmlhLWNvbnRyb2xzPSJuYXZiYXIiPgogICAgICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5Ub2dnbGUgbmF2aWdhdGlvbjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxvZ28iPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwvZGl2Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>M</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIKICAgICAgICAgICAgICBkYXRhLXRvZ2dsZT0iY29sbGFwc2UiIGRhdGEtdGFyZ2V0PSIjbmF2YmFyIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSIKICAgICAgICAgICAgICBhcmlhLWNvbnRyb2xzPSJuYXZiYXIiPgogICAgICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5Ub2dnbGUgbmF2aWdhdGlvbjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxvZ28iPgogICAgPC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8482,32 +8482,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icm93Ij48L2Rpdj4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IDwvZGl2Pg==</text>
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9Ib21lJ10iPkxvZ28gZG9t+TwvYT48L2xpPgo=</text>
+      <register name="4" type="4">
+        <text>2</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCclYyBcblwKPyAgICAgICBAQEAmICAgICAgIEBAQEBAQFxuXAo/ICAgICNAQEBAQEBAICAgICZAQEBAQEBAQCAgICAgICBCdWlsdCB1c2luZzpcblwKPyAgI0BAQEBAQEBAQC4gICUlJkBAQEBAQEAgICAgICAgIJUgQW5ndWxhciAyXG5cCj8gICAgICAmQEBAQEAlICAgICAoQEBAQEAoICAgICAgIJUgVHlwZVNjcmlwdFxuXAo/ICAgICAgIEBAQEBAQCAgICAgQEBAQEBAICAgICAgICCVIFNvY2tldCBJT1xuXAo/ICAgICAgICVAQEBAQCggIC5AQEBAQCggICAgICAgICCVIE5vZGUuanMgXG5cCj8gICAgICAgIEBAQEBAQChAQEBAQEBcblwKPyAgICAgICAgL0BAQEBAQEBAQEAlICAgICAgICAgICAgTGlrZSBwbGF5aW5nIHdpdGggbmV3IHRlY2hub2xvZ3ksIHRvbz9cblwKPyAgICAgICAgICZAQEBAQEBAJSAgICAgICAgICAgICAgaHR0cHM6Ly9kZXZlbG9wZXJzLmtvcnVua2EuZXUvXG5cCj8gICAgICAgICAgQEBAQEAjXG5cClxuXAonLCAnY29sb3I6ICNmM2M2MTc7Jyk7IC8vIG9yICM3NTNGNzgK</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgZWxlbWVudCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2gxJyk7CgogIGVsZW1lbnQuaW5uZXJIVE1MID0gJ0hlbGxvIHdvcmxkIC0ga2xpZW50c2vhIGFwcGxpa2FjZSc7CgogIHJldHVybiBlbGVtZW50Owo=</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJyVjIFxuXAo/ICAgICAgICAgICAgICAgICAgX19fICAgICAgICAgICBcblwKPyAgICAgICAgICAgICAgIC4mQEBAQEA+ICAgICAgICAgXG5cCj8gICw7QEBAQCAgICAgLkBAQEBAQEBcJyAgICAgICAgIEJ1aWx0IHVzaW5nOlxuXAo/ICBAQEBAQEBAICAgQEBAQEBAQEAgICAgICAgICAgICCVIEFuZ3VsYXIgMlxuXAo/ICBAQEBAQEBAICBAQEBAQEBAXCcgICAgICAgICAgICAglSBUeXBlU2NyaXB0XG5cCj8gIEBAQEBAQEAgQEBAQEBAQFwnICAgICAgICAgICAgICCVIFNvY2tldCBJT1xuXAo/ICBAQEBAQEBAQEBAQEBAPCAgICAgICAgICAgICAgICCVIE5vZGUuanMgXG5cCj8gIEBAQEBAQEAsQEBAQEBAQEAuICAgICAgICAgICAgIFxuXAo/ICBAQEBAQEBAICBAQEBAQEBAQEAgICAgICAgICAgICBMaWtlIHBsYXlpbmcgd2l0aCBuZXcgdGVjaG5vbG9neT9cblwKPyAgQEBAQEBAQCAgIC5AQEBAQEBAQEAgICAgICAgICAgaHR0cHM6Ly93d3cua29ydW5rYS5ldS9kZXZlbG9wZXJzXG5cCj8gIEBAQEBAQEAgICAgICBeQEBAQEBAQD4gICAgICAgIFxuXAo/ICBAQEBAQEBAICAgICAgICAgYGBgICAgICAgICAgICBcblwKPyAgsGBgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA/XFxfKD8pXy8/XG5cCj8gXG5cCicsICdjb2xvcjogIzc1M0Y3ODsnKTsK</text>
+      <register name="7" type="4">
+        <text>b</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="8" type="4">
+        <text>v</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTUuMDMuMjAxNi4K</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -8561,8 +8561,8 @@
         <entry>Wa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
