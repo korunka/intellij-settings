@@ -613,8 +613,10 @@
         <mark key="^" line="54" column="62" />
         <mark key="." line="54" column="62" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1458142597549">
-        <mark key="[" line="23" column="7" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1458143726125">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -1454,6 +1456,12 @@
         <mark key="]" line="3" column="2" />
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/index.html" timestamp="1458143429854">
+        <mark key="[" line="23" column="89" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/views/sestavovac-kombi.component.html" timestamp="1456393943253">
         <mark key="[" line="0" column="0" />
@@ -8470,7 +8478,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -8482,7 +8490,7 @@
         <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGVzOiBbIHJlcXVpcmUoJy4vbmF2aWdhdGlvbi5jb21wb25lbnQuc2NzcycpIF1kZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8508,28 +8516,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFsgcmVxdWlyZSgnLi9uYXZpZ2F0aW9uLmNvbXBvbmVudC5zY3NzJykgXQo=</text>
+        <text encoding="base64">ICBtZXRhZGF0YSA6IHsKICAgIEVOViA6ICdkZXZlbG9wbWVudCcKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiAnLi9pbWFnZXMvbG9nby1jemFyLWJnLGpwZyc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGdlbmVyYXRpbmcgaHRtbAogICAgbmV3IEh0bWxXZWJwYWNrUGx1Z2luKHsKICAgICAgdGVtcGxhdGUgICAgICAgOiAnYXBwL2luZGV4Lmh0bWwnLAogICAgICBjaHVua3NTb3J0TW9kZSA6ICdub25lJwogICAgfSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJub2RlLXNhc3MiOiAiXjMuNC4yIiwKICAgICJzYXNzLWxvYWRlciI6ICJeMy4yLjAiLAo=</text>
+        <text encoding="base64">PCUgfSAlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJub2RlLXNhc3MiOiAiXjMuNC4yIiwK</text>
+        <text encoding="base64">PCUgaWYgKHdlYnBhY2tDb25maWcubWV0YWRhdGEuRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7ICU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtzdHlsZXNoZWV0fSBmcm9tICcuL25hdmlnYXRpb24uY29tcG9uZW50JzsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9InBvbHlmaWxscy5idW5kbGUuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idmVuZG9yLmJ1bmRsZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgYXN5bmMgc3JjPSJhcHAuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc3R5bGVzOiBbIHJlcXVpcmUoJy4vbmF2aWdhdGlvbi5jb21wb25lbnQuc2NzcycpIF1kZAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzdHlsZXM6IFsgcmVxdWlyZSgnLi9uYXZpZ2F0aW9uLmNvbXBvbmVudC5zY3NzJykgXQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>c</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiAnLi9pbWFnZXMvbG9nby1jemFyLWJnLGpwZyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8585,8 +8593,8 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>e</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
