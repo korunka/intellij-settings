@@ -883,8 +883,10 @@
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458059743374">
-        <mark key="[" line="13" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458121007149">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualni.php" timestamp="1452089430818">
         <mark key="[" line="2" column="18" />
@@ -1348,9 +1350,12 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458062050405">
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458121307799">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="1" />
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/index.html" timestamp="1457015753123">
         <mark key="[" line="4" column="16" />
@@ -1416,7 +1421,7 @@
         <mark key="." line="1" column="29" />
         <mark key="^" line="1" column="29" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/home/home.component.html" timestamp="1458059768567">
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/home/home.component.html" timestamp="1458121014599">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="35" />
         <mark key="." line="5" column="35" />
@@ -8464,8 +8469,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmc2RhZicsIHRoaXMudHlwZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;</text>
@@ -8476,8 +8481,8 @@
       <register name="0" type="4">
         <text encoding="base64">IGNsYXNzPSJsb2dvLWxpbmsi</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmc2RhZicsIHRoaXMudHlwZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8503,13 +8508,13 @@
         </keys>
       </register>
       <register name="2" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="3" type="4">
         <text>-</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0taW5saW5lIC0tY29sb3JzIC0tcHJvZ3Jlc3MgLS1kaXNwbGF5LWVycm9yLWRldGFpbHMgLS1kaXNwbGF5LWNhY2hlZCIsCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -8527,7 +8532,7 @@
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8580,9 +8585,9 @@
         <entry>Wa</entry>
         <entry>wqa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
