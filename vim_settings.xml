@@ -305,11 +305,11 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/package.json" timestamp="1458079439261">
-        <mark key="[" line="8" column="58" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/package.json" timestamp="1458119852612">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+        <mark key="^" line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/index.html" timestamp="1456825573338">
         <mark key="[" line="0" column="0" />
@@ -645,11 +645,11 @@
         <mark key="." line="707" column="16" />
         <mark key="^" line="707" column="16" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458062100949">
-        <mark key="[" line="86" column="31" />
-        <mark key="]" line="86" column="49" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458120264353">
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="74" column="47" />
         <mark key="^" line="71" column="45" />
-        <mark key="." line="86" column="31" />
+        <mark key="." line="74" column="47" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/main.ts" timestamp="1457987586248">
         <mark key="[" line="3" column="48" />
@@ -8465,10 +8465,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8477,7 +8477,7 @@
         <text encoding="base64">IGNsYXNzPSJsb2dvLWxpbmsi</text>
       </register>
       <register name="1" type="4">
-        <text>-</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8502,11 +8502,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0taW5saW5lIC0tY29sb3JzIC0tcHJvZ3Jlc3MgLS1kaXNwbGF5LWVycm9yLWRldGFpbHMgLS1kaXNwbGF5LWNhY2hlZCIsCg==</text>
+      <register name="2" type="4">
+        <text>-</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJidWlsZCI6ICJ3ZWJwYWNrIC0taW5saW5lIC0tY29sb3JzIC0tcHJvZ3Jlc3MgLS1kaXNwbGF5LWVycm9yLWRldGFpbHMgLS1kaXNwbGF5LWNhY2hlZCIsCg==</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
@@ -8523,11 +8523,11 @@
       <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -8581,8 +8581,8 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
