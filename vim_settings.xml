@@ -305,7 +305,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/package.json" timestamp="1458125082033">
+      <file name="D:/Projekty/Czech Atlantic Row/web/package.json" timestamp="1458139458987">
         <mark key="]" line="27" column="28" />
         <mark key="^" line="33" column="23" />
       </file>
@@ -613,11 +613,11 @@
         <mark key="^" line="54" column="62" />
         <mark key="." line="54" column="62" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1458131800549">
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="24" />
-        <mark key="." line="49" column="24" />
-        <mark key="^" line="49" column="24" />
+      <file name="D:/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1458139569049">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+        <mark key="^" line="2" column="56" />
       </file>
       <file name="$USER_HOME$/Downloads/zale.html" timestamp="1457124034399">
         <mark key="[" line="3" column="21" />
@@ -1018,7 +1018,8 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" timestamp="1458123232607">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" timestamp="1458139207977">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="57" column="7" />
         <mark key="." line="71" column="0" />
@@ -1482,8 +1483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="60" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
-      <jump line="72" column="9" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
       <jump line="100" column="5" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/scraper.js" />
       <jump line="1237" column="39" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
       <jump line="475" column="67" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
@@ -1582,6 +1581,8 @@
       <jump line="39" column="29" filename="$USER_HOME$/Projekty/Czech Atlantic Row/web/.idea/workspace.xml" />
       <jump line="187" column="52" filename="$USER_HOME$/Projekty/Czech Atlantic Row/web/.idea/workspace.xml" />
       <jump line="0" column="0" filename="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" />
+      <jump line="53" column="6" filename="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8472,7 +8473,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc3R5bGVzOiBbIHJlcXVpcmUoJy4vbmF2aWdhdGlvbi5jb21wb25lbnQuc2NzcycpIF1kZAo=</text>
+        <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -8480,8 +8481,8 @@
       <register name="/" type="4">
         <text>C:</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGNsYXNzPSJsb2dvLWxpbmsi</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbWVyZ2UgPSByZXF1aXJlKCd3ZWJwYWNrLW1lcmdlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgc3R5bGVzOiBbIHJlcXVpcmUoJy4vbmF2aWdhdGlvbi5jb21wb25lbnQuc2NzcycpIF1kZAo=</text>
