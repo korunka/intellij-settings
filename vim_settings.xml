@@ -39,7 +39,7 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/package.json" timestamp="1457793197761">
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/package.json" timestamp="1458209849449">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="34" column="1" />
         <mark key="^" line="34" column="1" />
@@ -181,8 +181,11 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458209568643">
-        <mark key="[" line="1" column="24" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458210087461">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="21" column="1" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="21" column="1" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
@@ -8549,7 +8552,7 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiAnLi9pbWFnZXMvbG9nby1jemFyLWJnLGpwZyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8603,8 +8606,8 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
