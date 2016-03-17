@@ -181,6 +181,9 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458209568643">
+        <mark key="[" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="81" />
@@ -683,6 +686,12 @@
         <mark key="]" line="1" column="50" />
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/.gitignore" timestamp="1458209711719">
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/LosovaniActionControl/components/VylosovanaCislaForm/templates/VylosovanaCislaForm.zverejneni.latte" timestamp="1448382424850">
         <mark key="[" line="4" column="101" />
@@ -8540,7 +8549,7 @@
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWltYWdlOiAnLi9pbWFnZXMvbG9nby1jemFyLWJnLGpwZyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -8592,10 +8601,10 @@
         <entry>Wa</entry>
         <entry>wqa</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
