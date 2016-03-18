@@ -548,6 +548,11 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/main.ts" timestamp="1458322089708">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/server.ts" timestamp="1456489640543">
         <mark key="[" line="8" column="65" />
         <mark key="]" line="8" column="67" />
@@ -8502,10 +8507,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/**</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8514,7 +8519,7 @@
         <text encoding="base64">ICAgICdwb2x5ZmlsbHMnOicuL2FwcC9wb2x5ZmlsbHMudHMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8540,28 +8545,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>/**</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiYnVpbGRPblNhdmUiOiBmYWxzZSwK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiYXRvbSI6IHsgInJld3JpdGVUc2NvbmZpZyI6IGZhbHNlIH0K</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4zIiwKICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi40Igo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
+        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
