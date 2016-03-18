@@ -8568,7 +8568,7 @@
         <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8622,8 +8622,8 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>wa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
