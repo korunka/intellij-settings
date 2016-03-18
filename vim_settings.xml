@@ -602,6 +602,7 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/index.html" timestamp="1458297165049" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.korunkarMesiceCelorepublikovy.korunka.latte" timestamp="1451995086682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
@@ -844,12 +845,6 @@
         <mark key="]" line="52" column="27" />
         <mark key="^" line="52" column="27" />
         <mark key="." line="52" column="27" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1455718755775">
-        <mark key="[" line="0" column="80" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="4" column="45" />
-        <mark key="." line="4" column="45" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/velka_hra/file_vtc_druhekolo.php" timestamp="1448466886233">
         <mark key="[" line="382" column="16" />
@@ -1171,6 +1166,12 @@
         <mark key="]" line="11" column="23" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1" timestamp="1455718755775">
+        <mark key="[" line="0" column="80" />
+        <mark key="]" line="4" column="45" />
+        <mark key="^" line="4" column="45" />
+        <mark key="." line="4" column="45" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458057277603">
         <mark key="]" line="16" column="2" />
