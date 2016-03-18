@@ -328,6 +328,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458312951507">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
         <mark key="]" line="60" column="16" />
@@ -8496,7 +8501,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -8508,7 +8513,7 @@
         <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4yIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8534,28 +8539,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiYnVpbGRPblNhdmUiOiBmYWxzZSwK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiYXRvbSI6IHsgInJld3JpdGVUc2NvbmZpZyI6IGZhbHNlIH0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4zIiwKICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi40Igo=</text>
+        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
+        <text encoding="base64">ICAiYnVpbGRPblNhdmUiOiBmYWxzZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
+        <text encoding="base64">ICAiYXRvbSI6IHsgInJld3JpdGVUc2NvbmZpZyI6IGZhbHNlIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4zIiwKICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi40Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtZXRhZGF0YSA6IHsKICAgIEVOViA6ICdkZXZlbG9wbWVudCcKICB9LAo=</text>
+        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGdlbmVyYXRpbmcgaHRtbAogICAgbmV3IEh0bWxXZWJwYWNrUGx1Z2luKHsKICAgICAgdGVtcGxhdGUgICAgICAgOiAnYXBwL2luZGV4Lmh0bWwnLAogICAgICBjaHVua3NTb3J0TW9kZSA6ICdub25lJwogICAgfSksCg==</text>
+        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
