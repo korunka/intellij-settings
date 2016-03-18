@@ -181,11 +181,11 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458234463175">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="24" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458297623383">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
@@ -602,7 +602,6 @@
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/index.html" timestamp="1458297165049" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.korunkarMesiceCelorepublikovy.korunka.latte" timestamp="1451995086682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="59" />
@@ -763,6 +762,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/tsconfig.json" timestamp="1458297857075">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/KrajskyRocniCelkovyAktualniQuery.php" timestamp="1452089558713">
         <mark key="[" line="13" column="6" />
@@ -1219,6 +1224,9 @@
         <mark key="]" line="32" column="7" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings.json" timestamp="1458298056178">
+        <mark key="[" line="6" column="65" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/KorunkarControl/templates/KorunkarControl.mesicniRepublikovePoradi.korunka.latte" timestamp="1452259938176">
         <mark key="[" line="9" column="0" />
@@ -8492,7 +8500,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4yIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNSIK</text>
+        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -8504,7 +8512,7 @@
         <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4wLjIiLAogICAgImVzNi1zaGltIjogIl4wLjMzLjMiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiMC4xLjIiLAogICAgInJ4anMiOiAiNS4wLjAtYmV0YS4yIiwKICAgICJ6b25lLmpzIjogIjAuNS4xNSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4zIiwKICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi40Igo=</text>
+        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8530,28 +8538,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
+        <text encoding="base64">ICAiYnVpbGRPblNhdmUiOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
+        <text encoding="base64">ICAiYXRvbSI6IHsgInJld3JpdGVUc2NvbmZpZyI6IGZhbHNlIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICJeMi4wLjAtYmV0YS45IiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAogICAgInJlZmxlY3QtbWV0YWRhdGEiOiAiXjAuMS4zIiwKICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi40Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtZXRhZGF0YSA6IHsKICAgIEVOViA6ICdkZXZlbG9wbWVudCcKICB9LAo=</text>
+        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGdlbmVyYXRpbmcgaHRtbAogICAgbmV3IEh0bWxXZWJwYWNrUGx1Z2luKHsKICAgICAgdGVtcGxhdGUgICAgICAgOiAnYXBwL2luZGV4Lmh0bWwnLAogICAgICBjaHVua3NTb3J0TW9kZSA6ICdub25lJwogICAgfSksCg==</text>
+        <text encoding="base64">ICAgICJlczYtcHJvbWlzZSI6ICJeMy4xLjIiLAogICAgImVzNi1zaGltIjogIl4wLjM1LjAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCUgfSAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCUgaWYgKHdlYnBhY2tDb25maWcubWV0YWRhdGEuRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7ICU+Cg==</text>
+        <text encoding="base64">ICBtZXRhZGF0YSA6IHsKICAgIEVOViA6ICdkZXZlbG9wbWVudCcKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9InBvbHlmaWxscy5idW5kbGUuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0idmVuZG9yLmJ1bmRsZS5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgYXN5bmMgc3JjPSJhcHAuYnVuZGxlLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIC8vIGdlbmVyYXRpbmcgaHRtbAogICAgbmV3IEh0bWxXZWJwYWNrUGx1Z2luKHsKICAgICAgdGVtcGxhdGUgICAgICAgOiAnYXBwL2luZGV4Lmh0bWwnLAogICAgICBjaHVua3NTb3J0TW9kZSA6ICdub25lJwogICAgfSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
