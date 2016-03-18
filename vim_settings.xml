@@ -679,6 +679,12 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-angular2-tutorial/app/dashboard.component.html" timestamp="1458312582857">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/webpack.config.js" timestamp="1457988383586">
         <mark key="[" line="37" column="46" />
         <mark key="]" line="38" column="7" />
@@ -1155,11 +1161,6 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="31" column="7" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.html" timestamp="1458056185836">
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="49" column="24" />
-      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/.htaccess" timestamp="1457635564649">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="5" column="22" />
@@ -1177,11 +1178,6 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458057277603">
-        <mark key="]" line="16" column="2" />
-        <mark key="^" line="16" column="2" />
-        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457875181697">
         <mark key="[" line="74" column="0" />
