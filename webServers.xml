@@ -6,6 +6,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="db571a80-483a-41eb-b593-7345b4da82a0" name="DEV2 - Velka hra" url="http://dev2.korunka.eu">
@@ -13,10 +14,11 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="dec042ef-0504-49fe-8708-3725bd911ee2" name="sestavovac-kombi-angular2" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
