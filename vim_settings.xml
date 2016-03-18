@@ -181,11 +181,11 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458323928908">
-        <mark key="[" line="19" column="132" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458328693655">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="103" />
+        <mark key="." line="18" column="103" />
+        <mark key="^" line="18" column="103" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
@@ -8505,11 +8505,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8517,8 +8517,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICdwb2x5ZmlsbHMnOicuL2FwcC9wb2x5ZmlsbHMudHMnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8544,31 +8544,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>/**</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>/**</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGhvc3Q6ICdsb2NhbGhvc3QnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMTguMDMuMjAxNi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiY29tcGlsZU9uU2F2ZSI6IGZhbHNlLAo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -8621,9 +8621,9 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
