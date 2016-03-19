@@ -328,11 +328,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458401109845">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458415691120">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="34" column="17" />
+        <mark key="." line="34" column="17" />
+        <mark key="^" line="34" column="17" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
@@ -8504,8 +8504,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBTZWU6IGh0dHA6Ly93ZWJwYWNrLmdpdGh1Yi5pby9kb2NzL2NvbmZpZ3VyYXRpb24uaHRtbCNyZXNvbHZlCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -8514,7 +8514,7 @@
         <text>C:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdwb2x5ZmlsbHMnOicuL2FwcC9wb2x5ZmlsbHMudHMnCg==</text>
+        <text encoding="base64">ICAvLyBTZWU6IGh0dHA6Ly93ZWJwYWNrLmdpdGh1Yi5pby9kb2NzL2NvbmZpZ3VyYXRpb24uaHRtbCNyZXNvbHZlCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IA==</text>
@@ -8660,6 +8660,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
