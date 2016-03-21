@@ -210,11 +210,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458547675458">
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="15" column="54" />
-        <mark key="." line="15" column="54" />
-        <mark key="^" line="15" column="54" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458571053544">
+        <mark key="[" line="66" column="6" />
+        <mark key="]" line="76" column="9" />
+        <mark key="." line="76" column="9" />
+        <mark key="^" line="76" column="9" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/develop/db_nastav_develop_uzivatele.sh" timestamp="1447945607824">
         <mark key="[" line="29" column="47" />
@@ -330,11 +330,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458544399306">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458570332370">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="74" column="7" />
+        <mark key="^" line="74" column="7" />
+        <mark key="." line="74" column="7" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
@@ -832,11 +832,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1458548043392">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1458571619169">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/ClientInfo.php" timestamp="1447954553609">
         <mark key="[" line="39" column="21" />
@@ -987,6 +987,11 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1458571097536">
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/VyplatyActionControl/templates/VyplatyActionControl.detail.latte" timestamp="1446652762729">
         <mark key="[" line="29" column="54" />
@@ -8517,11 +8522,11 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8529,8 +8534,8 @@
       <register name="0" type="4">
         <text encoding="base64">e2tsaWM6IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8555,29 +8560,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IGFueSB7CiAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CiAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBuZ09uSW5pdCgpOiBhbnkgewogICAgcmV0dXJuIHVuZGVmaW5lZDsKICB9Cg==</text>
+      <register name="3" type="4">
+        <text>/</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9InJvdyI+CgogIDxwPkNlbGtvdukgbuFrbGFkeSBuYSBwbGF2YnWgZGxlIG5hmmljaCBvZGhhZPkgcPhlc+Fobm91dCDo4XN0a3WgMSBtaWwuIEvoLgogICAgTmVqdux0mu0gcG9sb55rb3Ugcm96cG/odHUgamUga291cOwgbG9k7Cwgau2eIGpzbWUgc2kgcG/47WRpbGkgemEgdOlt7PggNTAwCiAgICB0aXMuIEvoLiBEYWya7SBwb2xvnmt5IG5hmmVobyByb3pwb+h0dSBw+GVkc3RhdnVq7SBw+GVkZXaa7W0gbuFrbGFkeSBzcG9qZW7pCiAgICBzoHD4ZXByYXZvdSBsb2TsICiKcGFu7Gxza28gLSDIUiwgyFIgLSBLYW7hcnNr6SBvc3Ryb3Z5LCBNYXJ0aW5payAtIMhSKSwKICAgIGThbGUgcGFrIG7ha2xhZHkgbmEgc3RyYXZ1IGEgZG9wcmF2dSDobGVu+SBwb3PhZGt5IHogY+1sb3bpIGRlc3RpbmFjZS48L3A+CiAgPHA+QmV6IHBvZHBvcnkgc3BvbnpvcvkgYSBpbmRpdmlkdeFsbu1jaCBk4XJj+SBuZWJ1ZGVtZSBzY2hvcG5pIG5hmmkgY2VzdHUKICAgIHpyZWFsaXpvdmF0LCB1du104W1lIHRhayBmaW5hbuhu7SBwb2Rwb3J1IHagamFr6WtvbGkgdv2aaS4gUG9kcG/4aXQgbuFzCiAgICBt+Z5ldGUgZHZvau1tIHpw+XNvYmVtLCBide8gc2UgbfmeZXRlIHN04XQgbmGaaW1pIG9maWNp4Wxu7W1pIHNwb256b3J5LCBuZWJvCiAgICBu4XMgbfmeZXRlIHBvZHBv+Gl0IGpha28gaW5kaXZpZHXhbG7tIGThcmNpLjwvcD4KCiAgPHVsPgogICAgPGxpPjxzdHJvbmc+U3Rh8nRlIHNlIG5hmmltaSBzcG9uem9yeTwvc3Ryb25nPjwvbGk+CiAgICA8bGk+PHN0cm9uZz5TdGHydGUgc2UgaW5kaXZpZHXhbG7tbSBk4XJjZW08L3N0cm9uZz48L2xpPgogIDwvdWw+CgogIDxwPlNlem5hbSBuYZppY2ggcGFydG5lcvmgbmFsZXpuZXRlIG5hIHN0cuFuY2UgPGEKICAgIFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsICdwYXJ0bmVyaSddIj5QYXJ0bmX4aTwvYT4uPC9wPgogIDxwPjEwJSB6ZSB67XNrYW79Y2ggZmluYW7obu1jaCBwcm9zdPhlZGv5IG5hIHBvZHBvcnUgdmVzbG924W7tPC9wPgogIDxwPgogICAgPGEKICAgICAgaHJlZj0iaHR0cDovL2N6ZWNoYXRsYW50aWNyb3cuY3ovd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDcvYmxlc2stbG9nb19uYXBpczEuanBnIj4KICAgICAgPGltZwogICAgICAgIHNyYz0iaHR0cDovL2N6ZWNoYXRsYW50aWNyb3cuY3ovd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDcvYmxlc2stbG9nb19uYXBpczEtMjA0eDMwMC5qcGciCiAgICAgICAgYWx0PSJMb2dvIFZLIEJsZXNrIiB3aWR0aD0iMjA0IiBoZWlnaHQ9IjMwMCIvPgogICAgPC9hPgogICAgQ+1sZW0gbmGa7SBwbGF2YnkgbmVu7SBqZW4gcPhldmVzbG92YXQgQXRsYW50aWssIGNoY2VtZSB0YWvpIHD4aXNw7HQgawogICAgcm96dm9qaSB2ZXNsYfhza+lobyBzcG9ydHUgdiDIZXNr6SByZXB1YmxpY2UuIFZlc2xvduFu7SBqYWtvIGplZGVuIHqgbeFsYQogICAgc3BvcnT5IHJvenbtau0gcnljaGxvc3QsIHPtbHUgaSB2eXRydmFsb3N0LiBW/WhvZG91IGplIGkgdG8sIJ5lIHNlCiAgICByb3Zub23scm7sIHphdOyedWrtIHaaZWNobnkgc3ZhbG926SBza3VwaW55IGEgbmVkb2No4XrtIGtlIJpwYXRu6W11IGRynmVu7QogICAgdOxsYS4gUPhpIHZlc2xvduFu7SBzZSB2/XJhem7sIHpsZXCadWplIOhpbm5vc3Qgc3JkY2UsIHByb2tydmVu7SBvcmdhbmlzbXUgYQogICAgamVobyB2/WRyni4gVmUgdmVzbG924W7tIHNlIGRi4SBuYSBpbmRpdmlkdeFsbu0gdv12b2ogamVkaW5jZSwgcm96du1q7SBzZQogICAgamVobyB2mmVzdHJhbm5vc3QuIFByb3RvIDEwJSB6ZSB67XNrYW79Y2ggcHJvc3T4ZWRr+SBidWRlIHZ5dZ5pdG8gbmEgcG9kcG9ydQogICAgPGEgaHJlZj0iaHR0cDovL3d3dy52a2JsZXNrLmN6L25hYm9yIj5k7HRza/1jaCBhIG1s4WRlnm5pY2v9Y2ggcG9z4WRlayBWSwogICAgICBCbGVzazwvYT4uPC9wPgogIDxwPgogICAgPGEgaHJlZj0iaHR0cDovL2N6ZWNoYXRsYW50aWNyb3cuY3ovd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDcvRFNDNTE5My5qcGciPgogICAgICA8aW1nCiAgICAgICAgc3JjPSJodHRwOi8vY3plY2hhdGxhbnRpY3Jvdy5jei93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNy9EU0M1MTkzLTMwMHgyMDAuanBnIgogICAgICAgIGFsdD0iX0RTQzUxOTMiIHdpZHRoPSIyNjAiIGhlaWdodD0iMTczIi8+CiAgICAgIDxpbWcKICAgICAgICBzcmM9Imh0dHA6Ly9jemVjaGF0bGFudGljcm93LmN6L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzA3L0RTQzM4NDItMzAweDIwMC5qcGciCiAgICAgICAgYWx0PSJfRFNDMzg0MiIgd2lkdGg9IjI1OCIgaGVpZ2h0PSIxNzIiLz4KICAgICAgPGltZwogICAgICAgIHNyYz0iaHR0cDovL2N6ZWNoYXRsYW50aWNyb3cuY3ovd3AtY29udGVudC91cGxvYWRzLzIwMTUvMDcvRFNDNTE5Mi0zMDB4MjAwLmpwZyIKICAgICAgICBhbHQ9Il9EU0M1MTkyIiB3aWR0aD0iMjU4IiBoZWlnaHQ9IjE3MiIvPgogICAgPC9hPgogIDwvcD4KCjwvZGl2Pgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdMb2dpbicsCg==</text>
+      <register name="5" type="4">
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdCbG9nJwo=</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdIb21lJywK</text>
+        <text encoding="base64">ICBzdHlsZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdQYWdlJwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IGFueSB7CiAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CiAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
