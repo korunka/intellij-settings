@@ -181,10 +181,10 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458516285880">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458517983142">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="18" column="51" />
+        <mark key="." line="18" column="51" />
         <mark key="^" line="26" column="23" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
@@ -328,11 +328,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458516048878">
-        <mark key="[" line="70" column="84" />
-        <mark key="]" line="70" column="95" />
-        <mark key="." line="70" column="95" />
-        <mark key="^" line="70" column="95" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458517794072">
+        <mark key="[" line="75" column="77" />
+        <mark key="]" line="76" column="4" />
+        <mark key="." line="76" column="4" />
+        <mark key="^" line="76" column="4" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
@@ -548,11 +548,8 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/main.ts" timestamp="1458323648117">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-        <mark key="." line="2" column="17" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/main.ts" timestamp="1458517588339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/server/server.ts" timestamp="1456489640543">
         <mark key="[" line="8" column="65" />
@@ -613,6 +610,12 @@
         <mark key="]" line="4" column="58" />
         <mark key="." line="4" column="58" />
         <mark key="^" line="4" column="58" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/index.html" timestamp="1458516898818">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/HerniBodyControl/components/korunkarControl/templates/KorunkarControl.korunkarMesiceCelorepublikovy.korunka.latte" timestamp="1451995086682">
         <mark key="[" line="0" column="0" />
@@ -1306,10 +1309,6 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/dist/index.html.backup" timestamp="1458055324202">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="21" />
-      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/app/polyfills.ts" timestamp="1458514860526">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="16" />
@@ -1363,10 +1362,6 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-sestavovac-kombi-angular2/client/sazky-na-prilezitosti.component.ts" timestamp="1458043064961">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.pobocky.latte" timestamp="1454321979155">
         <mark key="[" line="2" column="0" />
@@ -1435,10 +1430,6 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/client/component.js" timestamp="1458034577809">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="1" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/exceptions/SuperpiketException.php" timestamp="1448366237643">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="15" column="31" />
@@ -1486,10 +1477,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/lod/lod.component.html" timestamp="1458059561376">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="45" />
       </file>
       <file name="$USER_HOME$/Projekty/T&amp;H Energo/web/css/sluzby.css" timestamp="1446932610583">
         <mark key="[" line="0" column="0" />
@@ -8556,28 +8543,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>l</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>g</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
