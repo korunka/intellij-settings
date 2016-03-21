@@ -181,11 +181,11 @@
         <mark key="]" line="19" column="58" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458517983142">
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="26" column="23" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458526027323">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
         <mark key="[" line="5" column="0" />
@@ -328,11 +328,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458517794072">
-        <mark key="[" line="75" column="77" />
-        <mark key="]" line="76" column="4" />
-        <mark key="." line="76" column="4" />
-        <mark key="^" line="76" column="4" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458525843418">
+        <mark key="[" line="88" column="48" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
@@ -350,6 +350,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.html" timestamp="1458525683749">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/tsconfig.json" timestamp="1457095604724">
         <mark key="[" line="4" column="31" />
@@ -569,6 +575,12 @@
         <mark key="^" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1458525731777">
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="11" />
@@ -712,11 +724,11 @@
         <mark key="^" line="34" column="45" />
         <mark key="." line="1" column="50" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/.gitignore" timestamp="1458516215875">
-        <mark key="[" line="105" column="46" />
-        <mark key="]" line="110" column="5" />
-        <mark key="^" line="110" column="5" />
-        <mark key="." line="110" column="5" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/.gitignore" timestamp="1458526820816">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="111" column="8" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/LosovaniActionControl/components/VylosovanaCislaForm/templates/VylosovanaCislaForm.zverejneni.latte" timestamp="1448382424850">
         <mark key="[" line="4" column="101" />
@@ -979,6 +991,12 @@
         <mark key="]" line="645" column="12" />
         <mark key="." line="645" column="12" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.ts" timestamp="1458525592005">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/VyplatyActionControl/templates/VyplatyActionControl.detail.latte" timestamp="1446652762729">
         <mark key="[" line="29" column="54" />
         <mark key="]" line="29" column="73" />
@@ -1069,6 +1087,12 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/polyfills.ts" timestamp="1458527245882">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/package.json" timestamp="1455890540829">
         <mark key="[" line="8" column="24" />
@@ -1199,6 +1223,12 @@
         <mark key="]" line="4" column="45" />
         <mark key="^" line="4" column="45" />
         <mark key="." line="4" column="45" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/index.html" timestamp="1458526714781">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Projekty/Angular Training/Angular Seed/webpack.config.js" timestamp="1457875181697">
         <mark key="[" line="74" column="0" />
@@ -1363,6 +1393,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/vendor.ts" timestamp="1458526973030" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/templates/SestavovacKorunkyControl.skeuomorphic-tiket.pobocky.latte" timestamp="1454321979155">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1386,13 +1417,6 @@
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="42" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.scss" timestamp="1458125195115">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/build/backoffice/index.html" timestamp="1457015753123">
         <mark key="[" line="4" column="16" />
@@ -8505,10 +8529,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8517,7 +8541,7 @@
         <text encoding="base64">ICAvLyBTZWU6IGh0dHA6Ly93ZWJwYWNrLmdpdGh1Yi5pby9kb2NzL2NvbmZpZ3VyYXRpb24uaHRtbCNyZXNvbHZlCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8543,28 +8567,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>.</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0ICd6b25lLmpzL2xpYi9icm93c2VyL2Jyb3dzZXInOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgPG1ldGEgY2hhcnNldD0iVVRGLTgiPgogIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8618,10 +8642,10 @@
         <entry>Wa</entry>
         <entry>wqa</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>d</entry>
-        <entry>wa</entry>
         <entry>q</entry>
+        <entry>wa</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
