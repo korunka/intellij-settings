@@ -210,11 +210,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458653146488">
-        <mark key="[" line="62" column="47" />
-        <mark key="]" line="76" column="9" />
-        <mark key="." line="76" column="9" />
-        <mark key="^" line="76" column="9" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458658806806">
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="62" column="68" />
+        <mark key="^" line="62" column="68" />
+        <mark key="." line="62" column="68" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/develop/db_nastav_develop_uzivatele.sh" timestamp="1447945607824">
         <mark key="[" line="29" column="47" />
@@ -330,11 +330,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458657160576">
-        <mark key="[" line="84" column="7" />
-        <mark key="]" line="88" column="28" />
-        <mark key="^" line="88" column="28" />
-        <mark key="." line="88" column="28" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1458658683196">
+        <mark key="[" line="79" column="42" />
+        <mark key="]" line="79" column="44" />
+        <mark key="^" line="79" column="44" />
+        <mark key="." line="79" column="44" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
@@ -832,7 +832,7 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1458572873020">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1458658667612">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
@@ -8524,10 +8524,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8536,7 +8536,7 @@
         <text encoding="base64">e2tsaWM6IA==</text>
       </register>
       <register name="1" type="4">
-        <text>%</text>
+        <text>&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8561,29 +8561,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8YSBbcm91dGVyTGlua109IlsnL0hvbWUnXSI+PGltZyBzcmM9Ii4vaW1hZ2VzL2xvZ28tY3phci1tYWxlLnBuZyIvPjwvYT4K</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="5" type="4">
+        <text>%</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
         <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBzdHlsZXMK</text>
+      <register name="8" type="4">
+        <text>/</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
