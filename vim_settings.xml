@@ -192,10 +192,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458544640397">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458653111124">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
         <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/angular2-tutorial/app/app.component.ts" timestamp="1456389844885">
@@ -210,8 +210,8 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458571053544">
-        <mark key="[" line="66" column="6" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458653146488">
+        <mark key="[" line="62" column="47" />
         <mark key="]" line="76" column="9" />
         <mark key="." line="76" column="9" />
         <mark key="^" line="76" column="9" />
@@ -8524,10 +8524,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -8536,7 +8536,7 @@
         <text encoding="base64">e2tsaWM6IA==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -8562,28 +8562,28 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="4" type="4">
         <text>/</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="4">
         <text>/</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZXMK</text>
+      <register name="7" type="4">
+        <text>/</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
+        <text encoding="base64">ICBzdHlsZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5nT25Jbml0KCk6IGFueSB7CiAgICAgIHJldHVybiB1bmRlZmluZWQ7CiAgICB9CiAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIF9yb3V0ZVBhcmFtcyA6IFJvdXRlUGFyYW1zOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
