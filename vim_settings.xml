@@ -331,6 +331,7 @@
         <mark key="^" line="88" column="45" />
         <mark key="." line="88" column="45" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/weather/weatherScreen.ts" timestamp="1458744292737" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/sestavovac-kombi-angular2/client/models/tiket.ts" timestamp="1456250305042">
         <mark key="[" line="63" column="6" />
         <mark key="]" line="60" column="16" />
@@ -361,6 +362,7 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/typings/firebase/firebase.d.ts" timestamp="1458744491163" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/HomePresenter.vysledkyVelkeHry.latte" timestamp="1449596847681">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="29" column="34" />
@@ -930,6 +932,7 @@
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/pipes.ts" timestamp="1458744468291" />
       <file name="D:/Projekty/Czech Atlantic Row/web/app/components/navigation/navigation.component.ts" timestamp="1458545408103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="20" column="0" />
@@ -1049,7 +1052,7 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/package.json" timestamp="1458743142515">
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/package.json" timestamp="1458744262086">
         <mark key="[" line="15" column="18" />
         <mark key="]" line="9" column="62" />
         <mark key="^" line="9" column="62" />
@@ -1157,6 +1160,7 @@
         <mark key="." line="68" column="25" />
         <mark key="^" line="68" column="25" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/observableFirebase.js" timestamp="1458744433047" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/VysledkyVelkeHryPresenter.default.latte" timestamp="1449211881679">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="3" column="6" />
@@ -1372,6 +1376,7 @@
         <mark key="^" line="48" column="44" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/weather/weatherPanel.ts" timestamp="1458744511877" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/KorunkaModule/templates/DetailTiketuPresenter.tiket.latte" timestamp="1448876535872">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="47" />
