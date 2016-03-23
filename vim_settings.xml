@@ -200,17 +200,12 @@
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="5" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/firebase-hero.service.ts" timestamp="1458745526233" />
+      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/firebase-hero.service.ts" timestamp="1458761014012" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualniQuery.php" timestamp="1452089510446">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1458661229775">
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/bin/develop/db_nastav_develop_uzivatele.sh" timestamp="1447945607824">
         <mark key="[" line="29" column="47" />
@@ -584,6 +579,7 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/ngWhen.ts" timestamp="1458761698009" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/sql/procedures/i18n/korunka_velka_hra_uzaverka.sql" timestamp="1448380240066">
         <mark key="[" line="78" column="41" />
         <mark key="]" line="78" column="11" />
@@ -668,7 +664,7 @@
         <mark key="^" line="44" column="8" />
         <mark key="." line="44" column="8" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/boot.ts" timestamp="1458745572525">
+      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/boot.ts" timestamp="1458760977548">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
@@ -994,11 +990,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1458571097536">
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-        <mark key="^" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/SpravaModule/components/VyplatyActionControl/templates/VyplatyActionControl.detail.latte" timestamp="1446652762729">
         <mark key="[" line="29" column="54" />
