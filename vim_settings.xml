@@ -200,7 +200,6 @@
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="5" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/podpora/podpora.component.html" timestamp="1458726549288" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/libs/Korunka/models/Korunkar/RepublikovyRocniCelkovyAktualniQuery.php" timestamp="1452089510446">
         <mark key="[" line="13" column="10" />
         <mark key="]" line="2" column="25" />
@@ -690,6 +689,7 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/activityGenerator.ts" timestamp="1458742508462" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/KlientInfoControl/js/korunka.golden-rush.js" timestamp="1446574739971">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="205" column="0" />
@@ -1037,11 +1037,23 @@
         <mark key="^" line="4" column="123" />
         <mark key="." line="4" column="123" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/fbConfig.ts" timestamp="1458742543678">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="62" />
+        <mark key="^" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/test-3/apps/client/component.js" timestamp="1457014746089">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/package.json" timestamp="1458743142515">
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="9" column="62" />
+        <mark key="^" line="9" column="62" />
+        <mark key="." line="9" column="62" />
       </file>
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/app/components/posadka/posadka.component.ts" timestamp="1457989888460">
         <mark key="[" line="9" column="16" />
@@ -1312,7 +1324,6 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/web/app/components/cesta/cesta.component.html" timestamp="1458726255644" />
       <file name="$USER_HOME$/Projekty/Czech Atlantic Row/web/package.json" timestamp="1457877326641">
         <mark key="[" line="8" column="136" />
         <mark key="]" line="15" column="25" />
@@ -8583,7 +8594,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -8637,8 +8648,8 @@
         <entry>e</entry>
         <entry>wa</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
