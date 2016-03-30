@@ -3,27 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/hero.service.ts" timestamp="1458800763583" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1458810084305">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="2" column="19" />
+      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/stylesheets/stylesheet.css" timestamp="1458807590089">
+        <mark key="[" line="113" column="16" />
+        <mark key="]" line="113" column="15" />
+        <mark key="." line="113" column="15" />
+        <mark key="^" line="113" column="15" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/firebase-hero.service.ts" timestamp="1458800794108" />
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/weather/weatherScreen.ts" timestamp="1458744292737" />
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/typings/firebase/firebase.d.ts" timestamp="1458744491163" />
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/ngWhen.ts" timestamp="1458761698009" />
+      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/boot.ts" timestamp="1458778262358">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/activityGenerator.ts" timestamp="1458742508462" />
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/params.json" timestamp="1458745374521" />
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/pipes.ts" timestamp="1458744468291" />
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/node_modules/ng2-firebase/src/firebase.config.ts" timestamp="1458802293359" />
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/fbConfig.ts" timestamp="1458742543678">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="62" />
@@ -36,22 +33,12 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/observableFirebase.js" timestamp="1458744433047" />
-      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459319211616">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="2" column="19" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/stylesheets/stylesheet.css" timestamp="1458807590089">
-        <mark key="[" line="113" column="16" />
-        <mark key="]" line="113" column="15" />
-        <mark key="." line="113" column="15" />
-        <mark key="^" line="113" column="15" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/weather/weatherPanel.ts" timestamp="1458744511877" />
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/node_modules/ng2-firebase/core.ts" timestamp="1458801545923" />
-      <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/app.component.ts" timestamp="1458745483486" />
     </filemarks>
     <jumps>
       <jump line="1237" column="39" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
