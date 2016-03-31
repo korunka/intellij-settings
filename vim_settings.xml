@@ -3,19 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/config.ts" timestamp="1459412257114" />
       <file name="D:/Projekty/Loterie Korunka/korunka.github.io/stylesheets/stylesheet.css" timestamp="1458807590089">
         <mark key="[" line="113" column="16" />
         <mark key="]" line="113" column="15" />
         <mark key="." line="113" column="15" />
         <mark key="^" line="113" column="15" />
       </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/auth/providers.ts" timestamp="1459413981190" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/app/app.ts" timestamp="1459414070359" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/main.ts" timestamp="1459414133447" />
+      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.ts" timestamp="1459414388362">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/config.ts" timestamp="1459412257114" />
       <file name="D:/Projekty/Czech Atlantic Row/ng2-firebase-demo/ts/app/boot.ts" timestamp="1458778262358">
         <mark key="[" line="18" column="10" />
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/providers.ts" timestamp="1459414013083" />
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/fbConfig.ts" timestamp="1458742543678">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="62" />
@@ -28,24 +44,12 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
-      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/main.ts" timestamp="1459410360538" />
-      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
-      </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/auth/auth-route-helper.ts" timestamp="1459414454887" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459320853580">
         <mark key="[" line="20" column="47" />
         <mark key="]" line="20" column="47" />
         <mark key="." line="20" column="47" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.ts" timestamp="1459410120470">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/index.html" timestamp="1459410420650" />
     </filemarks>
@@ -7102,7 +7106,7 @@
         <text>/</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7154,10 +7158,10 @@
         <entry>d</entry>
         <entry>q</entry>
         <entry>e</entry>
-        <entry>wa</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
