@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/config.ts" timestamp="1459410432618" />
       <file name="D:/Projekty/Loterie Korunka/korunka.github.io/stylesheets/stylesheet.css" timestamp="1458807590089">
         <mark key="[" line="113" column="16" />
         <mark key="]" line="113" column="15" />
@@ -27,6 +28,7 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="62" />
       </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/main.ts" timestamp="1459410360538" />
       <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
         <mark key="[" line="103" column="9" />
         <mark key="]" line="38" column="23" />
@@ -45,6 +47,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/index.html" timestamp="1459410420650" />
     </filemarks>
     <jumps>
       <jump line="1237" column="39" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
