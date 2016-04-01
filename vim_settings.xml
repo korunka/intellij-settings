@@ -3,69 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459514354949">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/.idea/workspace.xml" timestamp="1459517639143">
-        <mark key="'" line="194" column="52" />
-        <mark key="[" line="506" column="24" />
-        <mark key="]" line="506" column="37" />
-        <mark key="." line="506" column="24" />
-        <mark key="^" line="496" column="35" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/index.html" timestamp="1459514505214" />
-      <file name="D:/Projekty/Loterie Korunka/test2/typings.json" timestamp="1459518118267" />
-      <file name="D:/Projekty/Loterie Korunka/test2/src/app/app.component.ts" timestamp="1459518568536">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="4" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings.json" timestamp="1459516260219" />
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/vendor.ts" timestamp="1459514571034">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
-        <mark key="[" line="103" column="9" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/test2/package.json" timestamp="1459518104985" />
-      <file name="D:/Projekty/Loterie Korunka/test2/tsconfig.json" timestamp="1459518110371" />
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/package.json" timestamp="1459515097187">
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="34" />
-        <mark key="." line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459513892635">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459495974458">
-        <mark key="[" line="20" column="47" />
-        <mark key="]" line="20" column="47" />
-        <mark key="." line="20" column="47" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/tsconfig.json" timestamp="1459517232530">
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-      </file>
       <file name="D:/Projekty/Loterie Korunka/korunka.github.io/stylesheets/stylesheet.css" timestamp="1458807590089">
         <mark key="[" line="113" column="16" />
         <mark key="]" line="113" column="15" />
         <mark key="." line="113" column="15" />
         <mark key="^" line="113" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459514354949">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/client/app.component.ts" timestamp="1459514350088">
         <mark key="[" line="0" column="0" />
@@ -77,7 +25,13 @@
         <mark key="^" line="27" column="23" />
         <mark key="." line="27" column="23" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/test2/src/app/components/navigation/navigation.component.ts" timestamp="1459518678782" />
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/.idea/workspace.xml" timestamp="1459517639143">
+        <mark key="'" line="194" column="52" />
+        <mark key="[" line="506" column="24" />
+        <mark key="]" line="506" column="37" />
+        <mark key="." line="506" column="24" />
+        <mark key="^" line="496" column="35" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/vendor.ts" timestamp="1459517487792">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="24" />
@@ -106,7 +60,6 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/typings.json" timestamp="1459516286535" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459515719522">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="42" />
@@ -115,11 +68,34 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
       </file>
+      <file name="D:/Projekty/Loterie Korunka/test2/src/app/app.component.ts" timestamp="1459518568536">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/test-projekt/src/polyfills.ts" timestamp="1459523300287">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/vendor.ts" timestamp="1459514571034">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/AuthService.ts" timestamp="1459425147574">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka.github.io/index.html" timestamp="1458816804815">
+        <mark key="[" line="103" column="9" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.ts" timestamp="1459415236037">
         <mark key="[" line="11" column="14" />
@@ -132,7 +108,6 @@
         <mark key="]" line="347" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings/browser.d.ts" timestamp="1459511202241" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/polyfills.ts" timestamp="1459514855150">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -141,6 +116,29 @@
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/tsconfig.json" timestamp="1459515959937">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/package.json" timestamp="1459515097187">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459513892635">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459495974458">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="47" />
+        <mark key="." line="20" column="47" />
+        <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/tsconfig.json" timestamp="1459517232530">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="20" />
+        <mark key="." line="6" column="20" />
+        <mark key="^" line="6" column="20" />
       </file>
     </filemarks>
     <jumps>
