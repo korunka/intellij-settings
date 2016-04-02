@@ -36,13 +36,13 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459592724840">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="6" column="10" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459597477095">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-service.ts" timestamp="1459585779183" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-service.ts" timestamp="1459595908756" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.component.ts" timestamp="1459592611535">
         <mark key="[" line="41" column="17" />
         <mark key="]" line="42" column="1" />
@@ -71,17 +71,17 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="32" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459592637723">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459597560474">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/content.providers.ts" timestamp="1459592949875">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="13" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="13" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/content.providers.ts" timestamp="1459597068695">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459592479823">
         <mark key="[" line="9" column="0" />
@@ -120,7 +120,7 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/providers.ts" timestamp="1459592690040" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/providers.ts" timestamp="1459595924550" />
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/activity/fbConfig.ts" timestamp="1458742543678">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="62" />
@@ -139,24 +139,24 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/auth.service.ts" timestamp="1459581771215">
-        <mark key="[" line="21" column="26" />
-        <mark key="]" line="45" column="19" />
-        <mark key="^" line="45" column="19" />
-        <mark key="." line="45" column="19" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/auth.service.ts" timestamp="1459594082723">
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="26" />
+        <mark key="^" line="42" column="26" />
+        <mark key="." line="42" column="26" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/auth.providers.ts" timestamp="1459592303059">
-        <mark key="[" line="3" column="73" />
-        <mark key="]" line="7" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/auth.providers.ts" timestamp="1459594109718">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="73" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/index.html" timestamp="1459582726594" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459590095992">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459597743013">
+        <mark key="[" line="7" column="84" />
+        <mark key="]" line="7" column="84" />
+        <mark key="." line="7" column="84" />
+        <mark key="^" line="7" column="83" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/test-projekt/src/polyfills.ts" timestamp="1459523300287">
         <mark key="[" line="3" column="17" />
@@ -182,6 +182,11 @@
         <mark key="." line="17" column="5" />
         <mark key="^" line="17" column="5" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings/custom/firebase/firebase.d.ts" timestamp="1459594687364">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="347" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/webpack.base.js" timestamp="1459583185145" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459589757705">
         <mark key="[" line="32" column="14" />
@@ -189,6 +194,7 @@
         <mark key="^" line="32" column="11" />
         <mark key="." line="32" column="11" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/webpack.config.js" timestamp="1459594286955" />
     </filemarks>
     <jumps>
       <jump line="463" column="72" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
@@ -7180,20 +7186,20 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r(priv</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtBVVRIX1BST1ZJREVSU30gZnJvbSAnYXBwL3Byb3ZpZGVycy9hdXRoLnByb3ZpZGVycyc7Cg==</text>
+        <text encoding="base64">Y29uc3QgRklSRUJBU0VfVVJMOiBzdHJpbmcgPSAnaHR0cHM6Ly9jemVjaC1hdGxhbnRpYy1yb3cuZmlyZWJhc2Vpby5jb20nOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7218,29 +7224,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbmplY3R9IGZyb20gJ2FuZ3VsYXIyL2NvcmUnOwo=</text>
+      <register name="3" type="4">
+        <text />
       </register>
-      <register name="4" type="4">
-        <text>r(priv</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHtJbmplY3RhYmxlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtJbmplY3R9IGZyb20gJ2FuZ3VsYXIyL2NvcmUnOwo=</text>
+        <text encoding="base64">QEluamVjdGFibGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtBVVRIX1BST1ZJREVSU30gZnJvbSAnYXBwL3Byb3ZpZGVycy9hdXRoLnByb3ZpZGVycyc7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnJlZi5oYXNDaGlsZCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBBVVRIX1BST1ZJREVSUywKICBDT05URU5UX1BST1ZJREVSUywK</text>
+        <text encoding="base64">ICAgICAgdmFyIHBhZ2VzVXJsID0gJyc7IC8vIFRPRE86IGdldCdlbSBvdXR0YSBoZXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMga2xpYzogc3RyaW5nID0gJ2RlZmF1bHQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7296,8 +7302,8 @@
         <entry>q</entry>
         <entry>e</entry>
         <entry>wqa</entry>
-        <entry>wq</entry>
         <entry>wa</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
