@@ -58,8 +58,8 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459611159486">
-        <mark key="[" line="16" column="32" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459612019923">
+        <mark key="[" line="42" column="0" />
         <mark key="]" line="22" column="1" />
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="1" />
@@ -183,10 +183,11 @@
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/tasks/tasks.ts" timestamp="1459609768351" />
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/webpack.base.js" timestamp="1459583185145" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459609787775">
-        <mark key="]" line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459612201480">
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="50" />
+        <mark key="^" line="58" column="50" />
+        <mark key="." line="58" column="50" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/webpack.config.js" timestamp="1459594286955" />
     </filemarks>
@@ -7243,7 +7244,7 @@
         <text>p</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7297,8 +7298,8 @@
         <entry>e</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
