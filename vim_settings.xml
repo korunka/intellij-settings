@@ -60,6 +60,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/auth.service.ts" timestamp="1459581771215">
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="45" column="19" />
+        <mark key="^" line="45" column="19" />
+        <mark key="." line="45" column="19" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459515719522">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="42" />
@@ -7138,10 +7144,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
@@ -7150,7 +7156,7 @@
         <text>$PROJECT_DIR$</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>m</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7175,29 +7181,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>m</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ2FuZ3VsYXIyL2NvcmUnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtDb21wb25lbnR9IGZyb20gJ2FuZ3VsYXIyL2NvcmUnOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">QENvbXBvbmVudCh7CiAgc2VsZWN0b3I6ICd0ZXN0LWFwcCcsCiAgdGVtcGxhdGU6IGAKICA8aDE+VEVTVCBBUFA8L2gxPgogIGAKCn0pCmV4cG9ydCBjbGFzcyBBcHBDb21wb25lbnR7Cgp9Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>D:/Projekty/Loterie Korunka/test-projekt</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>file://D:/Projekty/Loterie Korunka/test-projekt</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">QzpcUHJvZ3JhbSBGaWxlc1xub2RlanNcbm9kZS5leGUiIC8+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDxlbnRyeSBmaWxlPSJmaWxlOi8vRDovUHJvamVrdHkvTG90ZXJpZSBLb3J1bmthL3Rlc3QtcHJvamVrdC9ub2RlX21vZHVsZXMvd2VicGFjay9saWIvTm9ybWFsTW9kdWxlRmFjdG9yeS5qcyI+CiAgICAgIDxwcm92aWRlciBzZWxlY3RlZD0idHJ1ZSIgZWRpdG9yLXR5cGUtaWQ9InRleHQtZWRpdG9yIj4KICAgICAgICA8c3RhdGUgcmVsYXRpdmUtY2FyZXQtcG9zaXRpb249IjMxOSI+CiAgICAgICAgICA8Y2FyZXQgbGluZT0iNzEiIGNvbHVtbj0iMCIgc2VsZWN0aW9uLXN0YXJ0LWxpbmU9IjcxIiBzZWxlY3Rpb24tc3RhcnQtY29sdW1uPSIwIiBzZWxlY3Rpb24tZW5kLWxpbmU9IjcxIiBzZWxlY3Rpb24tZW5kLWNvbHVtbj0iMCIgLz4KICAgICAgICAgIDxmb2xkaW5nIC8+CiAgICAgICAgPC9zdGF0ZT4KICAgICAgPC9wcm92aWRlcj4KICAgIDwvZW50cnk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
