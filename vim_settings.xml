@@ -90,6 +90,12 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459599807612">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/tsconfig.json" timestamp="1459517232530">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="20" />
@@ -7250,7 +7256,7 @@
         <text encoding="base64">aW1wb3J0IHtwcm92aWRlfSBmcm9tICdhbmd1bGFyMi9jb3JlJzsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7304,8 +7310,8 @@
         <entry>e</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
