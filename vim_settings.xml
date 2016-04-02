@@ -36,6 +36,12 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="4" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459587491837">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+      </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-service.ts" timestamp="1459585779183" />
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-store.ts" timestamp="1459585965119">
         <mark key="[" line="36" column="32" />
@@ -163,6 +169,12 @@
         <mark key="^" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/webpack.base.js" timestamp="1459583185145" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459587248971">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="463" column="72" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/mockups/rebellion.tyden.html" />
@@ -7155,7 +7167,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXV0aC5zaWduSW4oKS50aGVuKCgpPT50aGlzLnBvc3RTaWduSW4oKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDAyLjA0LjIwMTYuCiAqLwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -7167,7 +7179,7 @@
         <text encoding="base64">ICAgIHRoaXMuYXV0aC5zaWduSW4oKS50aGVuKCgpPT50aGlzLnBvc3RTaWduSW4oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHA+TG9yZW0gaXBzdW0uLi4uPC9wPgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDAyLjA0LjIwMTYuCiAqLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7193,31 +7205,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGgxPkxvZ2luPC9oMT4K</text>
+        <text encoding="base64">PHA+TG9yZW0gaXBzdW0uLi4uPC9wPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtBdXRoU2VydmljZX0gZnJvbSAnYXBwL3NlcnZpY2VzL2F1dGguc2VydmljZSc7Cg==</text>
+        <text encoding="base64">PGgxPkxvZ2luPC9oMT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcm92aWRlKEF1dGhTZXJ2aWNlLCB7CiAgICB1c2VGYWN0b3J5OiAoKTogQXV0aFNlcnZpY2UgPT4gewogICAgICByZXR1cm4gbmV3IEF1dGhTZXJ2aWNlKG5ldyBGaXJlYmFzZShGSVJFQkFTRV9VUkwpKTsKICAgIH0KICB9KSwK</text>
+        <text encoding="base64">aW1wb3J0IHtBdXRoU2VydmljZX0gZnJvbSAnYXBwL3NlcnZpY2VzL2F1dGguc2VydmljZSc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtBcHBDb21wb25lbnR9IGZyb20gJ2FwcC9hcHAuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">ICBwcm92aWRlKEF1dGhTZXJ2aWNlLCB7CiAgICB1c2VGYWN0b3J5OiAoKTogQXV0aFNlcnZpY2UgPT4gewogICAgICByZXR1cm4gbmV3IEF1dGhTZXJ2aWNlKG5ldyBGaXJlYmFzZShGSVJFQkFTRV9VUkwpKTsKICAgIH0KICB9KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtBcHBDb21wb25lbnR9IGZyb20gJ2FwcC9hcHAuY29tcG9uZW50JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgRklSRUJBU0VfVVJMID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgRklSRUJBU0VfVVJMOiBzdHJpbmcgPSAnaHR0cHM6Ly9jemVjaC1hdGxhbnRpYy1yb3cuZmlyZWJhc2Vpby5jb20nOwo=</text>
+        <text encoding="base64">Y29uc3QgRklSRUJBU0VfVVJMID0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgQXV0aFJvdXRlSGVscGVyIH0gZnJvbSAnLi9hdXRoLXJvdXRlLWhlbHBlcic7Cg==</text>
+        <text encoding="base64">Y29uc3QgRklSRUJBU0VfVVJMOiBzdHJpbmcgPSAnaHR0cHM6Ly9jemVjaC1hdGxhbnRpYy1yb3cuZmlyZWJhc2Vpby5jb20nOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7271,8 +7283,8 @@
         <entry>e</entry>
         <entry>wqa</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
