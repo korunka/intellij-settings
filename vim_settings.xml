@@ -51,6 +51,11 @@
         <mark key="." line="38" column="23" />
         <mark key="^" line="38" column="23" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/markdown.service.ts" timestamp="1459710509257">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/auth/auth-route-helper.ts" timestamp="1459582457745" />
       <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/package.json" timestamp="1459515097187">
         <mark key="[" line="21" column="36" />
@@ -194,11 +199,11 @@
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/tasks/tasks.ts" timestamp="1459609768351" />
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/webpack.base.js" timestamp="1459583185145" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459616182434">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="10" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459710182463">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="62" column="38" />
+        <mark key="." line="62" column="38" />
+        <mark key="^" line="62" column="38" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/webpack.config.js" timestamp="1459594286955" />
     </filemarks>
@@ -7193,7 +7198,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7cGFnZUh0bWx9fQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBAdmFyIHtNYXJrZWRTdGF0aWN9CiAgICovCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHRoaXMuY29udGVudCArIHRoaXMuY29udGVudDs=</text>
@@ -7205,7 +7210,7 @@
         <text encoding="base64">Y29uc3QgUEFHRVNfQ0hJTEQ6IHN0cmluZyA9ICdwYWdlcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7cGFnZUh0bWx9fQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBAdmFyIHtNYXJrZWRTdGF0aWN9CiAgICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7231,28 +7236,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IHRyYW5zZm9ybWFjZSBwb21vY+0gbWFya2Rvd24K</text>
+        <text encoding="base64">ICAgIHRoaXMucGFnZVNlcnZpY2UudXBkYXRlUGFnZSh0aGlzLmtleSwgdmFsdWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXJzZWRDb250ZW50Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMubWQgPSBtYXJrZWQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IHRoaXMuY29udGVudCArIHRoaXMuY29udGVudDs=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgbWFya2VkIGZyb20gJ21hcmtlZCc7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
-        <text>/</text>
-      </register>
-      <register name="7" type="4">
-        <text>/</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlIG1kOiBNYXJrZWRTdGF0aWM7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRQYWdlCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgT25k+GVqIG9uIDAzLjA0LjIwMTYuCiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
