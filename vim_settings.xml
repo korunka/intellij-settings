@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/auth/providers.ts" timestamp="1459589535786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459514354949">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="22" column="1" />
@@ -11,7 +15,15 @@
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/observableFirebase.ts" timestamp="1459608433550" />
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/app/app.ts" timestamp="1459585092585" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/main.ts" timestamp="1459585076543">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="36" />
+      </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/sign-in/sign-in.scss" timestamp="1459582234711" />
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/sign-in/sign-in.html" timestamp="1459584093533">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/auth/auth-service.ts" timestamp="1459584700552" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.html" timestamp="1459584880109">
         <mark key="[" line="4" column="55" />
@@ -61,6 +73,10 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/package.json" timestamp="1459582831878">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="32" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459718309610">
         <mark key="[" line="74" column="3" />
@@ -157,6 +173,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/index.html" timestamp="1459582726594" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459752799496">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="42" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459717942296">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="12" column="39" />
