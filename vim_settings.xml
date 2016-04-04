@@ -62,8 +62,8 @@
         <mark key="." line="21" column="34" />
         <mark key="^" line="21" column="34" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459713427577">
-        <mark key="[" line="11" column="55" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459718309610">
+        <mark key="[" line="74" column="3" />
         <mark key="]" line="12" column="44" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
@@ -157,11 +157,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/index.html" timestamp="1459582726594" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459713623859">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="9" column="11" />
-        <mark key="." line="9" column="11" />
-        <mark key="^" line="9" column="11" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459717942296">
+        <mark key="[" line="11" column="56" />
+        <mark key="]" line="12" column="39" />
+        <mark key="." line="12" column="39" />
+        <mark key="^" line="12" column="39" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/polyfills.ts" timestamp="1459606266548">
         <mark key="[" line="3" column="15" />
@@ -200,11 +200,11 @@
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/tasks/tasks.ts" timestamp="1459609768351" />
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/webpack.base.js" timestamp="1459583185145" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459712547794">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="48" />
-        <mark key="^" line="25" column="48" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459718367702">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/webpack.config.js" timestamp="1459594286955" />
     </filemarks>
@@ -7261,7 +7261,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7315,8 +7315,8 @@
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
