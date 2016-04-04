@@ -60,11 +60,14 @@
         <mark key="^" line="9" column="2" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/node_modules/angular2-firebase/lib/ngWhen.ts" timestamp="1459608198310" />
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459759548315">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="12" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459761056536">
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1459761121216">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/components/tasks/tasks.html" timestamp="1459585127125" />
       <file name="D:/Projekty/Czech Atlantic Row/angular2-firebase-demo/app/weather/weatherPanel.ts" timestamp="1459608286203" />
@@ -7121,19 +7124,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBbcm91dGVyTGlua109IlsnL0hvbWUnXSI+PGltZyBzcmM9Ii4vaW1hZ2VzL2xvZ28tY3phci1tYWxlLnBuZyIvPjwvYT4K</text>
+        <text encoding="base64">ICAgIDx1bD4KICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICdvLWNlc3RlJ31dIj5PIGNlc3TsPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9zYWRrYSd9XSI+UG9z4WRrYTwvYT48L2xpPgogICAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ3Zlc2xpY2UnfV0iPlZlc2xpY2U8L2E+PC9saT4KICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4KICAgIDwvdWw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7159,28 +7162,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8dWw+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ28tY2VzdGUnfV0iPk8gY2VzdOw8L2E+PC9saT4KICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9zYWRrYSd9XSI+UG9z4WRrYTwvYT48L2xpPgogICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICd2ZXNsaWNlJ31dIj5WZXNsaWNlPC9hPjwvbGk+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9CbG9nJ10iPkJsb2c8L2E+PC9saT4KICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ3BvZHBvcnRlLW5hcyd9XSI+UG9kcG/4dGUgbuFzPC9hPjwvbGk+CiAgPC91bD4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text />
-      </register>
-      <register name="7" type="4">
-        <text>e</text>
-      </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PC9kaXY+</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxsaT4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvbGk+Cg==</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIDxoMj5FZGl0YWNlIHN0cuFua3kgL3t7cGFnZUtleX19PC9oMj4KICAgIDx0ZXh0YXJlYSBbKG5nTW9kZWwpXT0icGFnZU1hcmtkb3duIj48L3RleHRhcmVhPg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
