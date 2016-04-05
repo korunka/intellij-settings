@@ -3,17 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459761056536">
-        <mark key="[" line="21" column="58" />
-        <mark key="]" line="21" column="52" />
-        <mark key="." line="21" column="52" />
-        <mark key="^" line="21" column="52" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459849629590">
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1459847939828">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1459850506582">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/dist/index.html" timestamp="1459757934103">
         <mark key="[" line="8" column="33" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/node_modules/bootstrap/less/navs.less" timestamp="1459849981849">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="7" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.scss" timestamp="1459715856816">
         <mark key="[" line="1" column="14" />
@@ -33,6 +40,7 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/node_modules/bootstrap/less/navbar.less" timestamp="1459848762042" />
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459758698947">
         <mark key="[" line="93" column="29" />
         <mark key="]" line="94" column="34" />
@@ -7107,19 +7115,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgJjpob3ZlciwKICAgICAgJjpmb2N1cyB7CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IEBuYXYtbGluay1ob3Zlci1iZzsKICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>class=&quot;odkazy&quot;</text>
       </register>
       <register name="/" type="4">
         <text>C:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1bD4KICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICdvLWNlc3RlJ31dIj5PIGNlc3TsPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9zYWRrYSd9XSI+UG9z4WRrYTwvYT48L2xpPgogICAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ3Zlc2xpY2UnfV0iPlZlc2xpY2U8L2E+PC9saT4KICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4KICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">ICAgICAgJjpob3ZlciwKICAgICAgJjpmb2N1cyB7CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgICAgIGJhY2tncm91bmQtY29sb3I6IEBuYXYtbGluay1ob3Zlci1iZzsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvQmxvZyddIj5CbG9nPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9kcG9ydGUtbmFzJ31dIj5Qb2Rwb/h0ZSBu4XM8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7145,28 +7153,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHVsIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8dWw+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ28tY2VzdGUnfV0iPk8gY2VzdOw8L2E+PC9saT4KICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncG9zYWRrYSd9XSI+UG9z4WRrYTwvYT48L2xpPgogICAgPGxpPjxhIFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICd2ZXNsaWNlJ31dIj5WZXNsaWNlPC9hPjwvbGk+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9CbG9nJ10iPkJsb2c8L2E+PC9saT4KICAgIDxsaT48YSBbcm91dGVyTGlua109IlsnL1BhZ2UnLCB7a2V5OiAncGFydG5lcmknfV0iPlBhcnRuZfhpPC9hPjwvbGk+CiAgICA8bGk+PGEgW3JvdXRlckxpbmtdPSJbJy9QYWdlJywge2tleTogJ3BvZHBvcnRlLW5hcyd9XSI+UG9kcG/4dGUgbuFzPC9hPjwvbGk+CiAgPC91bD4K</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJqYXp5a3kiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaT4K</text>
+        <text encoding="base64">ICA8ZGl2ID4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvbGk+Cg==</text>
+      <register name="8" type="4">
+        <text>class=&quot;odkazy&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgbGlzdC1zdHlsZTogbm9uZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7216,13 +7224,13 @@
         <entry>177</entry>
         <entry>we</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry>Wa</entry>
         <entry>d</entry>
         <entry>e</entry>
         <entry>wqa</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
