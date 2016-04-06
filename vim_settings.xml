@@ -21,9 +21,12 @@
         <mark key="^" line="96" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/typings.json" timestamp="1459869862672">
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/typings.json" timestamp="1459928663346">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.html" timestamp="1459584880109">
         <mark key="[" line="4" column="55" />
@@ -37,10 +40,9 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459715909260">
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings.json" timestamp="1459928660607">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="51" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.scss" timestamp="1459856162048">
         <mark key="[" line="0" column="0" />
@@ -62,6 +64,12 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459929347303">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459849629590">
         <mark key="[" line="15" column="7" />
@@ -132,11 +140,11 @@
         <mark key="^" line="9" column="29" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/dist/main.bundle.js" timestamp="1459855181508" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/package.json" timestamp="1459867430870">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="15" column="16" />
-        <mark key="^" line="15" column="16" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/package.json" timestamp="1459929355375">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/models/page.model.ts" timestamp="1459718367702">
         <mark key="[" line="8" column="35" />
@@ -7136,19 +7144,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJ0eXBpbmdzL21haW4uZC50cyIsCiAgICAidHlwaW5ncy9tYWluIiwKICAgICJub2RlX21vZHVsZXMiCiAgXQo=</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICIyLjAuMC1iZXRhLjEzIiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJjb3JlLWpzIjogIl4yLjIuMSIsCiAgICAiZmlyZWJhc2UiOiAiXjIuNC4yIiwKICAgICJtYXJrZWQiOiAiXjAuMy41IiwKICAgICJuZzItYm9vdHN0cmFwIjogIl4xLjAuNyIsCiAgICAicnhqcyI6ICI1LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi4wIgo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>webpack-dev-server --inline --color --progress --display-error-details --display-cached</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYWNrZ3JvdW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CgojIyBGaWxlLWJhc2VkIHByb2plY3QgZm9ybWF0OgoqLmlwcgoqLml3cwoKCiMjIFBsdWdpbi1zcGVjaWZpYyBmaWxlczoKCiMgSW50ZWxsaUoKL291dC8KCiMgbXBlbHRvbmVuL3NidC1pZGVhIHBsdWdpbgouaWRlYV9tb2R1bGVzLwoKIyBKSVJBIHBsdWdpbgphdGxhc3NpYW4taWRlLXBsdWdpbi54bWwKCiMgQ3Jhc2hseXRpY3MgcGx1Z2luIChmb3IgQW5kcm9pZCBTdHVkaW8gYW5kIEludGVsbGlKKQpjb21fY3Jhc2hseXRpY3NfZXhwb3J0X3N0cmluZ3MueG1sCmNyYXNobHl0aWNzLnByb3BlcnRpZXMKY3Jhc2hseXRpY3MtYnVpbGQucHJvcGVydGllcwoKIyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQoKCgojIERpc3QgZmlsZXMKZGlzdAp0eXBpbmdzCg==</text>
+        <text encoding="base64">ICAgICJhbmd1bGFyMiI6ICIyLjAuMC1iZXRhLjEzIiwKICAgICJib290c3RyYXAiOiAiXjMuMy42IiwKICAgICJjb3JlLWpzIjogIl4yLjIuMSIsCiAgICAiZmlyZWJhc2UiOiAiXjIuNC4yIiwKICAgICJtYXJrZWQiOiAiXjAuMy41IiwKICAgICJuZzItYm9vdHN0cmFwIjogIl4xLjAuNyIsCiAgICAicnhqcyI6ICI1LjAuMC1iZXRhLjIiLAogICAgInpvbmUuanMiOiAiXjAuNi4wIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJ0eXBpbmdzL21haW4uZC50cyIsCiAgICAidHlwaW5ncy9tYWluIiwKICAgICJub2RlX21vZHVsZXMiCiAgXQo=</text>
+      <register name="1" type="4">
+        <text>webpack-dev-server --inline --color --progress --display-error-details --display-cached</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7173,29 +7181,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzL3Byb2ZpbGVzX3NldHRpbmdzLnhtbAo=</text>
+      <register name="2" type="4">
+        <text>webpack #TODO</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>webpack #TODO</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
+      <register name="4" type="4">
+        <text>webpack #TODO</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIEpldEJyYWlucyB0ZW1wbGF0ZQojIENvdmVycyBKZXRCcmFpbnMgSURFczogSW50ZWxsaUosIFJ1YnlNaW5lLCBQaHBTdG9ybSwgQXBwQ29kZSwgUHlDaGFybSwgQ0xpb24sIEFuZHJvaWQgU3R1ZGlvCgoqLmltbAoKCiMjIERpcmVjdG9yeS1iYXNlZCBwcm9qZWN0IGZvcm1hdDoKLmlkZWEvCg==</text>
+        <text encoding="base64">ICAibWFya2VkIjogInJlZ2lzdHJ5OmR0L21hcmtlZCMwLjAuMCsyMDE2MDMyNTA4NTMwMSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIFdpbmRvd3MgdGVtcGxhdGUKIyBXaW5kb3dzIGltYWdlIGZpbGUgY2FjaGVzClRodW1icy5kYgplaHRodW1icy5kYgoKIyBGb2xkZXIgY29uZmlnIGZpbGUKRGVza3RvcC5pbmkKCiMgUmVjeWNsZSBCaW4gdXNlZCBvbiBmaWxlIHNoYXJlcwokUkVDWUNMRS5CSU4vCgojIFdpbmRvd3MgSW5zdGFsbGVyIGZpbGVzCiouY2FiCioubXNpCioubXNtCioubXNwCgojIFdpbmRvd3Mgc2hvcnRjdXRzCioubG5rCg==</text>
+        <text encoding="base64">ICAiZmlyZWJhc2UiOiAicmVnaXN0cnk6ZHQvZmlyZWJhc2UjMi40LjErMjAxNjAzMTYxNTU1MjYiLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJidWlsZDpkZXY6Y2xpZW50IjogIndlYnBhY2siLAo=</text>
+      <register name="7" type="4">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJidWlsZDpkZXY6YmFja29mZmljZSI6ICJ3ZWJwYWNrIiwK</text>
+        <text encoding="base64">ICAiZXhjbHVkZSI6IFsKICAgICJ0eXBpbmdzL21haW4uZC50cyIsCiAgICAidHlwaW5ncy9tYWluIiwKICAgICJub2RlX21vZHVsZXMiCiAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">LmlkZWEvaW5zcGVjdGlvblByb2ZpbGVzL3Byb2ZpbGVzX3NldHRpbmdzLnhtbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7251,8 +7259,8 @@
         <entry>wqa</entry>
         <entry>W</entry>
         <entry>wa</entry>
-        <entry>wq</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
