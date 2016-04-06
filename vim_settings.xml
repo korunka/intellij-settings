@@ -23,26 +23,16 @@
         <mark key="^" line="20" column="36" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/dist/client/index.html" timestamp="1459943046371" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/client-app.component.ts" timestamp="1459948014108">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/backoffice-app.component.ts" timestamp="1459971793045">
-        <mark key="[" line="21" column="64" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="22" column="44" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/backoffice-app.component.ts" timestamp="1459972614839">
+        <mark key="[" line="4" column="56" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/models/tiket.model.ts" timestamp="1459945848156">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Page/page.component.ts" timestamp="1459945411474">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/typings.json" timestamp="1459928663346">
         <mark key="'" line="0" column="0" />
@@ -51,107 +41,30 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/BetComponent/bet.component.ts" timestamp="1459942639664">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.html" timestamp="1459584880109">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="7" column="54" />
-        <mark key="." line="7" column="54" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/tsconfig.json" timestamp="1459870148175">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-      </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/HomeComponent/home.component.ts" timestamp="1459932334938">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="2" column="1" />
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459715909260">
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.component.html" timestamp="1459932153605" />
-      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-store.ts" timestamp="1459585965119">
-        <mark key="[" line="36" column="32" />
-        <mark key="]" line="36" column="32" />
-        <mark key="." line="36" column="32" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.scss" timestamp="1459856162048">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/navigation/navigation.component.ts" timestamp="1459945979102">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="26" />
-        <mark key="^" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/tikety/tikety.component.ts" timestamp="1459971731214">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/markdown.service.ts" timestamp="1459712415506">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Bet/bet.component.html" timestamp="1459945342097">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="1" column="76" />
-        <mark key="^" line="1" column="76" />
-        <mark key="." line="1" column="76" />
-      </file>
-      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/shared/console-flare.js" timestamp="1459971302228" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/index.html" timestamp="1459971434575">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="11" column="10" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/home/home.component.ts" timestamp="1459972068791" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/clients/clients.component.ts" timestamp="1459972375215">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="8" column="90" />
+        <mark key="." line="8" column="90" />
+        <mark key="^" line="8" column="90" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1459945933053">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/content.providers.ts" timestamp="1459614758059">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459592479823">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
-      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1459929834051">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="54" column="2" />
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="16" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/vendor.ts" timestamp="1459947257243">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="35" />
-        <mark key="." line="16" column="35" />
-        <mark key="^" line="16" column="35" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/services/tiket.service.ts" timestamp="1459945885430">
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1459943732226">
         <mark key="[" line="15" column="7" />
@@ -178,12 +91,6 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Home/home.component.ts" timestamp="1459945019399">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
-      </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/index.html" timestamp="1459930876841">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="11" column="11" />
@@ -196,11 +103,191 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/node_modules/bootstrap/less/navbar.less" timestamp="1459848762042" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/ProfileComponent/profile.component.ts" timestamp="1459942113663">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459940333673">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="153" column="2" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/navigation/navigation.component.ts" timestamp="1459972542728">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/PageComponent/page.component.html" timestamp="1459932624320">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/main.ts" timestamp="1459971599952">
+        <mark key="]" line="3" column="88" />
+        <mark key="." line="3" column="88" />
+        <mark key="^" line="3" column="88" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/firebase.service.ts" timestamp="1459615228816">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/VsaditComponent/vsadit.component.ts" timestamp="1459932532705">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="7" column="18" />
+        <mark key="^" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/webpack.config.js" timestamp="1459947927197">
+        <mark key="[" line="117" column="8" />
+        <mark key="]" line="118" column="5" />
+        <mark key="^" line="118" column="5" />
+        <mark key="." line="118" column="5" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459523406706">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/dist/main.bundle.js" timestamp="1459855181508" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/models/supertiket.model.ts" timestamp="1459945845274">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Navigation/navigation.component.ts" timestamp="1459945153534">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/home/home.component.ts" timestamp="1459944999709" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/PageComponent/page.component.ts" timestamp="1459932765107">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/client-app.component.ts" timestamp="1459948014108">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Page/page.component.ts" timestamp="1459945411474">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/BetComponent/bet.component.ts" timestamp="1459942639664">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.html" timestamp="1459584880109">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="7" column="54" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="7" column="54" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/tsconfig.json" timestamp="1459870148175">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459715909260">
+        <mark key="]" line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projekty/todo-angular2-firebase/src/core/task/task-store.ts" timestamp="1459585965119">
+        <mark key="[" line="36" column="32" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.scss" timestamp="1459856162048">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/navigation/navigation.component.ts" timestamp="1459945979102">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/tikety/tikety.component.ts" timestamp="1459972656539">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/markdown.service.ts" timestamp="1459712415506">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Bet/bet.component.html" timestamp="1459945342097">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="1" column="76" />
+        <mark key="^" line="1" column="76" />
+        <mark key="." line="1" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/poc-webpack-bundling/apps/shared/console-flare.js" timestamp="1459971302228" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/index.html" timestamp="1459971434575">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="11" column="10" />
+        <mark key="^" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/providers/content.providers.ts" timestamp="1459614758059">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459592479823">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/vendor.ts" timestamp="1459947257243">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/services/tiket.service.ts" timestamp="1459945885430">
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Home/home.component.ts" timestamp="1459945019399">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="11" column="1" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+      </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/navigation/navigation.component.scss" timestamp="1459946276044">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="19" column="37" />
         <mark key="^" line="19" column="37" />
         <mark key="." line="19" column="37" />
+      </file>
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/dashboard/dashboard.component.ts" timestamp="1459972445933">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.scss" timestamp="1459715856816">
         <mark key="[" line="1" column="14" />
@@ -220,19 +307,6 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/node_modules/bootstrap/less/navbar.less" timestamp="1459848762042" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/ProfileComponent/profile.component.ts" timestamp="1459942113663">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459940333673">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="153" column="2" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1459717942296">
         <mark key="[" line="11" column="56" />
         <mark key="]" line="12" column="39" />
@@ -245,57 +319,21 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="1" column="1" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/PageComponent/page.component.html" timestamp="1459932624320">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/main.ts" timestamp="1459971599952">
-        <mark key="]" line="3" column="88" />
-        <mark key="." line="3" column="88" />
-        <mark key="^" line="3" column="88" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/profile/profile.component.ts" timestamp="1459972517060">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+        <mark key="^" line="7" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1459948529039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/firebase.service.ts" timestamp="1459615228816">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/VsaditComponent/vsadit.component.ts" timestamp="1459932532705">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="7" column="18" />
-        <mark key="." line="7" column="18" />
-      </file>
       <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1459940924456" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/webpack.config.js" timestamp="1459947927197">
-        <mark key="[" line="117" column="8" />
-        <mark key="]" line="118" column="5" />
-        <mark key="^" line="118" column="5" />
-        <mark key="." line="118" column="5" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459523406706">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/dist/main.bundle.js" timestamp="1459855181508" />
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/MojeKontoComponent/moje-konto.component.html" timestamp="1459932598279">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="13" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/models/supertiket.model.ts" timestamp="1459945845274">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings/custom/firebase/firebase.d.ts" timestamp="1459594687364">
         <mark key="[" line="0" column="0" />
@@ -314,13 +352,6 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Navigation/navigation.component.ts" timestamp="1459945153534">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/home/home.component.ts" timestamp="1459944999709" />
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/main.ts" timestamp="1459944414004">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="35" />
@@ -328,12 +359,6 @@
         <mark key="^" line="6" column="35" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/node_modules/angular2/ts/src/router/route_definition.ts" timestamp="1459944851060" />
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/PageComponent/page.component.ts" timestamp="1459932765107">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="157" column="0" filename="$USER_HOME$/Projekty/Loterie Korunka/obed-o-bot/bot.js" />
@@ -7326,7 +7351,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBuZXcgUm91dGUoe3BhdGg6ICcvcHJvZmlsJywgbmFtZTogJ1Byb2ZpbGUnLCBjb21wb25lbnQ6IFByb2ZpbGVDb21wb25lbnR9KSwK</text>
+        <text encoding="base64">aW1wb3J0IHtUaWtldHlDb21wb25lbnR9IGZyb20gJy4vY29tcG9uZW50cy90aWtldHkvdGlrZXR5LmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -7335,10 +7360,10 @@
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuZXcgUm91dGUoe3BhdGg6ICcvcHJvZmlsJywgbmFtZTogJ1Byb2ZpbGUnLCBjb21wb25lbnQ6IFByb2ZpbGVDb21wb25lbnR9KSwK</text>
+        <text encoding="base64">aW1wb3J0IHtUaWtldHlDb21wb25lbnR9IGZyb20gJy4vY29tcG9uZW50cy90aWtldHkvdGlrZXR5LmNvbXBvbmVudCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIuLi8uLi8uLi8uLi9ub2RlX21vZHVsZXMvYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlci9zcmMvdGVzdC9maXh0dXJlcy90c3gvYmFzaWMudHN4Ii8+Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7364,31 +7389,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gSGxhdm7tIGtvbXBvbmVudGEgQmFja29mZmljZSBhcGxpa2FjZQo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBDbGllbnRBcHBDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4KICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuZXcgUm91dGUoe3BhdGg6ICcvdnNhZGl0JywgbmFtZTogJ0JldCcsICAgICBjb21wb25lbnQ6IEJldENvbXBvbmVudH0pLAo=</text>
+        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIuLi8uLi8uLi8uLi9ub2RlX21vZHVsZXMvYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlci9zcmMvdGVzdC9maXh0dXJlcy90c3gvYmFzaWMudHN4Ii8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZXcgUm91dGUoe3BhdGg6ICcvOmtleScsICAgbmFtZTogJ1BhZ2UnLCAgICBjb21wb25lbnQ6IFBhZ2VDb21wb25lbnR9KSwK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtQcm9maWxlQ29tcG9uZW50fSBmcm9tICcuL2NvbXBvbmVudHMvUHJvZmlsZS9wcm9maWxlLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
