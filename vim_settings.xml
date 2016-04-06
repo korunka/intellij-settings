@@ -56,11 +56,6 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/services/page.service.ts" timestamp="1459715909260">
-        <mark key="]" line="21" column="51" />
-        <mark key="^" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/typings.json" timestamp="1459928660607">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="51" />
@@ -151,6 +146,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/node_modules/bootstrap/less/navbar.less" timestamp="1459848762042" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/ProfileComponent/profile.component.ts" timestamp="1459942113663">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1459940333673">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="153" column="2" />
@@ -190,6 +191,7 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
+      <file name="$USER_HOME$/Projekty/Loterie Korunka/Web/app/components/SestavovacKorunkyControl/components/ResetoControl2/js/korunka.reseto2.policko.js" timestamp="1459940924456" />
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/webpack.config.js" timestamp="1459940603050">
         <mark key="[" line="41" column="39" />
         <mark key="]" line="155" column="23" />
@@ -220,11 +222,6 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
-      </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/main.ts" timestamp="1459930319383">
-        <mark key="]" line="0" column="45" />
-        <mark key="^" line="5" column="7" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/PageComponent/page.component.ts" timestamp="1459932765107">
         <mark key="[" line="8" column="0" />
@@ -7286,7 +7283,7 @@
         <text>t</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7340,8 +7337,8 @@
         <entry>wqa</entry>
         <entry>wq</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
