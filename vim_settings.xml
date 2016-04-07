@@ -62,7 +62,7 @@
         <mark key="^" line="24" column="1" />
         <mark key="." line="24" column="1" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1459947965599">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460014299869">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="20" />
@@ -135,11 +135,11 @@
         <mark key="^" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/webpack.config.js" timestamp="1459947927197">
-        <mark key="[" line="117" column="8" />
-        <mark key="]" line="118" column="5" />
-        <mark key="^" line="118" column="5" />
-        <mark key="." line="118" column="5" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/webpack.config.js" timestamp="1460014729759">
+        <mark key="[" line="110" column="7" />
+        <mark key="]" line="117" column="6" />
+        <mark key="^" line="117" column="6" />
+        <mark key="." line="117" column="6" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/test-projekt/src/main.ts" timestamp="1459523406706">
         <mark key="[" line="9" column="27" />
@@ -154,11 +154,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.ts" timestamp="1459975365498">
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.ts" timestamp="1460014553223">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Navigation/navigation.component.ts" timestamp="1459945153534">
         <mark key="[" line="2" column="0" />
@@ -7354,7 +7354,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSgnIXJhdyFyZXNvbHZlLXVybCFzYXNzP3NvdXJjZU1hcCEuL2JldC5jb21wb25lbnQuc2NzcycpLy8sCg==</text>
+        <text encoding="base64">CiAgICAgIC8vIFNBU1MgTG9hZGVyIGZvciAuc2NzcyBmaWxlcwogICAgICAvLyBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS9qdGFuZ2VsZGVyL3Nhc3MtbG9hZGVyCiAgICAgIHsKICAgICAgICB0ZXN0ICAgIDogL1wuc2NzcyQvLAogICAgICAgIGxvYWRlcnMgOiBbJ3JhdycsICdzYXNzJ10KICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -7363,10 +7363,10 @@
         <text>this</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmVxdWlyZSgnIXJhdyFyZXNvbHZlLXVybCFzYXNzP3NvdXJjZU1hcCEuL2JldC5jb21wb25lbnQuc2NzcycpLy8sCg==</text>
+        <text encoding="base64">CiAgICAgIC8vIFNBU1MgTG9hZGVyIGZvciAuc2NzcyBmaWxlcwogICAgICAvLyBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS9qdGFuZ2VsZGVyL3Nhc3MtbG9hZGVyCiAgICAgIHsKICAgICAgICB0ZXN0ICAgIDogL1wuc2NzcyQvLAogICAgICAgIGxvYWRlcnMgOiBbJ3JhdycsICdzYXNzJ10KICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CiAgICAgIC8vIFNBU1MgTG9hZGVyIGZvciAuc2NzcyBmaWxlcwogICAgICAvLyBTZWU6IGh0dHBzOi8vZ2l0aHViLmNvbS9qdGFuZ2VsZGVyL3Nhc3MtbG9hZGVyCiAgICAgIHsKICAgICAgICB0ZXN0ICAgIDogL1wuc2NzcyQvLAogICAgICAgIGxvYWRlcnMgOiBbJ3JhdycsICdzYXNzJ10KICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7392,31 +7392,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">LyoqCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4KICovCg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIuLi8uLi8uLi8uLi9ub2RlX21vZHVsZXMvYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlci9zcmMvdGVzdC9maXh0dXJlcy90c3gvYmFzaWMudHN4Ii8+Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Ly8vPHJlZmVyZW5jZSBwYXRoPSIuLi8uLi8uLi8uLi9ub2RlX21vZHVsZXMvYXdlc29tZS10eXBlc2NyaXB0LWxvYWRlci9zcmMvdGVzdC9maXh0dXJlcy90c3gvYmFzaWMudHN4Ii8+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBPbmT4ZWogb24gMDYuMDQuMjAxNi4K</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
