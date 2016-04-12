@@ -153,11 +153,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460469666886">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="56" column="16" />
-        <mark key="." line="56" column="16" />
-        <mark key="^" line="56" column="16" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460471434272">
+        <mark key="[" line="72" column="14" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="15" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Page/page.component.html" timestamp="1459945417538">
         <mark key="[" line="0" column="26" />
@@ -7347,7 +7347,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXI6IGJvdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b3A6IDBweDsKICAgICAgICBsZWZ0OiAwcHg7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvSG9tZSddIj4=</text>
@@ -7356,7 +7356,7 @@
         <text>bet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsK</text>
+        <text encoding="base64">ICAgICAgICB0b3A6IDBweDsKICAgICAgICBsZWZ0OiAwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY2xlYXI6IGJvdGg7Cg==</text>
@@ -7412,7 +7412,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7466,8 +7466,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
