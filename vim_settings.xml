@@ -148,11 +148,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460457843805">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-        <mark key="^" line="66" column="7" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460457954607">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="10" column="22" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460438811133">
         <mark key="[" line="135" column="0" />
@@ -7347,10 +7347,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScse2tleTogJ3Bvc2Fka2EnfV0i</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScse2tleTogJ3Bvc2Fka2EnfV0i</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>bet</text>
@@ -7359,7 +7359,7 @@
         <text encoding="base64">ICAgICAgICAuaG92ZXIsICY6aG92ZXIgewogICAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKCcuL2ltYWdlcy9sb2dvLW5hdmlnYWNlLWJsb2ctaG92ZXIucG5nJyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScse2tleTogJ3Bvc2Fka2EnfV0i</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7384,32 +7384,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScse2tleTogJ3Bvc2Fka2EnfV0i</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgPGEK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICdwYXJ0bmVyaSd9XSI=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6ICd2ZXNsaWNlJ31dIg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScsIHtrZXk6J3BvZHBvcnRlLW5hcyd9XSI=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IFtyb3V0ZXJMaW5rXT0iWycvUGFnZScseyBrZXk6ICdvLWNlc3RlJ31dIg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLmhvdmVyLCAmOmhvdmVyIHsKICAgICAgICBjb2xvcjogIzJlMmUyZTsKICAgICAgfQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnLi9pbWFnZXMvbG9nby1uYXZpZ2FjZS1ibG9nLWhvdmVyLnBuZycpOwo=</text>
+        <text encoding="base64">ICAgICAgLmhvdmVyLCAmOmhvdmVyIHsKICAgICAgICBjb2xvcjogIzJlMmUyZTsKICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
-      <register name="9" type="4">
-        <text>[routerLink]=&quot;['/Blog']&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZGQgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnLi9pbWFnZXMvbG9nby1uYXZpZ2FjZS1ibG9nLWhvdmVyLnBuZycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
