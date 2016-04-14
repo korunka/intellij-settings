@@ -149,11 +149,11 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1459592479823">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="2" />
-        <mark key="." line="9" column="2" />
-        <mark key="^" line="9" column="2" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460661200258">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="9" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1460640652738">
         <mark key="[" line="34" column="0" />
@@ -213,9 +213,9 @@
         <mark key="^" line="11" column="11" />
         <mark key="." line="11" column="11" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/vendor.ts" timestamp="1460641165203">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/vendor.ts" timestamp="1460660803244">
+        <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Navigation/navigation.component.scss" timestamp="1459944732779">
@@ -7377,10 +7377,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>bet</text>
@@ -7388,8 +7388,8 @@
       <register name="0" type="2">
         <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7415,31 +7415,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsb2F0OiBub25lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxLjI1ZW07Cg==</text>
+        <text encoding="base64">Ly8gQm9vdHN0cmFwIDMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">Ly8gaW1wb3J0ICcuL3N0YXJ0ZXItdGVsYXRlLmNzcyc7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC14cy02Ij4gYWRzZiBzYWZzIGZzZGYgc2FmIHNzYWY8L2Rpdj4K</text>
+      <register name="5" type="4">
+        <text>p</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC14cy02Ij4gYWRzZiBzYWZzIGZzZGYgc2FmIHNzYWY8L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text>m</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyb3ciPgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8cm91dGVyLW91dGxldD48L3JvdXRlci1vdXRsZXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZsb2F0OiBub25lOwo=</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxLjI1ZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7493,10 +7493,10 @@
         <entry>e</entry>
         <entry>wqa</entry>
         <entry>qa</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>wa</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
