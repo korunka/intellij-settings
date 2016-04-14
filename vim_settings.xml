@@ -149,11 +149,11 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460664366131">
-        <mark key="[" line="15" column="49" />
-        <mark key="]" line="17" column="69" />
-        <mark key="." line="17" column="69" />
-        <mark key="^" line="17" column="69" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460668771291">
+        <mark key="[" line="20" column="73" />
+        <mark key="]" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+        <mark key="^" line="20" column="68" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1460640652738">
         <mark key="[" line="34" column="0" />
@@ -7377,7 +7377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAmOmFjdGl2ZXsKICAgICAgICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogICAgICAgIH0K</text>
+        <text encoding="base64">cmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL3Zlc2xpY2UtcGxha2F0LWN6LmpwZycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -7386,7 +7386,7 @@
         <text>bet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAmOmFjdGl2ZXsKICAgICAgICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogICAgICAgIH0K</text>
+        <text encoding="base64">cmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL3Zlc2xpY2UtcGxha2F0LWN6LmpwZycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
