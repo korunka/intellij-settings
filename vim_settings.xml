@@ -149,11 +149,11 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460662776631">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="13" column="66" />
-        <mark key="." line="13" column="66" />
-        <mark key="^" line="13" column="66" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460664366131">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+        <mark key="^" line="17" column="69" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1460640652738">
         <mark key="[" line="34" column="0" />
@@ -166,17 +166,17 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460659601539">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460665312276">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="29" column="7" />
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460662315637">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460665177461">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="148" column="9" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="145" column="72" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/Page/page.component.html" timestamp="1459945417538">
         <mark key="[" line="0" column="26" />
@@ -7377,7 +7377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL2Nlc3RhLW1hcGEucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAmOmFjdGl2ZXsKICAgICAgICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -7386,10 +7386,10 @@
         <text>bet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL2Nlc3RhLW1hcGEucG5nJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAmOmFjdGl2ZXsKICAgICAgICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7415,31 +7415,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gQm9vdHN0cmFwIDMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gQm9vdHN0cmFwIDMK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gaW1wb3J0ICcuL3N0YXJ0ZXItdGVsYXRlLmNzcyc7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>p</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>m</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">PC9kaXY+</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsb2F0OiBub25lOwo=</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9udC1zaXplOiAxLjI1ZW07Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -7495,8 +7495,8 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
+        <entry>wa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
