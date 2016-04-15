@@ -50,6 +50,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/AppData/Local/Temp/kevlened-copy-webpack-plugin- Copy files and directories in webpack.url" timestamp="1460723517590">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/BetComponent/bet.component.ts" timestamp="1459942639664">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="8" column="0" />
@@ -254,8 +259,11 @@
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1460702318736">
-        <mark key="[" line="5" column="57" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/webpack.config.js" timestamp="1460723746465">
+        <mark key="[" line="142" column="27" />
+        <mark key="]" line="142" column="3" />
+        <mark key="^" line="142" column="3" />
+        <mark key="." line="142" column="3" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/backoffice/components/navigation/navigation.component.ts" timestamp="1459972542728">
         <mark key="[" line="12" column="31" />
@@ -7374,19 +7382,19 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZSAgICAgIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3NyYycsICdpbmRleC5odG1sJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>bet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGVtcGxhdGUgICAgICA6IHBhdGguam9pbihfX2Rpcm5hbWUsICdzcmMnLCAnaW5kZXguaHRtbCcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZSAgICAgIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3NyYycsICdpbmRleC5odG1sJyksCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7412,31 +7420,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2tldmxlbmVkL2NvcHktd2VicGFjay1wbHVnaW4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
+      <register name="3" type="4">
+        <text>=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>L</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>R</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gQm9vdHN0cmFwIDMK</text>
+      <register name="6" type="4">
+        <text>U</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICcuL3N0YXJ0ZXItdGVsYXRlLmNzcyc7Cg==</text>
+        <text encoding="base64">W0ludGVybmV0U2hvcnRjdXRdCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>p</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
-      <register name="9" type="4">
-        <text>m</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
