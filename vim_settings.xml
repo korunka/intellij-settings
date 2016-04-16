@@ -154,11 +154,10 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460668771291">
-        <mark key="[" line="20" column="73" />
-        <mark key="]" line="20" column="68" />
-        <mark key="." line="20" column="68" />
-        <mark key="^" line="20" column="68" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460818205052">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1460640652738">
         <mark key="[" line="34" column="0" />
@@ -7382,7 +7381,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZSAgICAgIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3NyYycsICdpbmRleC5odG1sJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -7394,7 +7393,7 @@
         <text encoding="base64">ICAgICAgdGVtcGxhdGUgICAgICA6IHBhdGguam9pbihfX2Rpcm5hbWUsICdzcmMnLCAnaW5kZXguaHRtbCcpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZSAgICAgIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3NyYycsICdpbmRleC5odG1sJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7420,31 +7419,31 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8gb3ByYXMKcmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL2hhcmJvLXNhbXVlbHNvbi0xODk2LmpwZycpOwpyZXF1aXJlKCchZmlsZT9uYW1lPWFzc2V0cy9bbmFtZV0uW2V4dF0hLi9hc3NldHMvY2VzdGEtbWFwYS5wbmcnKTsKcmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL3Zhc2VrLW1seW5hcmlrLmpwZycpOwpyZXF1aXJlKCchZmlsZT9uYW1lPWFzc2V0cy9bbmFtZV0uW2V4dF0hLi9hc3NldHMvdmstYmxlc2stbG9nby5wbmcnKTsKcmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL3Zlc2xpY2UtZW1pbGlvLXBlcGUuanBnJyk7CnJlcXVpcmUoJyFmaWxlP25hbWU9YXNzZXRzL1tuYW1lXS5bZXh0XSEuL2Fzc2V0cy92ZXNsaWNlLWphbWllLWphbWVzLmpwZycpOwpyZXF1aXJlKCchZmlsZT9uYW1lPWFzc2V0cy9bbmFtZV0uW2V4dF0hLi9hc3NldHMvdmVzbGljZS1wbGFrYXQtY3ouanBnJyk7CnJlcXVpcmUoJyFmaWxlP25hbWU9YXNzZXRzL1tuYW1lXS5bZXh0XSEuL2Fzc2V0cy92ay1ibGVzay1tbGFkZXotMS5qcGcnKTsKcmVxdWlyZSgnIWZpbGU/bmFtZT1hc3NldHMvW25hbWVdLltleHRdIS4vYXNzZXRzL3ZrLWJsZXNrLW1sYWRlei0yLmpwZycpOwpyZXF1aXJlKCchZmlsZT9uYW1lPWFzc2V0cy9bbmFtZV0uW2V4dF0hLi9hc3NldHMvdmstYmxlc2stbWxhZGV6LTMuanBnJyk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB0ZW1wbGF0ZSAgICAgIDogcGF0aC5qb2luKF9fZGlybmFtZSwgJ3NyYycsICdpbmRleC5odG1sJyksCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL2tldmxlbmVkL2NvcHktd2VicGFjay1wbHVnaW4K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>L</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>R</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>U</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">W0ludGVybmV0U2hvcnRjdXRdCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgQ29weVdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdjb3B5LXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICMwMGIzZWU7Cg==</text>
+        <text encoding="base64">W0ludGVybmV0U2hvcnRjdXRdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
