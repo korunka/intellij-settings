@@ -284,11 +284,11 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1460659542597">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1460901430563">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
+        <mark key="^" line="6" column="21" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/models/page.model.ts" timestamp="1459945870585">
         <mark key="[" line="0" column="0" />
@@ -362,7 +362,7 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/en.json" timestamp="1460898009048">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/en.json" timestamp="1460898038432">
         <mark key="[" line="7" column="57" />
         <mark key="]" line="7" column="56" />
         <mark key="." line="7" column="56" />
@@ -7467,7 +7467,7 @@
         <text>O</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -7521,8 +7521,8 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
