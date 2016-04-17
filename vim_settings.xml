@@ -350,7 +350,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.ts" timestamp="1460919335645">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/login/login.component.ts" timestamp="1460920507919">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="18" column="28" />
@@ -7467,7 +7467,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -7516,13 +7516,13 @@
         <entry>Wa</entry>
         <entry>d</entry>
         <entry>e</entry>
-        <entry>wqa</entry>
         <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
