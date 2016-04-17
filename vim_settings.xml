@@ -91,10 +91,10 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.component.html" timestamp="1460642119585">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.component.html" timestamp="1460909911343">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/app.component.ts" timestamp="1460902774101">
         <mark key="[" line="14" column="66" />
@@ -191,7 +191,7 @@
         <mark key="." line="28" column="62" />
         <mark key="^" line="28" column="62" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460665177461">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460909881692">
         <mark key="[" line="146" column="0" />
         <mark key="]" line="148" column="9" />
         <mark key="." line="146" column="0" />
@@ -285,11 +285,10 @@
         <mark key="^" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1460901430563">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.html" timestamp="1460910059786">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/models/page.model.ts" timestamp="1459945870585">
         <mark key="[" line="0" column="0" />
@@ -7403,10 +7402,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmFuc2xhdGVTZXJ2aWNlLCBUcmFuc2xhdGVQaXBlLCBMYW5nQ2hhbmdlRXZlbnR9IGZyb20gJ25nMi10cmFuc2xhdGUvbmcyLXRyYW5zbGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgPGhyLz4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>bet</text>
@@ -7415,7 +7414,7 @@
         <text>'navigace.o-ceste.key'|translate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtUcmFuc2xhdGVTZXJ2aWNlLCBUcmFuc2xhdGVQaXBlLCBMYW5nQ2hhbmdlRXZlbnR9IGZyb20gJ25nMi10cmFuc2xhdGUvbmcyLXRyYW5zbGF0ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgPGhyLz4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7440,32 +7439,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZWRpcmVjdChxdWVyeSwgaW50ZXJwb2xhdGVQYXJhbXMpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">PC9kaXY+</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICA8bmF2aWdhdGlvbi1jb21wb25lbnQ+PC9uYXZpZ2F0aW9uLWNvbXBvbmVudD4K</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>a</text>
+      <register name="6" type="2">
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>v</text>
+      <register name="7" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4K</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHtUcmFuc2xhdGVTZXJ2aWNlLCBUcmFuc2xhdGVQaXBlLCBMYW5nQ2hhbmdlRXZlbnR9IGZyb20gJ25nMi10cmFuc2xhdGUvbmcyLXRyYW5zbGF0ZSc7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5yZWRpcmVjdChxdWVyeSwgaW50ZXJwb2xhdGVQYXJhbXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
