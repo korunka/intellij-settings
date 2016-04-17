@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/blog/blog.component.ts" timestamp="1460890742616">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/blog/blog.component.ts" timestamp="1460897264077">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/HomeComponent/home.component.html" timestamp="1459932412112">
         <mark key="[" line="0" column="0" />
@@ -25,11 +26,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1460641473075">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="21" column="12" />
-        <mark key="^" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1460897291344">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.scss" timestamp="1460018466948">
         <mark key="[" line="3" column="34" />
@@ -37,7 +38,7 @@
         <mark key="^" line="3" column="49" />
         <mark key="." line="3" column="49" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/index.html" timestamp="1460894864844">
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/index.html" timestamp="1460896168896">
         <mark key="[" line="6" column="102" />
         <mark key="]" line="8" column="84" />
         <mark key="^" line="8" column="84" />
@@ -160,16 +161,17 @@
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/cs.json" timestamp="1460893444520">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="1" column="29" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/cs.json" timestamp="1460897223297">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460890644414">
-        <mark key="[" line="3" column="89" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/main.ts" timestamp="1460896922757">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/package.json" timestamp="1460890363124">
         <mark key="[" line="25" column="30" />
@@ -182,11 +184,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460665312276">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="7" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460897159870">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="31" column="13" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460665177461">
         <mark key="[" line="146" column="0" />
@@ -360,11 +362,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/en.json" timestamp="1460893439749">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="29" />
-        <mark key="." line="1" column="29" />
-        <mark key="^" line="1" column="29" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/en.json" timestamp="1460897234418">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/package.json" timestamp="1460034940985">
         <mark key="[" line="44" column="0" />
@@ -7399,20 +7401,20 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>L</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwaXBlczogW1RyYW5zbGF0ZVBpcGVdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>[routerLink]=&quot;['/Home']&quot;</text>
       </register>
       <register name="/" type="4">
         <text>bet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiaGVsbG8td29ybGQiIDogImFob2ogc3bsdGUiCg==</text>
+        <text encoding="base64">ICBwaXBlczogW1RyYW5zbGF0ZVBpcGVdLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>L</text>
+        <text>[routerLink]=&quot;['/Home']&quot;</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7438,34 +7440,34 @@
         </keys>
       </register>
       <register name="2" type="4">
-        <text>R</text>
+        <text encoding="base64">IChjbGljayk9ImNoYW5nZUxhbmd1YWdlKCdlbicpIg==</text>
       </register>
       <register name="3" type="4">
-        <text>O</text>
+        <text>L</text>
       </register>
       <register name="4" type="4">
-        <text>W</text>
+        <text>R</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
         <text>O</text>
       </register>
+      <register name="6" type="4">
+        <text>W</text>
+      </register>
       <register name="7" type="4">
-        <text>L</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>L</text>
+        <text>O</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>E</text>
+        <text>L</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -7518,9 +7520,9 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
