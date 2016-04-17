@@ -155,11 +155,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1460377088672">
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/page/page.component.ts" timestamp="1460902132987">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="27" column="107" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/i18n/cs.json" timestamp="1460897993143">
         <mark key="[" line="6" column="22" />
@@ -7402,7 +7402,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzd2l0Y2gubGFuZy0tY3plY2giOiAicPhlcG5vdXQgZG8g6GWadGlueSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IGFueSA9IGphc21pbmUuYW55Owo=</text>
       </register>
       <register name="-" type="4">
         <text>'posadka'</text>
@@ -7414,7 +7414,7 @@
         <text>'navigace.o-ceste.key'|translate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzd2l0Y2gubGFuZy0tY3plY2giOiAicPhlcG5vdXQgZG8g6GWadGlueSIsCg==</text>
+        <text encoding="base64">aW1wb3J0IGFueSA9IGphc21pbmUuYW55Owo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -7440,31 +7440,31 @@
         </keys>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICJzd2l0Y2gubGFuZy0tY3plY2giOiAicPhlcG5vdXQgZG8g6GWadGlueSIsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICJzd2l0Y2gtbGFuZy1lbmdsaXNoIjogInN3aXRjaCB0byBlbmdsaXNoIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>'posadka'</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJvLWNlc3RlIjoib3VyLWpvdXJuZXkiCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>[routerLink]=&quot;['/Home']&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IChjbGljayk9ImNoYW5nZUxhbmd1YWdlKCdlbicpIg==</text>
       </register>
-      <register name="7" type="4">
-        <text>L</text>
-      </register>
       <register name="8" type="4">
-        <text>R</text>
+        <text>L</text>
       </register>
       <register name="x" type="4">
         <text>:</text>
       </register>
       <register name="9" type="4">
-        <text>O</text>
+        <text>R</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
