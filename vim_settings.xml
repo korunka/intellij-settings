@@ -26,11 +26,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1460930887023">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.ts" timestamp="1460992624202">
+        <mark key="[" line="33" column="23" />
+        <mark key="]" line="33" column="37" />
+        <mark key="." line="33" column="37" />
+        <mark key="^" line="33" column="37" />
       </file>
       <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.scss" timestamp="1460018466948">
         <mark key="[" line="3" column="34" />
@@ -191,11 +191,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460930913743">
-        <mark key="[" line="62" column="70" />
-        <mark key="]" line="62" column="97" />
-        <mark key="." line="62" column="97" />
-        <mark key="^" line="62" column="97" />
+      <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.html" timestamp="1460992257029">
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="72" column="44" />
+        <mark key="." line="72" column="44" />
+        <mark key="^" line="72" column="44" />
       </file>
       <file name="D:/Projekty/Czech Atlantic Row/czech-atlantic-row-web/src/app/components/navigation/navigation.component.scss" timestamp="1460909881692">
         <mark key="[" line="146" column="0" />
@@ -379,7 +379,7 @@
         <mark key="^" line="14" column="30" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.ts" timestamp="1460991038702">
+      <file name="D:/Projekty/Loterie Korunka/korunka5-frontend-broiler-plate/src/client/components/bet/bet.component.ts" timestamp="1460991246637">
         <mark key="[" line="15" column="59" />
         <mark key="]" line="15" column="57" />
         <mark key="^" line="15" column="57" />
@@ -7406,8 +7406,8 @@
           <key char="65535" code="38" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KXsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICNlbGVtZW50CiAgICAgICAgIChtb3VzZW92ZXIpPSJvbkxpbmtIb3ZlcihlbGVtZW50KSIKICAgICAgICAgKG1vdXNlbGVhdmUpPSJvbkxpbmtIb3ZlcihlbGVtZW50KSI=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -7416,7 +7416,7 @@
         <text>bet</text>
       </register>
       <register name="0" type="4">
-        <text>'navigace.o-ceste.key'|translate</text>
+        <text encoding="base64">CiAgICAgICAgICNlbGVtZW50CiAgICAgICAgIChtb3VzZW92ZXIpPSJvbkxpbmtIb3ZlcihlbGVtZW50KSIKICAgICAgICAgKG1vdXNlbGVhdmUpPSJvbkxpbmtIb3ZlcihlbGVtZW50KSI=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZShmdW5jdGlvbiAocmVzb2x2ZSwgcmVqZWN0KXsK</text>
